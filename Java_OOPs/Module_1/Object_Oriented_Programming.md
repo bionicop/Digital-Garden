@@ -37,7 +37,3 @@ Tags:: #OOPS #Object_Oriented_Programming
 2.	Encapsulation
 3.	Polymorphism
 4.	Inheritance
-
-
-## 🎯 Actions
-- [ ] 
