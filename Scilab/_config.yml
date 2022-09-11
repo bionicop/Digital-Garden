@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-relative-links
+  
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - index.md
+  - 2022-08-12.md
+  - 2022-08-16.md
+  - Cheat_Sheet.md
