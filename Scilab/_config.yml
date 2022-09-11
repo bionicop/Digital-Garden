@@ -1,9 +1,24 @@
+title: Scilab Notes
+description: >-
+  This Rep will consist of Scilab Notes and Code from College.
+
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
   
 relative_links:
   enabled: true
   collections: true
+
+theme: just-the-docs
 
 include:
   - index.md
