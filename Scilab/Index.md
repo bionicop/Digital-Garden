@@ -1,18 +1,12 @@
 ---
-creation date: <% tp.file.creation_date() %>
-modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY") %>
-aliases: [] 
-tags: 
+creation date: 2022-09-11
+modification date: Monday 12th September 2022
+aliases: [Index] 
+tags: Index
 ---
 
-# 📕 Syallbus
+# 📕 Index
 
-##  #1 - [[Procedure_Oriented_Programming|Procedure-Oriented Programming]]
-- [[Procedure_Oriented_Programming|Procedure-Oriented Programming]]
-    - 
+##  #1 - [[2022-08-12|Day 1]]
 
-## #2 - [[Object_Oriented_Programming|Object-Oriented programming]]
-- [[]]
-    - 
-
-## #3 - Benefits of OOP
+##  #2 - [[2022-08-16|Day 2]]
