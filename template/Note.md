@@ -5,9 +5,11 @@ aliases: []
 tags: 
 ---
 
+<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] >>
+
 # ❗❓ Info
 Course Name: 
-Date: <% tp.file.creation_date() %>
+Date: <% tp.file.creation_date("dddd Do MMMM YYYY") %>
 Professor/Speaker: 
 Tags: #
 
