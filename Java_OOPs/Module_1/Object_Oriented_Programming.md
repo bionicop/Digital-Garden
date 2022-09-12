@@ -1,15 +1,19 @@
 ---
-created: ["{{07/09/22}} {{time}}"]
-aliases: ["{{Object-Oriented programming}}"]
+creation date: 2022-09-07
+modification date: Monday 12th September 2022
+aliases: [Object-Oriented programming]
 tags:
 - OOPS
+- Object_Oriented_Programming 
 ---
 
-# ❗❓ Information
-Related to Course:: BCA 3rd Sem
-Date:: 8th September, 2022
-Professor/Speaker::
-Tags:: #OOPS #Object_Oriented_Programming
+
+# ❗❓ Info
+Course Name: Java OOPs
+Date: Thursday 7th September 2022
+Professor/Speaker: 
+Tags: #OOPS #Object_Oriented_Programming 
+
 
 ---
 # 📑 Object-Oriented programming

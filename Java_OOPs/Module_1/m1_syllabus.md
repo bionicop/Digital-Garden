@@ -1,8 +1,12 @@
 ---
-aliases: ["Index"]
-tags:
-- Module1/Syllabus
+creation date: 2022-09-08
+modification date: Monday 12th September 2022
+aliases: [Index] 
+tags: 
+- Module1
+- Syllabus
 ---
+
 # Module 1
 ---
 # 📕 Syallbus
