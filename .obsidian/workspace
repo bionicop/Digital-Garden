@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Scilab/Classes_Notes/2022-09-09.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -130,14 +130,14 @@
   },
   "active": "d3446120bc74df41",
   "lastOpenFiles": [
+    "template/Note.md",
+    "Scilab/Classes_Notes/2022-09-09.md",
     "Scilab/Classes_Notes/2022-09-02.md",
     "Scilab/Classes_Notes/2022-08-16.md",
     "Scilab/Classes_Notes/2022-08-12.md",
-    "Scilab/Classes_Notes/2022-09-09.md",
     "Scilab/Attachment/Image/3d_plot.png",
     "Scilab/Classes_Notes/index.md",
     "Scilab/Classes_Notes/Cheat_Sheet.md",
-    "template/Note.md",
     "index.md",
     "Scilab/Cheat Sheet.md"
   ]
