@@ -7,7 +7,7 @@ tags:
 - Syllabus
 ---
 
-<< [[2022-09-16]] | [[2022-09-18]] >>
+ | [[2022-09-17]] >>
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -19,8 +19,8 @@ Tags: #Internet_Technologies
 ---
 # 📕 Syallbus
 
-##  #1 - [[2022-09-17Internet_Basics#|Internet Basics]]
-- [[2022-09-17Internet_Basics#What is the Internet|Introduction to Internet]]
+##  #1 - [[2022-09-17#|Internet Basics]]
+- [[2022-09-17#What is the Internet|Introduction to Internet]]
 - [[|Client Server model]]
 - [[|Internet IP Address]]
 - [[|Domain Name]]
