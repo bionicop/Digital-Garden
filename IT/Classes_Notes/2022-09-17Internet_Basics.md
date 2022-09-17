@@ -37,7 +37,7 @@ Tags: #Internet_Technologies
 			- [Flash Memory](#flash-memory)
 			- [Fax Capability](#fax-capability)
 
-
+---
 ## **What is the Internet?**
 - The Internet is a vast network that connects [computers](/Side_Notes/computer.md) all over the world
 - Computers in a network capable of sharing resources (memory, peripherals).
@@ -85,6 +85,7 @@ Tags: #Internet_Technologies
 - It ranges from **512K** to **2.0 Mbps**.
 
 
+---
 ## **Modem**
 - Modem stands for **Modulator** and **Demodulator**.
 - Device that enables a computer to *transmit data over* **telephone or cable lines**.
@@ -119,3 +120,10 @@ Tags: #Internet_Technologies
 
 #### Fax Capability
 - *Can* **send** and **receive faxes**.
+
+---
+## **Standards Of Data Communication**
+
+### **CCIT**
+- CCIT *stands for* **Consultative Committee for International Telephony and Telegraphy.**
+- 
