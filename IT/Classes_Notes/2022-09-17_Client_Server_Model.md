@@ -22,7 +22,10 @@ Tags: #Internet_Technologies
 - [Client Server Model](#Client-Server-Model)
 	- [Types of Servers](#Type-of-Servers)
 - [Protocol](#Protocol)
-- 
+	- [Standard Protocols](#Standard-Protocols)
+	- [Types of Protocol](#Types-of-Protocol)
+- [SMTP](#SMTP)
+- [POP](#POP)
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -48,7 +51,7 @@ graph TD
 ## **Protocol**
 - Protocols are a *fundamental aspect* of *digital communication* as they **dictate how to format, transmit and receive data**. They are a **set of rules** *that determines how* the ==data will be transmitted over the network==.
 
-### **Standard protocols**
+### **Standard Protocols** *(Note- have to check this later)*
 - Standard protocols are *agreed and accepted* by the **whole computing industry**. It is **not vendor specific**.
 
 ### **Types of Protocol**
@@ -67,3 +70,5 @@ graph TD
 - SMTP *stands for* **Simple Mail Transfer Protocol**.
 - It is an **email communication protocol** that is used by *mail servers* to ==send emails from one account to another via the internet==.
 - It uses **port 25**.
+
+## **POP**
