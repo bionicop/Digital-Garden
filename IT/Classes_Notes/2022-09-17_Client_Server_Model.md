@@ -166,8 +166,8 @@ graph TD
 ```
 - ### **Class A Network**
 	- General form is **N.H1.H2.H3**
-		- (N - {*Network ID*} ranges from **1 to 127**)
-		- (H1, H2, H3 - {*Hosts*} ranges from **0 to 255**)
+		- (**N** - {*Network ID*} *ranges* from **1 to 127**)
+		- (**H1**, **H2**, **H3** - {*Hosts*} *ranges* from **0 to 255**)
 	- The number of networks and the number of hosts per class can be derived by this formula :-
 		- Number of networks -> (2<sup>network_bits</sup>)
 		- Number of hosts/Network -> (2<sup>host_bits</sup> - 2)
@@ -181,6 +181,17 @@ graph TD
 
 - ### **Class B Network**
 	- General form is **N1.N2.H1.H2**
-	- 
+		- (**N1** *ranges* from **128 – 191**)
+		- (**N2** *ranges* from **0 – 255**)
+		- (**H1** and **H2** *may range* from **0 to 255**)
+	- w
+		- w
+		- w
+	- The *first two bits* in the **first octet** set to **10**.
+		- **ex-** 10000000 - 10111111 (128 - 191)
+	- w
+	- Class B has **16384 (2<sup>14</sup>) Network addresses** and **65534 (2<sup>16</sup>-2) Host addresses**.
+		- thus *Class B IP address format* is-
+			- 10NNNNNN.NNNNNNNN.HHHHHHHH.HHHHHHHH
 - ### **Class C Network**
 	- w
