@@ -19,24 +19,33 @@ Tags: #Internet_Technologies
 # 📑 Internet Technologies
 
 ## 📃 Summary of Notes
--   - [Internet Basics](#)
-      - [Classes](#classes)
-      - [Object](#object)
+- [Internet Basics](#)
+	- [What is the Internet?](#what_is_the_internet)
+	- [](#)
 
 
-## What is the Internet?
+## **What is the Internet?**
 - The Internet is a vast network that connects [computers](Side_Notes/computer) all over the world
-- Numerical Calulation.
-- This Program runs on Matrix.
+- Computers in a network capable of sharing resources (memory, peripherals).
+- Internet is **Dectenralized** by *design*.
+- Each Internet computer, called a **host**, is *independent*.
+- *Most users* get access to the internet through An **Internet Service Provider** (ISP). 
 
-## What can we do with Scilab?
-- Basic Maths
-- 2-D & 3-D Visualization
-- Optimization
-- Statistics
-- Control Systems
-- Signal Processing
-- Application Development
+## **Types Of Internet Connections**
+- Dial-Up
+	- Dial-up connections require users to link their **phone line** to a *computer* in order to access the Internet.
+	- It does not permit users to ==make or receive phone calls== through their home phone service *while using the Internet*.
+	- 
+- DSL
+	- 
+- Cable
+	- 
+- Wireless
+	- 
+- Satellite
+	- 
+- Cellular
+	- 
 
 
 ## Some Basic Notes

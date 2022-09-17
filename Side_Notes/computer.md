@@ -4,6 +4,7 @@ You may already know that you can use a computer to **type documents**, **send
 
 You can also use it to edit or create **spreadsheets**, **presentations**, and even **videos**.
 
+
 # **Hardware** vs **Software**
 | **Hardware**                                                                                                       | **Software**                                                                                           |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |

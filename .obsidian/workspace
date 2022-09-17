@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "390952e6b32ee7da",
+        "id": "40a33e18ca07d51e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Side_Notes/computer.md",
+            "file": "IT/Classes_Notes/type_of_internet_connection.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side_Notes/computer.md",
+                "file": "IT/Classes_Notes/type_of_internet_connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side_Notes/computer.md",
+                "file": "IT/Classes_Notes/type_of_internet_connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side_Notes/computer.md"
+                "file": "IT/Classes_Notes/type_of_internet_connection.md"
               }
             }
           },
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "390952e6b32ee7da",
+  "active": "40a33e18ca07d51e",
   "lastOpenFiles": [
     "IT/Classes_Notes/2022-09-Internet_Basics.md",
+    "IT/Classes_Notes/type_of_internet_connection.md",
     "IT/Classes_Notes/m1_syllabus.md",
+    "IT/Classes_Notes/Untitled.md",
     "Side_Notes/computer.md",
     "computer.md",
     "().md",
     "IT/Classes_Notes/2022-08-12 1.md",
     "template/Note.md",
-    "Scilab/Classes_Notes/2022-09-09.md",
-    "Scilab/Classes_Notes/2022-09-02.md",
-    "Scilab/Classes_Notes/2022-08-16.md"
+    "Scilab/Classes_Notes/2022-09-09.md"
   ]
 }
