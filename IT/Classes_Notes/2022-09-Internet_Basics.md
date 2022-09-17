@@ -35,7 +35,8 @@ Tags: #Internet_Technologies
 - Dial-Up
 	- Dial-up connections require users to link their **phone line** to a *computer* in order to access the Internet.
 	- It does not permit users to ==make or receive phone calls== through their home phone service *while using the Internet*.
-	- 
+	- Dial-up access is *cheap* **but slow.**
+
 - DSL
 	- 
 - Cable
