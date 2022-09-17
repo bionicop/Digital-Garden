@@ -30,7 +30,7 @@ Tags: #Internet_Technologies
 
 
 ## **What is the Internet?**
-- The Internet is a vast network that connects [computers](IT/Classes_Notes/Side_Notes/computer.md) all over the world
+- The Internet is a vast network that connects [computers](/Side_Notes/computer.md) all over the world
 - Computers in a network capable of sharing resources (memory, peripherals).
 - Internet is **Dectenralized** by *design*.
 - Each Internet computer, called a **host**, is *independent*.
