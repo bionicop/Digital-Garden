@@ -150,4 +150,28 @@ graph TD
 ---
 # **Internet IP Address**
 - IP stands for "Internet Protocol," 
-- An IP address is a **unique address** that *identifies a device on the internet* or a *local network*. which is the set of rules governing the format of data sent via the internet or local network.
+- An IP address is a **unique address** that *identifies a device on the internet* or a *local network*. which is the *set of rules governing the format of data* sent via the *internet or local network*.
+- *IP addresses are expressed* as a **set of four numbers** *separated by period.* 
+- *ex -* 18.10.200.14 , 185.25.85.141
+- *Each number* in the **array is an eight bit integer** called an **octet**.
+- The *set can range* from **0 to 255**.
+
+## **Classes Of Network** 
+- **3 classes** of *Networks depending* on the number of hosts it can handle.
+```mermaid
+graph TD
+    A(Classes Of Networks ) --> B(Class A Networks) --> 1(Can handle a large number of hosts.)
+    A --> C(Class B Networks) --> 2(Moderate number of hosts.)
+    A --> D(Class C Networks) --> 3(Small number of hosts.)
+```
+- ### **Class A Network**
+	- General form is **N.H1.H2.H3** 
+	- (N - {Network ID} ranges from **1 to 127**)
+	- (H1, H2, H3 - {Hosts} ranges from **0 to 255**)
+	- The number of networks and the number of hosts per class can be derived by this formula:-
+		- Number of networks -> 2<sup>network_bits</sup>
+		- Number of hosts/Network -> 2<sup>host_bits</sup>-2
+- ### **Class B Network**
+	- w
+- ### **Class C Network**
+	- w
