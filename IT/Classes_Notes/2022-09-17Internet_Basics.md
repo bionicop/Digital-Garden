@@ -30,6 +30,12 @@ Tags: #Internet_Technologies
 	- [Modem](#modem)
 		- [Internal and External Modem](#Internal-and-External-Modem)
 		- [Characteristics of Modem](#characteristics-of-modem)
+			- [Speed Of Transmission](#speed-of-transmission)
+			- [Modes supported](#modes-supported)
+			- [Auto-answer](#auto-answer)
+			- [Data compression](#data-compression)
+			- [Flash Memory](#flash-memory)
+			- [Fax Capability](#fax-capability)
 
 
 ## **What is the Internet?**
@@ -105,11 +111,11 @@ Tags: #Internet_Technologies
 #### Auto-answer
 - Enables to *receive your calls* in **your absence**.
 
-#### Data compression
+#### Data Compression
 - Some modems perform data compression, which enables them to send **data at faster rates**. *However*, the modem at the *receiving end must* be able to ==decompress the data using the same compression technique==.
 
 #### Flash Memory
 - *Communication protocols* can be **easily updated**.
 
-#### Fax capability
+#### Fax Capability
 - *Can* **send** and **receive faxes**.
