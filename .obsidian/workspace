@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "40a33e18ca07d51e",
+        "id": "45cc1a5d4acf4366",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Classes_Notes/2022-09-Internet_Basics.md",
+            "file": "IT/Classes_Notes/2022-09-17Internet_Basics.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Scilab",
+                "query": "tag:#what-is-the-Internet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Classes_Notes/2022-09-Internet_Basics.md",
+                "file": "IT/Classes_Notes/2022-09-17Internet_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Classes_Notes/2022-09-Internet_Basics.md",
+                "file": "IT/Classes_Notes/2022-09-17Internet_Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Classes_Notes/2022-09-Internet_Basics.md"
+                "file": "IT/Classes_Notes/2022-09-17Internet_Basics.md"
               }
             }
           },
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40a33e18ca07d51e",
+  "active": "45cc1a5d4acf4366",
   "lastOpenFiles": [
+    "().md",
+    "IT/Classes_Notes/2022-09-17Internet_Basics.md",
     "IT/Classes_Notes/m1_syllabus.md",
+    "Types Of Internet Connections^.md",
     "Side_Notes/type_of_internet_connection.md",
-    "IT/Classes_Notes/2022-09-Internet_Basics.md",
     "IT/Classes_Notes/Untitled.md",
     "Side_Notes/computer.md",
     "computer.md",
-    "().md",
     "IT/Classes_Notes/2022-08-12 1.md",
-    "template/Note.md",
-    "Scilab/Classes_Notes/2022-09-09.md"
+    "template/Note.md"
   ]
 }

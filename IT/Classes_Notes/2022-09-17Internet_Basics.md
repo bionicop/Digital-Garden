@@ -20,8 +20,13 @@ Tags: #Internet_Technologies
 
 ## 📃 Summary of Notes
 - [Internet Basics](#)
-	- [What is the Internet?](#what_is_the_internet)
-	- [](#)
+	- [What is the Internet?](#what-is-the-Internet)
+	- [Types Of Internet Connections]()
+		- [Dial-Up](#Dial-up)
+		- [DSL](#DSL)
+		- [Cable](#Cable)
+		- [Wireless](#Wireless)
+		- [Cellular](#Cellular)
 
 
 ## **What is the Internet?**
@@ -59,3 +64,5 @@ Tags: #Internet_Technologies
 	- *well, typing directly into console has TWO disadvantages.*
 		1. It is **NOT** possible to save command.
 		2. It is **NOT** easy to edit multiple lines of instruction.
+
+

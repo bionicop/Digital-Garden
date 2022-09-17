@@ -19,8 +19,8 @@ Tags: #Internet_Technologies
 ---
 # 📕 Syallbus
 
-##  #1 - [[2022-09-Internet_Basics#|Internet Basics]]
-- [[2022-09-Internet_Basics#What is the Internet|Introduction to Internet]]
+##  #1 - [[2022-09-17Internet_Basics#|Internet Basics]]
+- [[2022-09-17Internet_Basics#What is the Internet|Introduction to Internet]]
 - [[|Client Server model]]
 - [[|Internet IP Address]]
 - [[|Domain Name]]
