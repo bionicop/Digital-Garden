@@ -27,6 +27,8 @@ Tags: #Internet_Technologies
 		- [Cable](#cable)
 		- [Wireless](#wireless)
 		- [Cellular](#cellular)
+	- [Modem](#modem)
+		- [Internal and External Modem](#Internal-and-External-Modem)
 
 
 ## **What is the Internet?**
@@ -76,11 +78,15 @@ Tags: #Internet_Technologies
 - It ranges from **512K** to **2.0 Mbps**.
 
 
-## Some Basic Notes
-1. We should write down our code on the Scilab editor notes.
-	- **WHY** you *ask*?
-	- *well, typing directly into console has TWO disadvantages.*
-		1. It is **NOT** possible to save command.
-		2. It is **NOT** easy to edit multiple lines of instruction.
+## **Modem**
+- Modem stands for **Modulator** and **Demodulator**.
+- Device that enables a computer to *transmit data over* **telephone or cable lines**.
+- Converts a *computer’s digital signals* into *specific frequencies* to ==travel over telephone or cable television lines==.
+- A *modem transmits data* in **Bits Per Second (bps)**.
 
+### **Internal and External Modem**
+| **Internal Modem**                                                                                                                                                                        | **External Modem**                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| As the name suggests _internal modem_ is an **internal part inside a computer**. It usually comes with the *computer pre-installed*. It can be **powered** using the ==computer's own power supply.== | An external modem is similar to the internal modem in that it also allows access to the Internet, but *unlike the internal modem*, The _external modem_ **sits outside** the computer.       |
+| It takes _one_ of the **expansion slots**.                                                                                                                                                  | The **modem typically connects** to the computer *via a serial or USB cable*, and is ==usually powered by an external source==, *rather then the computer*.                                      | 
 
