@@ -33,6 +33,8 @@ Tags: #Internet_Technologies
 	- [Router](#Router)
 	- [WAP](#WAP)
 	- [Bluetooth](#Bluetooth)
+	- [SOAP](#SOAP)
+	- [IIOP](#IIOP)
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -123,4 +125,12 @@ graph TD
 - [*WML*](#wml) is specifically designed for **small screens**.
 
 ## **Bluetooth**
-- 
+- **Short range radio** technology *aimed at simplifying communications*.
+- *Simplifies data synchronization* between ==net devices and other computers==.
+
+## **SOAP**
+- SOAP *stands for* **Simple Object Access Protocol**.
+- It is a *messaging protocol* allowing programs to *communicate between different operating systems* such as ==Windows and Linux==. 
+- It uses **XML for format its messages** while using *HTTP* and [*SMTP*](#SMTP) to ==transmit those messages over a network==.
+
+## **IIOP**
