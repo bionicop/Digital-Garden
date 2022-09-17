@@ -27,14 +27,16 @@ Tags: #Internet_Technologies
 		- [SMTP](#SMTP)
 		- [POP](#POP)
 		- [TCP/IP](#TCP/IP)
-	- [Packet Switching](#Packet_Switching)
-		- [Packets](#Packets)
-		- [Switching](#Switching)
-	- [Router](#Router)
-	- [WAP](#WAP)
-	- [Bluetooth](#Bluetooth)
-	- [SOAP](#SOAP)
-	- [IIOP](#IIOP)
+- [Packet Switching](#Packet_Switching)
+	- [Packets](#Packets)
+	-  [Switching](#Switching)
+- [Router](#Router)
+- [WAP](#WAP)
+- [Bluetooth](#Bluetooth)
+- [SOAP](#SOAP)
+- [IIOP](#IIOP)
+- [Internet IP Address](#Internet-IP-Address)
+- 
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -58,13 +60,13 @@ graph TD
 ```
 
 ---
-## **Protocol**
+# **Protocol**
 - Protocols are a *fundamental aspect* of *digital communication* as they **dictate how to format, transmit and receive data**. They are a **"set of rules"** *that determines how* the ==data will be transmitted over the network==.
 
-### **Standard Protocols** *(Note- have to check this later)*
+## **Standard Protocols** *(Note- have to check this later)*
 - Standard protocols are *agreed and accepted* by the **whole computing industry**. It is **not vendor specific**.
 
-### **Types of Protocol**
+## **Types of Protocol**
 ```mermaid
 graph TD
     A(Protocol) --> B(SMTP)
@@ -77,12 +79,12 @@ graph TD
 ```
 *and many more..*
 
-#### **SMTP**
+### **SMTP**
 - SMTP *stands for* **Simple Mail Transfer Protocol**.
 - It is an **email communication protocol** that is used by *mail servers* to ==send emails from one account to another via the internet==.
 - It uses **port 25**.
 
-#### **POP**
+### **POP**
 - POP *stands for* **Post Office Protocol**.
 - Used to retrieve e-mail from a mail server
 - *Newer protocol* to do this is [**IMAP**](#IMAP).
@@ -90,18 +92,18 @@ graph TD
 	- POP 2 - **Requires SMTP** *to send messages*.
 	- POP 3 - *Can Send messages* **with or without SMTP**.
 
-#### **TCP/IP**
+### **TCP/IP**
 
-## **Packet Switching**
+# **Packet Switching**
 - Packet switching is one of the *key concepts of the Internet*.
 - It is also known as **Routing** refers to the ==job of transferring the data packets to an appropriate computer==. This involves the use of *two separate concepts*, **packets** & **switching**.
 - **Packet switching** is a method of transferring the *data to a network* in the form of **packets**. 
 
-##### **Packets**
+## **Packets**
 - In order to *transfer* the ==files fast and efficiently manner over the network== and ==minimize the transmission latency==, the *data is broken down into small pieces* of ==variable length==, called **Packet**.
 - Each *packet recieves a header* containing the ==destination IP address, the sender’s IP address, the total number of packets that make up a message, and the sequence number of that packet==.
 
-##### **Switching**
+## **Switching**
 - Since the *packets are individually addressed, and numbered for sequence*, they can be *sent and received* in **any order**. This means that *packets can be switched* to **different routes** to *get to the destinations*, ==according to network traffic==.
 
 - *Routing* is done by a **router**.
@@ -114,23 +116,35 @@ graph TD
 - Datagrams of the *same message may travel through different routes* to *reach final destination*.
 - **Finally TCP protocol verifies** if *all have reached*.
 
-## **Router**
+---
+# **Router**
 - The router is a *physical or virtual internetworking device* that is *designed to receive, analyze, and forward data packets between computer networks*. A ==router examines a destination IP address of a given data packet==, and it us*es the headers and forwarding tables* to decide the **best way to transfer the packets**.
 - A router is used in **LAN** (Local Area Network) and **WAN** (Wide Area Network) environments.
 
-## **WAP**
+---
+# **WAP**
 - WAP *stands for* **Wirless Application Protocol**.
 - *Secure specification* that allows users to *access internet* via **handheld wireless devices**.
 - Supported by all **Operating Systems** (*OS*).
 - [*WML*](#wml) is specifically designed for **small screens**.
+---
 
-## **Bluetooth**
+# **Bluetooth**
 - **Short range radio** technology *aimed at simplifying communications*.
 - *Simplifies data synchronization* between ==net devices and other computers==.
 
-## **SOAP**
+---
+# **SOAP**
 - SOAP *stands for* **Simple Object Access Protocol**.
 - It is a *messaging protocol* allowing programs to *communicate between different operating systems* such as ==Windows and Linux==. 
 - It uses **XML for format its messages** while using *HTTP* and [*SMTP*](#SMTP) to ==transmit those messages over a network==.
 
-## **IIOP**
+---
+# **IIOP**
+- IIOP *stands for* **Internet Inter-ORB Protocol**.
+- It is a *protocol that makes it feasible* for ==distributed applications written in various programming languages== to *interact over the Internet*.
+- *IIOP is a vital aspect* of a **major industry standard**, the ==CORBA==.
+- IIOP by **OMG** (*Object Management Group*).
+
+---
+# **Internet IP Address**
