@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -136,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9712f382525a140d",
+  "active": "e5963bb9f6c69624",
   "lastOpenFiles": [
     "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
     "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
