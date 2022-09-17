@@ -20,8 +20,27 @@ Tags: #Internet_Technologies
 
 ## 📃 Summary of Notes
 - [Client Server Model](#Client-Server-Model)
-	- [What is the Internet?](#what-is-the-Internet?)
+	- [Types of Servers](#Type-of-Servers)
 		- [Types of Internet Connections](#types-of-internet-connections)
 ---
 # **Client Server Model**
-- 
+- The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
+
+## **Type of Servers**
+
+```mermaid
+graph TD
+
+    A[Servers] --> B[Application Server]
+    A[Servers] --> C[Audio/Video Server]
+    A[Servers] --> D[Chat Server]
+    A[Servers] --> E[Fax Server]
+    A[Servers] --> F[FTP Server]
+    A[Servers] --> G[Web Server]
+    A[Servers] --> H[Groupware Server]
+    A[Servers] --> I[IRC Server]
+    A[Servers] --> J[List Server]
+    A[Servers] --> K[Mail Server]
+    A[Servers] --> L[News Server]
+    A[Servers] --> M[Proxy Server]
+```
