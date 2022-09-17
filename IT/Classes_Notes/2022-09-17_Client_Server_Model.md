@@ -27,6 +27,7 @@ Tags: #Internet_Technologies
 - [SMTP](#SMTP)
 - [POP](#POP)
 - [TCP/IP](#TCP/IP)
+- [Packet Switching](#Packet_Switching)
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -82,3 +83,15 @@ graph TD
 	- POP 3 - *Can Send messages* **with or without SMTP**.
 
 ## **TCP/IP**
+
+## **Packet Switching**
+- Packet switching is one of the *key concepts of the Internet*.
+- It is also known as **Routing** refers to the ==job of transferring the data packets to an appropriate computer==. This involves the use of *two separate concepts*, **packets** & **switching**.
+- **Packet switching** is a method of transferring the *data to a network* in the form of **packets**. 
+
+### **Packets**
+- In order to *transfer* the ==files fast and efficiently manner over the network== and ==minimize the transmission latency==, the *data is broken down into small pieces* of ==variable length==, called **Packet**.
+- Each *packet recieves a header* containing the ==destination IP address, the sender’s IP address, the total number of packets that make up a message, and the sequence number of that packet==.
+
+### **Switching**
+- Since the *packets are individually addressed, and numbered for sequence*, they can be *sent and received* in **any order**. This means that *packets can be switched* to **different routes** to *get to the destinations*, ==according to network traffic==.
