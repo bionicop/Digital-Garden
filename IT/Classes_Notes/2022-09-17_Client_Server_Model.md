@@ -94,6 +94,7 @@ graph TD
 
 ### **TCP/IP**
 
+---
 # **Packet Switching**
 - Packet switching is one of the *key concepts of the Internet*.
 - It is also known as **Routing** refers to the ==job of transferring the data packets to an appropriate computer==. This involves the use of *two separate concepts*, **packets** & **switching**.
@@ -148,3 +149,5 @@ graph TD
 
 ---
 # **Internet IP Address**
+- IP stands for "Internet Protocol," 
+- An IP address is a **unique address** that *identifies a device on the internet* or a *local network*. which is the set of rules governing the format of data sent via the internet or local network.
