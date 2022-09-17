@@ -90,3 +90,25 @@ Tags: #Internet_Technologies
 | As the name suggests _internal modem_ is an **internal part inside a computer**. It usually comes with the *computer pre-installed*. It can be **powered** using the ==computer's own power supply.== | An external modem is similar to the internal modem in that it also allows access to the Internet, but *unlike the internal modem*, The _external modem_ **sits outside** the computer.       |
 | It takes _one_ of the **expansion slots**.                                                                                                                                                  | The **modem typically connects** to the computer *via a serial or USB cable*, and is ==usually powered by an external source==, *rather then the computer*.                                      | 
 
+## **Characteristics of Modem**
+
+### Speed Of Transmission
+- At *slow rates* modems are measured in terms of **baud rates**. 
+- At *higher speeds* modems are measured in terms of **bits/sec**.
+
+### Modes supported
+- Support a *switch to change* between **voice** and **data modes**. 
+	- Data mode – Regular modem. 
+	- Voice mode – Regular telephone.
+
+### Auto-answer
+- Enables to *receive your calls* in **your absence**.
+
+### Data compression
+- Some modems perform data compression, which enables them to send **data at faster rates**. *However*, the modem at the *receiving end must* be able to ==decompress the data using the same compression technique==.
+
+### Flash Memory
+- *Communication protocols* can be **easily updated**.
+
+### Fax capability
+- *Can* **send** and **receive faxes**.
