@@ -165,13 +165,22 @@ graph TD
     A --> D(Class C Networks) --> 3(Small number of hosts.)
 ```
 - ### **Class A Network**
-	- General form is **N.H1.H2.H3** 
-	- (N - {Network ID} ranges from **1 to 127**)
-	- (H1, H2, H3 - {Hosts} ranges from **0 to 255**)
-	- The number of networks and the number of hosts per class can be derived by this formula:-
-		- Number of networks -> 2<sup>network_bits</sup>
-		- Number of hosts/Network -> 2<sup>host_bits</sup>-2
+	- General form is **N.H1.H2.H3**
+		- (N - {*Network ID*} ranges from **1 to 127**)
+		- (H1, H2, H3 - {*Hosts*} ranges from **0 to 255**)
+	- The number of networks and the number of hosts per class can be derived by this formula :-
+		- Number of networks -> (2<sup>network_bits</sup>)
+		- Number of hosts/Network -> (2<sup>host_bits</sup> - 2)
+	- The *first bit* of the **first octet is always** set to **0**.
+		- thus the *first octet ranges from* **1 – 127**.
+		- **ex-** 00000001- 01111111
+	- There are **126 Class A Networks**. The *IP range 127* is ==reserved for loopback IP addresses==.
+	- *Class A addressing* can have **126 networks** and **16777214 hosts**(2<sup>24</sup> – 2)
+		- thus *Class A IP address format* is-
+			- 0NNNNNNN.HHHHHHHH.HHHHHHHH.HHHHHHHH
+
 - ### **Class B Network**
-	- w
+	- General form is **N1.N2.H1.H2**
+	- 
 - ### **Class C Network**
 	- w
