@@ -7,9 +7,11 @@
         "id": "40a33e18ca07d51e",
         "type": "leaf",
         "state": {
-          "type": "mindmapView",
+          "type": "markdown",
           "state": {
-            "file": "Side_Notes/type_of_internet_connection.md"
+            "file": "IT/Classes_Notes/2022-09-Internet_Basics.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side_Notes/type_of_internet_connection.md",
+                "file": "IT/Classes_Notes/2022-09-Internet_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side_Notes/type_of_internet_connection.md",
+                "file": "IT/Classes_Notes/2022-09-Internet_Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side_Notes/type_of_internet_connection.md"
+                "file": "IT/Classes_Notes/2022-09-Internet_Basics.md"
               }
             }
           },
@@ -137,9 +139,9 @@
   },
   "active": "40a33e18ca07d51e",
   "lastOpenFiles": [
-    "IT/Classes_Notes/2022-09-Internet_Basics.md",
-    "Side_Notes/type_of_internet_connection.md",
     "IT/Classes_Notes/m1_syllabus.md",
+    "Side_Notes/type_of_internet_connection.md",
+    "IT/Classes_Notes/2022-09-Internet_Basics.md",
     "IT/Classes_Notes/Untitled.md",
     "Side_Notes/computer.md",
     "computer.md",

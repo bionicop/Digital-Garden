@@ -38,7 +38,11 @@ Tags: #Internet_Technologies
 	- Dial-up access is *cheap* **but slow.**
 
 - DSL
-	- 
+	- DSL stands for **Digital Subscriber Line**.
+	- DSL uses existing *2-wire copper telephone line* connected to one's home so service is *delivered at the same time* as landline telephone service.
+	- DSL is a form of ==broadband communication== that is always **"on"**.
+	- Customers can still place calls while surfing the Internet.
+
 - Cable
 	- 
 - Wireless
