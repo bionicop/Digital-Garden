@@ -1,5 +1,5 @@
 ---
-creation date: 2022-09-17
+creation date: 2022-09-17 13:38
 modification date: Saturday 17th September 2022
 aliases: [Internet Technologies] 
 tags: 
@@ -7,7 +7,7 @@ tags:
 - Internet_Basics
 ---
 
-<< [[m1_syllabus]] | [[2022-09-18]] >>
+<< [[m1_syllabus]] | [[2022-09-17_Client_Server_Model]] >>
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -19,7 +19,7 @@ Tags: #Internet_Technologies
 # 📑 Internet Technologies
 
 ## 📃 Summary of Notes
-- [Internet Basics]
+- [Internet Basics](#Internet-Basics])
 	- [What is the Internet?](#what-is-the-Internet?)
 		- [Types of Internet Connections](#types-of-internet-connections)
 		- [Dial-Up](#dial-up)
@@ -50,6 +50,8 @@ Tags: #Internet_Technologies
 	- [Baseband vs Broadband Transmission](#Baseband-vs-Broadband-Transmission)
 
 ---
+# **Internet Basics**
+
 ## **What is the Internet?**
 - The Internet is a vast network that connects [computers](/Side_Notes/computer.md) all over the world.
 - Computers in a network capable of sharing resources (memory, peripherals).
@@ -188,6 +190,3 @@ Tags: #Internet_Technologies
 |                        A **short-distance** signal traveling.                         |           The broadband transmission can transmit over a **long distance** _compared to baseband transmission_.            |
 | The baseband transmits the _digital signal_ using the ==physical medium like wires==. |   The broadband transmits the _analog signals_ using ==optical fibers and twisted cables== as a medium of transmission.    |
 |                   **Example:** Ethernet is using Basebands for LAN.                   |                                    **Example:** Used to transmit cable TV to premises.                                     |
-
-
-
