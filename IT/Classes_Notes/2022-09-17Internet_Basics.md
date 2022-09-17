@@ -36,6 +36,9 @@ Tags: #Internet_Technologies
 			- [Data compression](#data-compression)
 			- [Flash Memory](#flash-memory)
 			- [Fax Capability](#fax-capability)
+	-  [Standards Of Data Communication](##Standards Of Data Communication**)
+			- [CCIT](#ccit)
+			- [ISDN Connection]()
 
 ---
 ## **What is the Internet?**
@@ -84,7 +87,6 @@ Tags: #Internet_Technologies
 - *4G* is the *fourth-generation wireless* cellular network, speeds of *100Mbps* but the reality is about **21Mbps** currently.
 - It ranges from **512K** to **2.0 Mbps**.
 
-
 ---
 ## **Modem**
 - Modem stands for **Modulator** and **Demodulator**.
@@ -128,18 +130,22 @@ Tags: #Internet_Technologies
 - CCIT *stands for* **Consultative Committee for International Telephony and Telegraphy**.
 - Organization that sets *International commmunication standards* example-
 	- Group 3 - *Universal protocol* for **sending fax** documents ==across telephone lines==.
-	- Group 4 - Over [*ISDN network*](#).
+	- Group 4 - Over [*ISDN*](#isdn_connection) *network*.
 	- V.21 , V.22, V.29 *etc*
 
 ---
-## **ISDN Connection**
+### **ISDN Connection**
 - ISDN *stands for* **Integrated Services Digital Network**.
 - ISDN is a *telephone network based infrastructure* that allows the *transmission of* ==voice, video and data simultaneously at a high speed with greater efficiency==.
-- ISDN connection has some *B-channel* (**Bearer-channel**) which are the **main data channel** & *D-channel* (**Delta-channel**) which ==carries control and signaling information==.
+- ISDN connection has some [*B-channel*](#isdn_configurations) (**Bearer-channel**) which are the **main data channel** & [*D-channel*](#isdn_configurations) (**Delta-channel**) which ==carries control and signaling information==.
 
-### Types of ISDN
+#### ISDN configurations
+- **_B or Bearer channels:_** The bearer channels are used to *carry the payload data* which may be **voice** and **data**.
+- **_D or Delta channels:_** The D channels are *intended for signalling and control*, although it *may also be used* for *data under some circumstances*.
+
+#### Types of ISDN
 - **Basic Rate Interface** (*BRI*) 
 	- It is made up of 2 B-channels , at **64 Kbit/s** and 1 D-channel, at **16 Kbit/s**.
 	- **2 B-chnanel** *64-Kbits* and **1 D-channel** *16 Kbits*.
 - ### **Primary Rate Interface** (*PRI*)
-	- 
+	- It is made up of 2 B-channels, at **64 kbit/s** and 1 D-channel, at **16 kbit/s**.
