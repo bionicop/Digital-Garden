@@ -114,3 +114,6 @@ graph TD
 ## **Router**
 - The router is a *physical or virtual internetworking device* that is *designed to receive, analyze, and forward data packets between computer networks*. A ==router examines a destination IP address of a given data packet==, and it us*es the headers and forwarding tables* to decide the **best way to transfer the packets**.
 - A router is used in **LAN** (Local Area Network) and **WAN** (Wide Area Network) environments.
+
+## **WAP**
+- WAP *stands for* **Wirless Application Protocol**.
