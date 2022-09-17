@@ -16,7 +16,10 @@ mindmap-plugin: root
 - Cable provides an *internet connection* through a **cable modem** and ==operates over cable TV lines==.
 
 ## [[2022-09-17Internet_Basics#Wireless|Wireless]]
+- Wireless connection **does not** *use telephone lines* or *cables* ==to connect to the internet==.
 
 ## [[2022-09-17Internet_Basics#Satellite|Satellite]]
+- Satellite *accesses the internet* via a ==satellite in Earth’s orbit==.
 
 ## [[2022-09-17Internet_Basics#Cellular|Cellular]]
+- Cellular technology *provides wireless Internet access* through **cell phones**.
