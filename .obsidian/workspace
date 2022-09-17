@@ -9,7 +9,7 @@
         "state": {
           "type": "mindmapView",
           "state": {
-            "file": "IT/Classes_Notes/type_of_internet_connection.md"
+            "file": "Side_Notes/type_of_internet_connection.md"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Classes_Notes/type_of_internet_connection.md",
+                "file": "Side_Notes/type_of_internet_connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Classes_Notes/type_of_internet_connection.md",
+                "file": "Side_Notes/type_of_internet_connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Classes_Notes/type_of_internet_connection.md"
+                "file": "Side_Notes/type_of_internet_connection.md"
               }
             }
           },
@@ -137,9 +137,9 @@
   },
   "active": "40a33e18ca07d51e",
   "lastOpenFiles": [
-    "IT/Classes_Notes/m1_syllabus.md",
-    "IT/Classes_Notes/type_of_internet_connection.md",
     "IT/Classes_Notes/2022-09-Internet_Basics.md",
+    "Side_Notes/type_of_internet_connection.md",
+    "IT/Classes_Notes/m1_syllabus.md",
     "IT/Classes_Notes/Untitled.md",
     "Side_Notes/computer.md",
     "computer.md",
