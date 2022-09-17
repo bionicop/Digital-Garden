@@ -22,11 +22,11 @@ Tags: #Internet_Technologies
 - [Internet Basics](#)
 	- [What is the Internet?](#what-is-the-Internet)
 	- [Types Of Internet Connections]()
-		- [Dial-Up](#Dial-up)
-		- [DSL](#DSL)
-		- [Cable](#Cable)
-		- [Wireless](#Wireless)
-		- [Cellular](#Cellular)
+		- [Dial-Up](#dial-up)
+		- [DSL](#dsl)
+		- [Cable](#cable)
+		- [Wireless](#wireless)
+		- [Cellular](#cellular)
 
 
 ## **What is the Internet?**
@@ -37,25 +37,29 @@ Tags: #Internet_Technologies
 - *Most users* get access to the internet through An **Internet Service Provider** (ISP). 
 
 ## **Types Of Internet Connections**
-- Dial-Up
-	- Dial-up connections require users to link their **phone line** to a *computer* in order to access the Internet.
-	- It does not permit users to ==make or receive phone calls== through their home phone service *while using the Internet*.
-	- Dial-up access is *cheap* **but slow.**
 
-- DSL
-	- DSL stands for **Digital Subscriber Line**.
-	- DSL uses existing *2-wire copper telephone line* connected to one's home so service is *delivered at the same time* as landline telephone service.
-	- DSL is a form of ==broadband communication== that is always **"on"**.
-	- Customers can still place calls while surfing the Internet.
+### Dial-Up
+- Dial-up connections require users to link their **phone line** to a *computer* in order to access the Internet.
+- It does not permit users to ==make or receive phone calls== through their home phone service *while using the Internet*.
+- Dial-up access is *cheap* **but slow.**
 
-- Cable
-	- 
-- Wireless
-	- 
-- Satellite
-	- 
-- Cellular
-	- 
+### DSL
+- DSL stands for **Digital Subscriber Line**.
+- DSL uses existing *2-wire copper telephone line* connected to one's home so service is *delivered at the same time* as landline telephone service.
+- DSL is a form of ==broadband communication== that is always **"on"**.
+- Customers can still place calls while surfing the Internet.
+
+### Cable
+- 
+
+### Wireless
+- 
+
+### Satellite
+- 
+ 
+### Cellular
+- 
 
 
 ## Some Basic Notes

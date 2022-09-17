@@ -6,17 +6,17 @@ mindmap-plugin: root
 
 # [[2022-09-17Internet_Basics#Types Of Internet Connections|Types of Internet Connection]]
 
-## Dial-up
+## [[2022-09-17Internet_Basics#Dial-Up|Dial-Up]]
 - Dial-up connection is _established_ between _your computer and the ISP_ server ==using a modem(internal or external)==.
 
-## DSL
+## [[2022-09-17Internet_Basics#DSL|DSL]]
 - DSL provides an *internet connection* through the ==telephone line(network)==.
 
-## Cable
+## [[2022-09-17Internet_Basics#Cable|Cable]]
 - Cable provides an *internet connection* through a **cable modem** and ==operates over cable TV lines==.
 
-## Wireless
+## [[2022-09-17Internet_Basics#Wireless|Wireless]]
 
-## Satellite
+## [[2022-09-17Internet_Basics#Satellite|Satellite]]
 
-## Cellular
+## [[2022-09-17Internet_Basics#Cellular|Cellular]]
