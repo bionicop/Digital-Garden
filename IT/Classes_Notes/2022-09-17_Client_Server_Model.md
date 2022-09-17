@@ -24,14 +24,15 @@ Tags: #Internet_Technologies
 - [Protocol](#Protocol)
 	- [Standard Protocols](#Standard-Protocols)
 	- [Types of Protocol](#Types-of-Protocol)
-- [SMTP](#SMTP)
-- [POP](#POP)
-- [TCP/IP](#TCP/IP)
-- [Packet Switching](#Packet_Switching)
-	- [Packets](#Packets)
-	- [Switching](#Switching)
-- [Router](#Router)
-- 
+		- [SMTP](#SMTP)
+		- [POP](#POP)
+		- [TCP/IP](#TCP/IP)
+	- [Packet Switching](#Packet_Switching)
+		- [Packets](#Packets)
+		- [Switching](#Switching)
+	- [Router](#Router)
+	- [WAP](#WAP)
+	- [Bluetooth](#Bluetooth)
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -74,12 +75,12 @@ graph TD
 ```
 *and many more..*
 
-## **SMTP**
+#### **SMTP**
 - SMTP *stands for* **Simple Mail Transfer Protocol**.
 - It is an **email communication protocol** that is used by *mail servers* to ==send emails from one account to another via the internet==.
 - It uses **port 25**.
 
-## **POP**
+#### **POP**
 - POP *stands for* **Post Office Protocol**.
 - Used to retrieve e-mail from a mail server
 - *Newer protocol* to do this is [**IMAP**](#IMAP).
@@ -87,18 +88,18 @@ graph TD
 	- POP 2 - **Requires SMTP** *to send messages*.
 	- POP 3 - *Can Send messages* **with or without SMTP**.
 
-## **TCP/IP**
+#### **TCP/IP**
 
 ## **Packet Switching**
 - Packet switching is one of the *key concepts of the Internet*.
 - It is also known as **Routing** refers to the ==job of transferring the data packets to an appropriate computer==. This involves the use of *two separate concepts*, **packets** & **switching**.
 - **Packet switching** is a method of transferring the *data to a network* in the form of **packets**. 
 
-### **Packets**
+##### **Packets**
 - In order to *transfer* the ==files fast and efficiently manner over the network== and ==minimize the transmission latency==, the *data is broken down into small pieces* of ==variable length==, called **Packet**.
 - Each *packet recieves a header* containing the ==destination IP address, the sender’s IP address, the total number of packets that make up a message, and the sequence number of that packet==.
 
-### **Switching**
+##### **Switching**
 - Since the *packets are individually addressed, and numbered for sequence*, they can be *sent and received* in **any order**. This means that *packets can be switched* to **different routes** to *get to the destinations*, ==according to network traffic==.
 
 - *Routing* is done by a **router**.
@@ -117,3 +118,9 @@ graph TD
 
 ## **WAP**
 - WAP *stands for* **Wirless Application Protocol**.
+- *Secure specification* that allows users to *access internet* via **handheld wireless devices**.
+- Supported by all **Operating Systems** (*OS*).
+- [*WML*](#wml) is specifically designed for **small screens**.
+
+## **Bluetooth**
+- 
