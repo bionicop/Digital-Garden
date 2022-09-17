@@ -28,6 +28,10 @@ Tags: #Internet_Technologies
 - [POP](#POP)
 - [TCP/IP](#TCP/IP)
 - [Packet Switching](#Packet_Switching)
+	- [Packets](#Packets)
+	- [Switching](#Switching)
+- [Router](#Router)
+- 
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -50,6 +54,7 @@ graph TD
     A --> M(Proxy Server) --> 12(Between a client and an external server to filter requests, improve performance and share connections.)
 ```
 
+---
 ## **Protocol**
 - Protocols are a *fundamental aspect* of *digital communication* as they **dictate how to format, transmit and receive data**. They are a **"set of rules"** *that determines how* the ==data will be transmitted over the network==.
 
@@ -95,3 +100,17 @@ graph TD
 
 ### **Switching**
 - Since the *packets are individually addressed, and numbered for sequence*, they can be *sent and received* in **any order**. This means that *packets can be switched* to **different routes** to *get to the destinations*, ==according to network traffic==.
+
+- *Routing* is done by a **router**.
+- When a *packet of data starts from a computer* it is ==submitted to the router==.
+- **Router verifies IP address** *of the destination*.
+- *Finds the network* to which *datagram* must be submitted.
+- *Datagram passes several routers* and *finally reaches the destination network*.
+- *Router uses* **routing tables and routing algorithms**.
+- *Routing algorithm chooses the next network* to which the *datagram will be routed*. It Chooses according to **data traffic** and **shortest route**.
+- Datagrams of the *same message may travel through different routes* to *reach final destination*.
+- **Finally TCP protocol verifies** if *all have reached*.
+
+## **Router**
+- The router is a *physical or virtual internetworking device* that is *designed to receive, analyze, and forward data packets between computer networks*. A ==router examines a destination IP address of a given data packet==, and it us*es the headers and forwarding tables* to decide the **best way to transfer the packets**.
+- A router is used in **LAN** (Local Area Network) and **WAN** (Wide Area Network) environments.
