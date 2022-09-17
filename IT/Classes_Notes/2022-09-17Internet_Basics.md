@@ -125,5 +125,21 @@ Tags: #Internet_Technologies
 ## **Standards Of Data Communication**
 
 ### **CCIT**
-- CCIT *stands for* **Consultative Committee for International Telephony and Telegraphy.**
-- 
+- CCIT *stands for* **Consultative Committee for International Telephony and Telegraphy**.
+- Organization that sets *International commmunication standards* example-
+	- Group 3 - *Universal protocol* for **sending fax** documents ==across telephone lines==.
+	- Group 4 - Over [*ISDN network*](#).
+	- V.21 , V.22, V.29 *etc*
+
+---
+## **ISDN Connection**
+- ISDN *stands for* **Integrated Services Digital Network**.
+- ISDN is a *telephone network based infrastructure* that allows the *transmission of* ==voice, video and data simultaneously at a high speed with greater efficiency==.
+- ISDN connection has some *B-channel* (**Bearer-channel**) which are the **main data channel** & *D-channel* (**Delta-channel**) which ==carries control and signaling information==.
+
+### Types of ISDN
+- **Basic Rate Interface** (*BRI*) 
+	- It is made up of 2 B-channels , at **64 Kbit/s** and 1 D-channel, at **16 Kbit/s**.
+	- **2 B-chnanel** *64-Kbits* and **1 D-channel** *16 Kbits*.
+- ### **Primary Rate Interface** (*PRI*)
+	- 
