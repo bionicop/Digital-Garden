@@ -4,7 +4,7 @@ modification date: Saturday 17th September 2022
 aliases: [Internet Technologies] 
 tags: 
 - Internet_Technologies
-- Internet_Basics
+- Client_Server_Model
 ---
 
 << [[2022-09-17_Internet_Basics]] | [[]] >>
@@ -26,6 +26,7 @@ Tags: #Internet_Technologies
 	- [Types of Protocol](#Types-of-Protocol)
 - [SMTP](#SMTP)
 - [POP](#POP)
+- [TCP/IP](#TCP/IP)
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -72,3 +73,11 @@ graph TD
 - It uses **port 25**.
 
 ## **POP**
+- POP *stands for* **Post Office Protocol**.
+- Used to retrieve e-mail from a mail server
+- *Newer protocol* to do this is [**IMAP**](#IMAP).
+- POP has 2 version
+	- POP 2 - **Requires SMTP** *to send messages*.
+	- POP 3 - *Can Send messages* **with or without SMTP**.
+
+## **TCP/IP**

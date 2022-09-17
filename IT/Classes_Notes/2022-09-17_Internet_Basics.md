@@ -5,6 +5,8 @@ aliases: [Internet Technologies]
 tags: 
 - Internet_Technologies
 - Internet_Basics
+- Types-of-Internet-Connections
+- Modem
 ---
 
 << [[m1_syllabus]] | [[2022-09-17_Client_Server_Model]] >>
