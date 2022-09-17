@@ -19,9 +19,9 @@ Tags: #Internet_Technologies
 # 📑 Internet Technologies
 
 ## 📃 Summary of Notes
-- [Internet Basics](#)
-	- [What is the Internet?](#what-is-the-Internet)
-	- [Types Of Internet Connections]()
+- [Internet Basics]
+	- [What is the Internet?](#What-is-the-Internet?)
+	- [Types Of Internet Connections](###Types-Of-Internet-Connections)
 		- [Dial-Up](#dial-up)
 		- [DSL](#dsl)
 		- [Cable](#cable)
