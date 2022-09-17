@@ -7,7 +7,7 @@ tags:
 - Client_Server_Model
 ---
 
-<< [[2022-09-17_Internet_Basics]] | [[]] >>
+<< [[2022-09-17_Internet_Basics|Internet Basics]] | [[[[|Internet IP Address]]]] >>
 
 # ❗❓ Info
 Course Name: Internet Technologies
