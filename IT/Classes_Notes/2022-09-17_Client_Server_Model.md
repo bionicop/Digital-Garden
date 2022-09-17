@@ -50,7 +50,7 @@ graph TD
 ```
 
 ## **Protocol**
-- Protocols are a *fundamental aspect* of *digital communication* as they **dictate how to format, transmit and receive data**. They are a **set of rules** *that determines how* the ==data will be transmitted over the network==.
+- Protocols are a *fundamental aspect* of *digital communication* as they **dictate how to format, transmit and receive data**. They are a **"set of rules"** *that determines how* the ==data will be transmitted over the network==.
 
 ### **Standard Protocols** *(Note- have to check this later)*
 - Standard protocols are *agreed and accepted* by the **whole computing industry**. It is **not vendor specific**.
@@ -64,6 +64,7 @@ graph TD
     A --> E(Telnet)
     A --> F(Gopher)
     A --> G(TCP/IP)
+    A --> H(POP)
 ```
 *and many more..*
 
