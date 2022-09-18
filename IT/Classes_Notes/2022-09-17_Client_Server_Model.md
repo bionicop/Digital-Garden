@@ -40,6 +40,8 @@ Tags: #Internet_Technologies
 		- [Class A Network](#Class-A-Network)
 		- [Class B Network](#Class-B-Network)
 		- [Class C Network](#Class-C-Network)
+- [Domain Name](#Domain-Name)
+	- [Domain Registration](#Domain-Registration)
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -208,4 +210,27 @@ graph TD
 
 ---
 # **Domain Name**
-- 
+- A name that identifies *1 or more IP addresses*.
+- Domain names are used in *URL* to ==identify a particular web page==.
+- Every domain name has a **suffix** that indicates which **top level domain** *it belongs to*.
+	- **Example-** 
+		1) .com – commercial business
+		2) .gov – government agencies
+		3) .edu – educational institutes
+		4) .org – organizations
+		5) .mil – military
+		6) .net – network organizations
+		7) .ca - Canada, *etc.*
+- *Host machines actually* have [**IP**](#Internet-IP-Address) **addresses**, ==not domain names==.
+- IP addresses have the form -> *255.255.255.255*
+- A series of *Domain Name Servers keep lists* which ==map domain names to IP addresses==.
+
+## **Domain Registration**
+- The first and the ==most important thing to find out== is *whether the name you have shortlisted is available* or is *taken by someone else*. In order to check *domain availability* you can *search it at* **domain registrar**.
+- If the *domain name is available for registration* you can *then claim it*. The next thing to do is to *find a registrar*. Before making a choice it is always advised to do a quick research on different registrars. One can search from a number of options and see who offers the best price for registration.
+- Registrars nowadays also offer *different add on services in order to lure customers*, so one can make a choice accordingly. Once you have **shortlisted the registrar** you need to do a ==search for the domain on the registrar’s website==.
+- If the *domain is still available for registration* you can ==proceed further with the registration process==. Make the *payment for registration to the registrar*.
+- **Registrar Examples–** GoDaddy.com, Ernet India, *etc.*
+
+---
+# **Internet Services**
