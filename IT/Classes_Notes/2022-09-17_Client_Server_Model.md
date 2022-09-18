@@ -36,7 +36,10 @@ Tags: #Internet_Technologies
 - [SOAP](#SOAP)
 - [IIOP](#IIOP)
 - [Internet IP Address](#Internet-IP-Address)
-- 
+	- [Classes-of-Network](#Classes-of-Network)
+		- [Class A Network](#Class-A-Network)
+		- [Class B Network](#Class-B-Network)
+		- [Class C Network](#Class-C-Network)
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -156,11 +159,11 @@ graph TD
 - *Each number* in the **array is an eight bit integer** called an **octet**.
 - The *set can range* from **0 to 255**.
 
-## **Classes Of Network** 
+## **Classes of Network** 
 - **3 classes** of *Networks depending* on the number of hosts it can handle.
 ```mermaid
 graph TD
-    A(Classes Of Networks ) --> B(Class A Networks) --> 1(Can handle a large number of hosts.)
+    A(Classes of Networks ) --> B(Class A Networks) --> 1(Can handle a large number of hosts.)
     A --> C(Class B Networks) --> 2(Moderate number of hosts.)
     A --> D(Class C Networks) --> 3(Small number of hosts.)
 ```
@@ -184,14 +187,19 @@ graph TD
 		- (**N1** *ranges* from **128 – 191**)
 		- (**N2** *ranges* from **0 – 255**)
 		- (**H1** and **H2** *may range* from **0 to 255**)
-	- w
-		- w
-		- w
 	- The *first two bits* in the **first octet** set to **10**.
 		- **ex-** 10000000 - 10111111 (128 - 191)
-	- w
 	- Class B has **16384 (2<sup>14</sup>) Network addresses** and **65534 (2<sup>16</sup>-2) Host addresses**.
 		- thus *Class B IP address format* is-
 			- 10NNNNNN.NNNNNNNN.HHHHHHHH.HHHHHHHH
 - ### **Class C Network**
-	- w
+	- General form is **N1.N2.N3.H**
+	- (**N1** *ranges* from **192 to 233**)
+	- (**N2, N3** *vary* from **0 to 255**)
+	- (**H** *ranges* from **0 to 255**)
+	- The **first octet** has it's **first 3 bits set to 110**.
+		- **ex-** 11000000 - 11011111 (192 - 223)
+	- Class C has **2097152 (2<sup>21</sup>) Network addresses** and **254 (2<sup>8</sup>-2) Host addresses**.
+		- thus *Class C IP address format* is-
+			- 110NNNNN.NNNNNNNN.NNNNNNNN.HHHHHHHH
+
