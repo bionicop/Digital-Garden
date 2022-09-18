@@ -158,6 +158,9 @@ graph TD
 - *ex -* 18.10.200.14 , 185.25.85.141
 - *Each number* in the **array is an eight bit integer** called an **octet**.
 - The *set can range* from **0 to 255**.
+- The number of networks and the number of hosts per class can be derived by this formula :-
+	- Number of networks -> (2<sup>network_bits</sup>)
+	- Number of hosts/Network -> (2<sup>host_bits</sup> - 2)
 
 ## **Classes of Network** 
 - **3 classes** of *Networks depending* on the number of hosts it can handle.
@@ -171,9 +174,6 @@ graph TD
 	- General form is **N.H1.H2.H3**
 		- (**N** - {*Network ID*} *ranges* from **1 to 127**)
 		- (**H1**, **H2**, **H3** - {*Hosts*} *ranges* from **0 to 255**)
-	- The number of networks and the number of hosts per class can be derived by this formula :-
-		- Number of networks -> (2<sup>network_bits</sup>)
-		- Number of hosts/Network -> (2<sup>host_bits</sup> - 2)
 	- The *first bit* of the **first octet is always** set to **0**.
 		- thus the *first octet ranges from* **1 – 127**.
 		- **ex-** 00000001- 01111111
@@ -203,3 +203,6 @@ graph TD
 		- thus *Class C IP address format* is-
 			- 110NNNNN.NNNNNNNN.NNNNNNNN.HHHHHHHH
 
+---
+# **Domain Name**
+- 
