@@ -162,6 +162,9 @@ graph TD
 	- Number of networks -> (2<sup>network_bits</sup>)
 	- Number of hosts/Network -> (2<sup>host_bits</sup> - 2)
 
+## **IP Address**
+![[ip_address.png]]
+
 ## **Classes of Network** 
 - **3 classes** of *Networks depending* on the number of hosts it can handle.
 ```mermaid
