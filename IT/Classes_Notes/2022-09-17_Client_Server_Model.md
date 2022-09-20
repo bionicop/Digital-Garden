@@ -42,6 +42,35 @@ Tags: #Internet_Technologies
 		- [Class C Network](#Class-C-Network)
 - [Domain Name](#Domain-Name)
 	- [Domain Registration](#Domain-Registration)
+- [Internet Services](#Internet-Services)
+	- [Gopher Service](#Gopher-Service)
+	- [Instant Messaging](#Instant-Messaging)
+	- [Internet Relay Chat](#Internet-Relay-Chat)
+	- [Bulletin Board System (BBS)](#BBS)
+- [Electronic Mail](#Electronic-Mail)
+- [World Wide Web](#WWW)
+	- [Web Site](#Web-Site)
+	- [Home Page](#Home-Page)
+- [Web Server](#Web-Server)
+- [Web Client](#Web-Client)
+- [Web Technologies](#Web-Technologies)
+- [Cookies](#Cookies)
+- [Cyber Laws](#Cyber-Laws)
+- [URL](#URL)
+	- [Parts of a URL](#Parts-of-a-URL)
+	- [Parts of a HTTP URL](#Parts-of-a-HTTP-URL)
+	- [URL Examples](URL-Examples)
+- [Internet Security](#Internet-Security)
+	- [SSL](#SSL)
+	- [S-HTTP](#S-HTTP)
+- [Encryption](#Encryption)
+	- [Types of Encryption](#Types-of-Encryption)
+		- [Asymmetric encryption](#Asymmetric-encryption)
+		- [Symmetric encryption](#Symmetric-encryption)
+- [E-Commerce and EDI](#E-Commerce-and-EDI)
+- [Digital Cash](#Digital-Cash)
+- [Digital Signature](#Digital-Signature)
+- [HTTP](#HTTP)
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -234,3 +263,177 @@ graph TD
 
 ---
 # **Internet Services**
+```mermaid
+graph TD
+    A(Internet Services) --> B(Gopher service)
+    A --> C(Instant Messaging)
+    A --> D(Internet Relay Chat)
+    A --> E(Bulletin Board System)
+    A --> F(Usenet News Group Service)
+```
+## **Gopher Service**
+- Internet Gopher Protocol ==acts as distributed document delivery system==.
+- Gopher Client software presents users with a *heirarchy of items and directories like a file system*.
+## **Instant Messaging**
+- *Enables to create* a **private chat room** *with another individual*.
+## **Internet Relay Chat**
+- provides a platform for the users to chat
+## **BBS**
+- BBS *stands for* **Bulletin Board System**.
+- Electronic message center which *serves specific interest groups*. ==Good place to find free or inexpensive software products==.
+## **Usenet News Group Service**
+- Worldwide bulletin board system *that can be accessed through internet* or *through other online services*.
+
+---
+# **Electronic Mail**
+- *Transmission of messages* over **communication networks**.
+- *Send messages to* **several users at once** – ==broadcasting==.
+- All *online services and ISP's* ==offer email and support gateways==.
+- PC – **MAPI** (*Messaging Application Programming Interface*) is an **email standard**.
+
+---
+# **WWW**
+- WWW *stands for* **World Wide Web**.
+- The Web contains the **information organized** in Web pages *containing text and graphic images*.
+- It contains *hypertext links*, or ==highlighted keywords== and *images* that lead to related information.
+	- ## **Web Site**
+		- A *collection of linked Web pages* that has a *common theme* is called a **Web Site**.
+	- ## **Home Page**
+		- The *main page* that *all of the pages on a particular Web site are organized around* and *link back to* is called the site’s **Home Page**.
+
+---
+# **Web Server**
+- A web server is a *computer system that processes requests via* [**HTTP**](#HTTP), ==the basic network protocol used to distribute information== *on [WWW](#WWW)*.
+- The *primary function* of a web server is to **store, process** and **deliver** *web pages to clients*. The *communication between client and server* takes place using the [HTTP](#HTTP). *Pages delivered are most frequently* [**HTML**](#html) **documents**, which ==may include images==, ==style sheets== and ==scripts in addition to text content==.
+- *Example–* Apache HTTP Server, Microsoft IIS, *etc.*
+
+---
+# **Web Client**
+- A **Web browser** that contains basic software you need in order to ==find, retrieve, view, and send information over the Internet==.
+- *Example-* IE, Firefox, Google Chrome, *etc.*
+	- This includes software that lets you:-
+		1. Send and receive electronic-mail (or e-mail) messages worldwide nearly instantaneously.
+		2. Read messages from newsgroups (or forums) about thousands of topics in which users share information and opinions.
+		3. Browse the World Wide Web (or Web) where you can find a rich variety of text, graphics, and interactive information.
+
+---
+# **Web Technologies**
+- Web uses *http to transmit data*.
+- Web services *use web to share information*.
+- Web page information is presented using the following technologies.
+	- HTML
+	- JSP (Java Server Page)
+	- Javasript
+	- ASP (Active Server Page)
+	- Java Applets
+- *Plug-in* **Hardware** or **Software module** that *adds a specific feature or service to a larger system*.
+
+---
+# **Cookies**
+- *Messages that a web server transmits* to a web browser so that **web server can keep track of users activity on a specific web site**.
+- *Stored as* a **text file**.
+- To **collect demographic information** *about who is visiting the web site*.
+- To *personalize **users experience***.
+- To *Keep track of* what =="ads" it lets you see and how often you see==.
+- **Six parameters** that can be *passed to a web site*-
+	- Name of the cookie
+	- Value of the cookie
+	- Expiration date
+	- Path - *Sets the URL path* the *cookie is valid in*.
+	- Domain - *Accessible to pages on any* of the *servers*.
+	- Secure Connection - Site using **SSL** (*Secure Socket Layer*- **protocol** for *web browser* and **server** for *authentication*, **encryption** & **decryption** *of data*.)
+
+---
+# **Cyber Laws**
+- Internet is *growing drastically*. New and sensitive issues related to various legal *aspects of cyberspace started cropping up*.
+- ==Highly specialized branch of law came into existence== called **Cyber Law**(Law of internet and World Wide Web).
+- Cyber Crimes *involves traditional criminal activities* such as **theft, fraud, forgery, defamation and mischief**.
+- ==Cyber Law regulates these crimes.==
+- *Cyber Crimes can be categorized into 2 types :-*
+```mermaid
+graph TD
+    A(Cyber Law) --> B(Using computers as a tool) -.- 1(Computers are used to attack other computers. Hacking, Virus attack, DOS attack, Trojan attacks ,etc.)
+    A --> C(Using computers as a weapon) -.- 2(Credit Card frauds, email spoofing, spamming, Cyber terrorism, etc.)
+```
+
+---
+# **URL**
+- A **URL allows every resource** (ex- *HTML page, image, sound clip ,etc.*) on the [**WWW**](#WWW) ==to have a unique address==.
+- A *resource is used to represent basic elements* in the web which can be ==identified, named and addressed==.
+- *Resource on* the *web is identified by an address* called **Uniform Resource Locator**.
+- *Subset* of *URI* (**Uniform Resource Identifier**).
+
+## **Parts of a URL**
+
+
+- The *protocol gives the method of communication to be used*. *"http"* is *most common*, but you may see **ftp** as well.
+
+## **Parts of a HTTP URL**
+- **protocol** – 
+- **host –**
+- **port -**
+- **path –**
+- **params –**
+- **anchor –**
+
+## **URL Examples**
+
+---
+# **Internet Security**
+```mermaid
+graph TD
+    A(Internet Security) --> B(SSL)
+    A --> C(S-HTTP)
+```
+## **SSL** 
+- It is the *standard security technology for establishing* an **encrypted link between a web server** and ==a browser==. *This link ensures that all data passed between the web server and browsers remain* ==private and integral==.
+## **S-HTTP** 
+- Designed to *transmit **individual** messages securely*
+
+---
+# **Encryption**
+- Most effective way to achieve data security.
+- Involves *translation of data into a secret code*.
+- To *read an encrypted file you must have* access to a **secret key** that *enables to decrypt it*.
+- **Unencrypted data** – *plain text*.
+- **Encrypted data** – *cipher text*.
+
+## **Types of Encryption**
+```mermaid
+graph TD
+    A(Types of Encryption) --> B(Asymmetric encryption)
+    A --> C(Symmetric encryption)
+```
+### **Asymmetric encryption**
+- *Cryptographic system* that uses *two keys* – a **public key** *known to everyone* and a **private key** known *only to the recipient of the message*. 
+- If *A* wants to *send a message* to *B* , **A** uses **B's public key** *to encrypt the message*. **B** then *uses his private key to decrypt it*.
+### **Symmetric encryption**
+- **Same key** is used to *encrypt and decrypt a message*.
+
+---
+# **E-Commerce and EDI**
+| **E-Commerce**                                                                                                                                                | **EDI**                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| E-commerce is the *buying and selling of goods and services*, or the *transmitting of funds or data*, ==over an electronic network, primarily the internet==. | EDI is the **computer-to-computer exchange** of ==business documents in a standard electronic format between business partners==. |
+| These *business transactions occur either* as ==business-to-business, business-to-consumer, consumer-to-consumer or consumer-to-business==.                   |                                                                                                                                   |
+| E-Commerce stands for **Electronic Commerce**.                                                                                                                | EDI *stands for* **Electronic Data Interchange**.                                                                                 |
+
+---
+# **Digital Cash**
+- Digital Cash is a *system of purchasing cash credits* in relatively small amounts, **storing the credits in your computer**, and ==then spending them when making electronic purchases over the Internet==.
+- It *acts much like real cash*, ==except that it’s *not on paper*==. "*Money*" in your **bank account is converted to a digital code**. This *digital code may then be stored on* **a microchip, a pocket card** (*like a smart card*), **or on the hard drive of *your computer***.
+- The *concept of* **privacy** is the ==driving force behind digital cash==. The **user of digital cash is assured an anonymous transaction** by *any vendor who accepts it*.
+- ==Your special bank account code can be used over the internet== or at *any participating merchant to purchase an item*.
+- Everybody *involved in the transaction*, ==from the bank to the user to the vendor==, **agree to recognize the worth of the transaction**, and *thus create this new form*.
+
+---
+# **Digital Signature**
+- A digital signature is a *mathematical scheme* for **demonstrating the authenticity of digital *messages or documents***.
+- A valid *digital signature* *gives a recipient reason to believe* that the **message was created by a known sender** (*authentication*), that **the sender cannot deny having sent the message** (*nonrepudiation*), and that the *message was **not altered in transit*** (*integrity*).
+
+---
+# **HTTP**
+- Protocol used by World Wide Web.
+- Defines how messages are formatted and transmitted.
+- The HTTP protocol is set up to work in terms of requests and responses.
+- Stateless protocol because each command is executed independently.
