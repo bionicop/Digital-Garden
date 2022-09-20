@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
+            "file": "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
+                "file": "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
+                "file": "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Classes_Notes/2022-09-17_Client_Server_Model.md"
+                "file": "IT/Classes_Notes/2022-09-17_Internet_Basics.md"
               }
             }
           },
@@ -139,8 +139,8 @@
   },
   "active": "40d729989dcd8be5",
   "lastOpenFiles": [
-    "IT/Attachment/ip_address.png",
     "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
+    "IT/Attachment/ip_address.png",
     "IT/Classes_Notes/m1_syllabus.md",
     "template/Note.md",
     "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
