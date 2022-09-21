@@ -13,7 +13,21 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "bf45c8d5b93acc5a"
+      },
+      {
+        "id": "964ffdf4026e9682",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HomeWork/2022-09-20.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "bf45c8d5b93acc5a"
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40d729989dcd8be5",
+  "active": "964ffdf4026e9682",
   "lastOpenFiles": [
     "HomeWork/e.md",
     "HomeWork/2022-09-20.md",
