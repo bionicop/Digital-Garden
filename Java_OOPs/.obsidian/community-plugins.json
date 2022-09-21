@@ -1,4 +1,10 @@
 [
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "execute-code",
+  "obsidian-custom-frames",
+  "obsidian-discordrpc",
+  "table-editor-obsidian",
+  "obsidian-markmind",
+  "obsidian-enhancing-mindmap"
 ]

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d3446120bc74df41",
+        "id": "40d729989dcd8be5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Module_1/Object_Oriented_Programming.md",
-            "mode": "preview",
+            "file": "HomeWork/2022-09-20.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#OOPS,Object_Oriented_Programming",
-                "matchingCase": false,
+                "query": "tag:#h/w",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module_1/Object_Oriented_Programming.md",
+                "file": "HomeWork/2022-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module_1/Object_Oriented_Programming.md",
+                "file": "HomeWork/2022-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +117,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module_1/Object_Oriented_Programming.md"
+                "file": "HomeWork/2022-09-20.md"
               }
             }
+          },
+          {
+            "id": "1e8b6ad213e67e5a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d3446120bc74df41",
+  "active": "40d729989dcd8be5",
   "lastOpenFiles": [
-    "Module_1/m1_syllabus.md",
     "Module_1/Object_Oriented_Programming.md",
     "Module_1/Procedure_Oriented_Programming.md",
+    "HomeWork/2022-09-20.md",
     "template/Note.md",
-    "Scilab/Classes_Notes/2022-09-09.md",
-    "Scilab/Classes_Notes/2022-09-02.md",
-    "Scilab/Classes_Notes/2022-08-16.md",
-    "Scilab/Classes_Notes/2022-08-12.md",
-    "Scilab/Attachment/Image/3d_plot.png",
-    "Scilab/Classes_Notes/index.md"
+    "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
+    "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
+    "IT/Attachment/ip_address.png",
+    "IT/Classes_Notes/m1_syllabus.md",
+    "Side_Notes/type_of_internet_connection.md",
+    "Side_Notes/computer.md"
   ]
 }
