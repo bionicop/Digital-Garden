@@ -25,9 +25,9 @@
 	- A programmer usually neglects the destination of uselss objects. These objects then take up unnecessary memory in the [`*Heap*`](#Heap), making the available memory insufficient.
 	- Hence, the garbage collector in Java scans the [`*Heap*`](#Heap) memory, and deletes them, thus clearing up space in the [`*Heap*`](#Heap).
 3. Object-Oriented
-	- w
+	- 
 2. Automatic Garbage Collector
-	- w
+	- 
 
 ###### Heap
 - Heap is a portion of memory allocated for the program to run.
