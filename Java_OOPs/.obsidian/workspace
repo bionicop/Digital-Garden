@@ -9,25 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HomeWork/2022-09-20.md",
+            "file": "Module_1/Untitled.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "bf45c8d5b93acc5a"
-      },
-      {
-        "id": "964ffdf4026e9682",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HomeWork/2022-09-20.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "bf45c8d5b93acc5a"
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomeWork/2022-09-20.md",
+                "file": "Module_1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomeWork/2022-09-20.md",
+                "file": "Module_1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomeWork/2022-09-20.md"
+                "file": "Module_1/Untitled.md"
               }
             }
           },
@@ -151,10 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "964ffdf4026e9682",
+  "active": "40d729989dcd8be5",
   "lastOpenFiles": [
-    "HomeWork/e.md",
     "HomeWork/2022-09-20.md",
+    "HomeWork/e.md",
     "Module_1/Object_Oriented_Programming.md",
     "Module_1/m1_syllabus.md",
     "Module_1/Procedure_Oriented_Programming.md",
