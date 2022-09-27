@@ -57,7 +57,7 @@ Tags: #Internet_Technologies
 ## **What is the Internet?**
 - The Internet is a vast network that connects [computers](/Side_Notes/computer.md) all over the world.
 - Computers in a network capable of sharing resources (memory, peripherals).
-- Internet is **Dectenralized** by *design*.
+- Internet is **Decentralized** by *design*.
 - Each Internet computer, called a **host**, is *independent*.
 - *Most users* get access to the internet through An **Internet Service Provider** (ISP). 
 
@@ -67,7 +67,7 @@ Tags: #Internet_Technologies
 - Dial-up connections require users to link their **phone line** to a *computer* in order to access the Internet.
 - It does not permit users to ==make or receive phone calls== through their home phone service *while using the Internet*.
 - Dial-up access is *cheap* **but slow.**
-- It ranges from **28K** to **56K**.
+- It ranges from **28K*b*** to **56K*b***.
 
 ### DSL
 - DSL stands for **Digital Subscriber Line**.
@@ -80,25 +80,24 @@ Tags: #Internet_Technologies
 - Cable *provides acess* to the internet through ==cable TV lines==.
 - There are *different speeds* depending on if you are **uploading data transmissions** or **downloading**.
 - It is a form of *broadband access cable modem* that can provide **extremely fast access** to the internet.
-- It ranges from **512K** to **20 Mbps**.
+- It ranges from **512K** to **20 Mb/s**.
 
 ### Wireless
 - The wireless connection uses a **radio frequency** band to c*onnect to the internet*.
-- Wireless is also an always on connection and it can be accessed from just about anywhere
 - Wireless is also an **always "on" connection** and it can be *accessed from just about anywhere(speed may vary for different locations)*.
-- It ranges from **5 Mbps** to **20 Mbps**.
+- It ranges from **5 Mbps** to **20 Mb/s**.
 
 ### Satellite
 - Satellite accesses the internet via a satellite in Earth’s orbit.
 - The *enormous distance* that a signal travels from earth to satellite and back again, provides a **delayed connection** compared to *cable and DSL*.
-- It ranges from **512K** to **2.0 Mbps**.
+- It ranges from **512K** to **20 Mb/s**.
  
 ### Cellular
 - Cellular technology *provides wireless Internet access* through **cell phones**.
 - The speeds vary *depending on the provider*, but the *most common* are **3G** and **4G speeds**.
-- *3G* is for *third-generation wireless* cellular network, speeds is around **2.0 Mbps**.
+- *3G* is for *third-generation wireless* cellular network, speeds is around **2.0 Mb/s**.
 - *4G* is the *fourth-generation wireless* cellular network, speeds of *100Mbps* but the reality is about **21Mbps** currently.
-- It ranges from **512K** to **2.0 Mbps**.
+- It ranges from **512K** to **2.0 Mb/s**.
 
 ---
 ## **Modem**

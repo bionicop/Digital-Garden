@@ -437,3 +437,6 @@ graph TD
 - Defines how *messages are formatted and transmitted*.
 - The HTTP protocol is *set up to work in terms* of **requests and responses**.
 - *Stateless protocol* because ==each command is executed independently==.
+
+## **Request/Response**
+- 
