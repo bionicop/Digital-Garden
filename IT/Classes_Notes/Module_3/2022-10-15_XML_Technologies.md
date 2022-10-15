@@ -498,6 +498,7 @@ graph TD
     A --> C(Tokenized types)
     A --> D(Enumerated types)
 ```
+
 - Syntax:
 ```dtd
 <!ATTLIST element-name attribute-name attribute-type attribute-value>
