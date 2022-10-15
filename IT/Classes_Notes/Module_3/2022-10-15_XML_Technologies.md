@@ -509,7 +509,34 @@ graph TD
 <payment type="check" />
 ```
 
----
+- The **attribute-type** can be one of the following:
+
+| **Type**       	| **Description**                               	|
+|----------------	|-----------------------------------------------	|
+| CDATA          	| The value is character data                   	|
+| (en1\|en2\|..) 	| The value must be one from an enumerated list 	|
+| ID             	| The value is a unique id                      	|
+| IDREF          	| The value is the id of another element        	|
+| IDREFS         	| The value is a list of other ids              	|
+| NMTOKEN        	| The value is a valid XML name                 	|
+| NMTOKENS       	| The value is a list of valid XML names        	|
+| ENTITY         	| The value is an entity                        	|
+| ENTITIES       	| The value is a list of entities               	|
+| NOTATION       	| The value is a name of a notation             	|
+| xml:           	| The value is a predefined xml value           	|
+
+- The **attribute-value** can be one of the following:
+
+| Value        	| Explanation                        	|
+|--------------	|------------------------------------	|
+| `value`        	| The default value of the attribute 	|
+| `#REQUIRED`    	| The attribute is required             |
+| `#IMPLIED`     	| The attribute is optional             |
+| `#FIXED value` 	| The attribute value is fixed          |
+
+
+
+
 ## **XML Validation**
 - An XML document with *correct syntax* is called "**Well Formed**".
 - A well formed XML document can be validated against DTD or Schema.

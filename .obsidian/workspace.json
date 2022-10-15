@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "URI",
+                "query": "tag:#REQUIRED",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "63e607318e6b255b",
+  "active": "a2e5b8df779a4671",
   "lastOpenFiles": [
     "().md",
     "IT/Classes_Notes/Module_3/2022-10-15_XML_Technologies.md",
