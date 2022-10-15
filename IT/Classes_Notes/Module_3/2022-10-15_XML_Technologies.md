@@ -47,6 +47,7 @@ Tags: #xml
 	- [XML CDATA Sections](XML-CDATA-Sections)
 		- [CDATA Rules](#CDATA-Rules)
 	- [PCDATA](#PCDATA)
+	- [DTD Attributes](#DTD-Attributes)
 ---
 # **XML**
 - XML *stands for* **[[xml|eXtensible Markup Language]]**.
@@ -544,7 +545,7 @@ graph TD
 | `#IMPLIED`     	| The attribute is optional             |
 | `#FIXED value` 	| The attribute value is fixed          |
 
-
+## **Entities**
 
 ## **XML Validation**
 - An XML document with *correct syntax* is called "**Well Formed**".
