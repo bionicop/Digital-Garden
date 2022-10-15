@@ -26,9 +26,17 @@
               "type": "markdown",
               "state": {
                 "file": "IT/Classes_Notes/Module_3/2022-10-15_XML_Technologies.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "4b94cbebd8b0ca00",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -163,15 +171,15 @@
   },
   "active": "1449f4c73d2775c1",
   "lastOpenFiles": [
-    "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
-    "IT/Classes_Notes/Module_3/2022-10-15_XML_Technologies.md",
-    "().md",
-    "IT/Classes_Notes/Module_3/m3_syllabus.md",
-    "Side_Notes/type_of_internet_connection.md",
-    "template/mermaid_special_characters.md",
-    "Side_Notes/URI.md",
+    "Side_Notes/meaning.md",
     "Side_Notes/computer.md",
+    "Side_Notes/type_of_internet_connection.md",
+    "Side_Notes/URI.md",
+    "Side_Notes/xml.md",
     "template/Note.md",
-    "Side_Notes/Untitled.md"
+    "template/mermaid_special_characters.md",
+    "IT/Classes_Notes/Module_3/2022-10-15_XML_Technologies.md",
+    "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
+    "().md"
   ]
 }

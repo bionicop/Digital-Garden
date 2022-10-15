@@ -48,6 +48,7 @@ Tags: #xml
 		- [CDATA Rules](#CDATA-Rules)
 	- [PCDATA](#PCDATA)
 	- [DTD Attributes](#DTD-Attributes)
+	- [Entities](#Entities)
 ---
 # **XML**
 - XML *stands for* **[[xml|eXtensible Markup Language]]**.
@@ -301,11 +302,12 @@ graph TD
 </root>
 ```
 
+
 ```mermaid
 graph TD
-    A(Namespace)
-    A --> B(Default Namespace) --- C("xmlns = &quot;URI&quot;")
-    A --> D(Explicit namespace) --- E("xmlns:prefix=&quot;URI&quot;")
+    A(Namespace) 
+    A --> B(Default Namespace) --- C("xmlns = &quot;URI&quot;")
+    A --> D(Explicit namespace) --- E("xmlns:prefix=&quot;URI&quot;")
 ```
 
 1. Default Namespaces
@@ -342,10 +344,11 @@ graph TD
 
 ```mermaid
 graph TD
-    A(XML Schema Language is a formal language to express XML Schemas.)
-    A --> B(DTD) --- C(Document Type Definition)
-    A --> D(W3C XML Schema)
+    A(XML Schema Language is a formal language to express XML Schemas.) 
+    A --> B(DTD) --- C(Document Type Definition)
+    A --> D(W3C XML Schema)
 ```
+
 ---
 ## **DTD**
 - DTD *stands for* (**Document Type Definition**).
@@ -359,9 +362,9 @@ graph TD
 - DTD are of 2 types:
 ```mermaid
 graph TD
-    A(DTD)
-    A --> B(Internal)
-    A --> D(External)
+    A(DTD) 
+    A --> B(Internal)
+    A --> C(External)
 ```
 
 ### **Internal DTD**
@@ -525,7 +528,7 @@ graph TD
 | **Type**       	| **Description**                               	|
 |----------------	|-----------------------------------------------	|
 | CDATA          	| The value is character data                   	|
-| (en1\|en2\|..) 	| The value must be one from an enumerated list 	|
+| (en1\|en2\|..) 	| The value must be one from an enumerated (It allows defining a specific list of values where one of the values must match. It is an Enumerated Attribute Type.) list 	|
 | ID             	| The value is a unique id                      	|
 | IDREF          	| The value is the id of another element        	|
 | IDREFS         	| The value is a list of other ids              	|
