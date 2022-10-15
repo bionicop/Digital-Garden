@@ -41,6 +41,8 @@ Tags: #xml
 		- [xmlns Attribute](#xmlns-Attribute)
 	- [XML Schema Languages](#XML-Schema-Languages)
 	- [DTD](#DTD)
+		- [Internal DTD](#Internal-DTD)
+		- [External DTD](#External-DTD)
 ---
 # **XML**
 - XML *stands for* **[[xml|eXtensible Markup Language]]**.
@@ -357,7 +359,7 @@ graph TD
 ```
 
 ### **Internal DTD**
-- Internal DTD is defined **within a XML document**.
+- It is defined **within a XML document**.
 - `<!DOCTYPE>` tag is placed after the *declaration in internal dtd*.
 - *Advantage of internal dtd* is that ==document is validated by itself **without external reference**==.
 - Example:
@@ -385,7 +387,54 @@ graph TD
 		3. **!ELEMENT heading** defines the *heading element* to be of type "**#PCDATA**"
 		4. **!ELEMENT body** defines the *body element* to be of type "**#PCDATA**"
 
-### **Internal DTD**
+### **External DTD**
+- It is written in a *separate file* (**with `.dtd` extension**) and later this *file linked to a XML document*.
+- It can be *linked to several XML documents* hence **reusable**.
+- If we *need to make any changes in the DTD* they are made **just once**.
+- *Reduces the size* of the XML document.
+-  Example:
+1. note.xml
+```xml
+<?xml version="1.0"?>  
+<!DOCTYPE note SYSTEM "note.dtd">  
+<note>  
+  <to>Tove</to>  
+  <from>Jani</from>  
+  <heading>Reminder</heading>  
+  <body>Don't forget me this weekend!</body>  
+</note>
+```
+2. note.dtd
+```dtd
+<!ELEMENT note (to,from,heading,body)>  
+<!ELEMENT to (#PCDATA)>  
+<!ELEMENT from (#PCDATA)>  
+<!ELEMENT heading (#PCDATA)>  
+<!ELEMENT body (#PCDATA)>
+```
+
+## **Declaring Elements in DTD**
+- Syntax: 
+```dtd
+<!ELEMENT name content>
+```
+
+| **Symbol (name)**                                	| **Escape Sequence**                                                                                 	|
+|--------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|
+| Empty Elements                                   	| ```xml <!ELEMENT element-name category>``` or ```xml <!ELEMENT element-name (element-content)>```   	|
+| Elements with Parsed Character Data              	| ```xml <!ELEMENT element-name (#PCDATA)>```                                                         	|
+| Elements with any Contents                       	| ```xml <!ELEMENT element-name ANY>```                                                               	|
+| Elements with Children (sequences)               	| ```xml <!ELEMENT element-name (child1)>``` or ```xml <!ELEMENT element-name (child1,child2,...)>``` 	|
+| Declaring Only One Occurrence of an Element      	| ```xml <!ELEMENT element-name (child-name)>```                                                      	|
+| Declaring Minimum One Occurrence of an Element   	| ```xml <!ELEMENT element-name (child-name+)>```                                                     	|
+| Declaring Zero or More Occurrences of an Element 	| ```xml <!ELEMENT element-name (child-name*)>```                                                     	|
+| Declaring Zero or One Occurrences of an Element  	| ```xml <!ELEMENT element-name (child-name?)>```                                                     	|
+| Declaring either/or Content                      	| ```xml <!ELEMENT note (to,from,header,(message\|body))>```                                          	|
+| Declaring Mixed Content                          	| ```xml <!ELEMENT note (#PCDATA\|to\|from\|header\|message)*>```                                     	|
+
+---
+
+
 ---
 ## **XML Validation**
 - An XML document with *correct syntax* is called "**Well Formed**".
