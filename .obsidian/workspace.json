@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "3df9d0868e83a1a0",
+            "id": "97ad2ecc856431ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,17 +173,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3df9d0868e83a1a0",
+  "active": "97ad2ecc856431ab",
   "lastOpenFiles": [
-    "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
+    "Side_Notes/URI.md",
     "IT/Classes_Notes/Module_3/2022-10-15_XML_Technologies.md",
+    "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
     "IT/Classes_Notes/Module_3/m3_syllabus.md",
-    "IT/Classes_Notes/Module_1/2022-09-17_Internet_Basics.md",
+    "Side_Notes/type_of_internet_connection.md",
+    "Side_Notes/computer.md",
     "template/Note.md",
-    "Untitled.md",
-    "IT/Attachment/xml_help.png",
+    "Side_Notes/Untitled.md",
     "Side_Notes/xml.md",
-    "IT/Attachment/ip_address.png",
-    "Pasted image 20220927152628.png"
+    "IT/Classes_Notes/Module_1/2022-09-17_Internet_Basics.md"
   ]
 }

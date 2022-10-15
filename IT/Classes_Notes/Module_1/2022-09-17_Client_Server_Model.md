@@ -361,7 +361,7 @@ graph TD
 - A **URL allows every resource** (ex- *HTML page, image, sound clip ,etc.*) on the [**WWW**](#WWW) ==to have a unique address==.
 - A *resource is used to represent basic elements* in the web which can be ==identified, named and addressed==.
 - *Resource on* the *web is identified by an address* called **Uniform Resource Locator**.
-- *Subset* of *[URI](#URI)* (**Uniform Resource Identifier**).
+- *Subset* of *[[URI|URI]]* (**Uniform Resource Identifier**).
 
 ## **Parts of a URL**
 

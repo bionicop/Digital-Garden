@@ -218,7 +218,7 @@ graph TD
 ## **XML Namespaces**
 - A Namespace is a **set of unique names**. 
 - Namespace is a mechanisms by which *element and attribute* ==name can be assigned to a group==. 
-- The Namespace *is identified by [URI](#URI)* (**Uniform Resource Identifier**).
+- The Namespace *is identified by [[URI|URI]]* (**Uniform Resource Identifier**).
 - *In short*: XML Namespaces provide a method to **avoid element name conflicts**.
 - Syntax:
 ```xml
