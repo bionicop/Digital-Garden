@@ -176,13 +176,13 @@ graph TD
 ---
 ## **XML Special Characters**
 
-| **Symbol (name)**              | **Escape Sequence** |
-| ------------------------------ | ------------------- |
-| < (less-than)                  | &#60; or &lt;       |
-| > (greater-than)               | &#62; or  &gt;      |
-| & (ampersand)                  | &#38;               |
-| ' (apostrophe or single quote) | &#39;               |
-| " (double-quote)               | &#34;               |
+| **Symbol (name)**              	| **Escape Sequence** 	|
+|--------------------------------	|---------------------	|
+| < (less-than)                  	| `&#60;` or `&lt;`   	|
+| > (greater-than)               	| `&#62;` or `&gt;`   	|
+| & (ampersand)                  	| `&#38;`             	|
+| ' (apostrophe or single quote) 	| `&#39;`             	|
+| " (double-quote)               	| `&#34;`             	|
 
 ---
 ## **Elements vs Attributes**
