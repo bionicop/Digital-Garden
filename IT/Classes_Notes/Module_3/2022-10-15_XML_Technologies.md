@@ -192,7 +192,6 @@ graph TD
 | They contain text, other elements, or can be empty.                                                           	| Attributes are always placed inside the opening tag of an element.                                      	|
 | ```xml <person> 	<gender>female</gender> 		<firstname>Rias</firstname> 		<lastname>Gremory</lastname> </person>``` 	    | ```xml <person gender = "female"> 	<firstname>Rias</firstname> 	<lastname>Gremory</lastname> </person>``` 	        |
 
-
 *and if you are looking for which is the best please visit here:* https://stackoverflow.com/a/25764306
 
 
