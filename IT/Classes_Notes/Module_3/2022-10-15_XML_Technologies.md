@@ -46,6 +46,7 @@ Tags: #xml
 	- [Declaring Elements in DTD](#Declaring-Elements-in-DTD)
 	- [XML CDATA Sections](XML-CDATA-Sections)
 		- [CDATA Rules](#CDATA-Rules)
+	- [PCDATA](#PCDATA)
 ---
 # **XML**
 - XML *stands for* **[[xml|eXtensible Markup Language]]**.
@@ -179,7 +180,7 @@ Tags: #xml
 
 ---
 ## **Parsing**
-- A parser is used to check whether a document is [Well Formed](#Well-Formed).
+- A parser is *used to check whether a document* is [Well Formed](#Well-Formed).
 - There are 2 types of parsing:
 ```mermaid
 graph TD
@@ -436,6 +437,15 @@ graph TD
 | Declaring either/or Content                      	| `<!ELEMENT note (to,from,header,(message\|body))>`                                       	                |
 | Declaring Mixed Content                          	| `<!ELEMENT note (#PCDATA\|to\|from\|header\|message)*>`                                     	                |
 
+- Symbols for *defining content* in *element declarations*.
+| **Symbol** 	    | **Meaning**                                                      	    |
+|------------	|------------------------------------------------------------------	|
+| ,          	| _Determines the sequence_ in which **elements must appear**.     	    |
+| +          	| Requires that **atleast one instance** of _element be included_. 	    |
+| ?          	| Allows **zero or one instance** of _an element_.                 	    |
+| *          	| Allows **zero or more instance** of _an element_.                	    |
+| !          	| Allows _one element_ from **group of elements to be included**.  	    |
+
 ---
 ## **XML CDATA Sections**
 - CDATA means ***Character Data***.
@@ -467,6 +477,28 @@ graph TD
 - *Nesting is not allowed* in CDATA section.
 
 ---
+## **PCDATA**
+- PCDATA *stands for* (**Parsed Character Data**).
+- XML documents are *read and processed by a specific piece of software* called an **XML parser**.
+- *PCDATA* is the ***text that will be parsed by a parser***.
+- **Tags inside** the PCDATA will be **treated as markup and entities will be expanded**.
+- *In other words* you can say that a PCDATA means the *XML parser examine the data and ensure that it doesn't content entity if it contains that will be replaced*.
+
+---
+## **DTD Attributes**
+- Attributes are declared with an *ATTLIST declaration*.
+- Syntax:
+```dtd
+<!ATTLIST element-name attribute-name attribute-type attribute-value>
+```
+- In above Syntax:
+	1. The DTD attributes `<!ATTLIST` keyword if the *element contains the attribute*.
+		1. **element-name** specifies the *name of the element* ==to which the attribute applies==.
+		2. **attribute-name** specifies the *name of the attribute* ==which is included with the element-name==.
+		3. **attribute-type** defines the *type of attributes*.
+		4. **attribute-value** *takes a fixed value that the attributes must define*.
+- example
+1. dtd
 
 ---
 ## **XML Validation**
