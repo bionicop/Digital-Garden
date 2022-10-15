@@ -489,6 +489,15 @@ graph TD
 ---
 ## **DTD Attributes**
 - Attributes are declared with an *ATTLIST declaration*.
+- When declaring attributes, you can specify *how the processor should handle the data that appears in the value*.
+
+```mermaid
+graph TD
+    A(Attribute type)
+    A --> B(String type)
+    A --> C(Tokenized types)
+    A --> D(Enumerated types)
+```
 - Syntax:
 ```dtd
 <!ATTLIST element-name attribute-name attribute-type attribute-value>
@@ -533,7 +542,6 @@ graph TD
 | `#REQUIRED`    	| The attribute is required             |
 | `#IMPLIED`     	| The attribute is optional             |
 | `#FIXED value` 	| The attribute value is fixed          |
-
 
 
 
