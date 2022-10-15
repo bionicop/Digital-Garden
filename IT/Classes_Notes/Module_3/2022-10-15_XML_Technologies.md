@@ -239,7 +239,7 @@ graph TD
 - When using *prefixes* in XML, a **namespace** for the *prefix must be defined*.
 - The namespace can be defined by an **xmlns** attribute in the start tag of an element. 
 
-- for an example we wanna add 2 tables in one
+- for an example we wanna add 2 tables in one.
 - table 1
 ```xml
 <trip>
@@ -549,6 +549,74 @@ graph TD
 | `#FIXED value` 	| The attribute value is fixed          |
 
 ## **Entities**
+- Entities are used to *define shortcuts to special characters*.
+- Entities can be *declared:*
+```mermaid
+graph TD
+    A(Entities) 
+    A --> B(Internal)
+    A --> C(External)
+```
+
+- Internal Entity Declaration:
+	- Syntax: 
+```dtd
+<!ENTITY entity-name "entity-value">
+```
+- Example:
+1. dtd file
+```dtd
+<!ENTITY writer "Donald Duck.">
+<!ENTITY copyright "Copyright W3Schools.">
+```
+2. xml file
+```xml
+<author>&writer;&copyright;</author>
+```
+
+```mermaid
+graph TD
+    A(Entity has three parts) 
+    A --> B(An ampersand) --- E(&)
+    A --> C(An entity name)
+    A --> D(A semicolon) --- F(";")
+```
+
+- External Entity Declaration::
+	- Syntax: 
+```dtd
+<!ENTITY entity-name SYSTEM "URI/URL">
+```
+- Example:
+1. dtd file
+```dtd
+<!ENTITY writer SYSTEM
+"https://www.w3schools.com/entities.dtd">
+<!ENTITY copyright SYSTEM
+"https://www.w3schools.com/entities.dtd">
+```
+2. xml file
+```xml
+<author>&writer;&copyright;</author>
+```
+
+---
+## **DTD Mixed Content**
+- For an element that can contain both PCDATA and other elements use the _#PCDATA_, "`|`" and "`*`" *signs in combination*. 
+- The *above mentioned combination can be used to declare* that an element can contain *zero or more occurrences* of ==either/or element and PCDATA==.
+```xml
+<!ELEMENT elementname (#PCDATA|child1|child2)*>
+```
+1. **ELEMENT** is the *element declaration tag*.
+2. **elementname** is the *name of the element*.
+3. **PCDATA** is the text that *is not markup*. `#PCDATA` *must come first in the mixed content declaration*.
+	1. _child1, child2.._ are the ==elements and each element must have its own definition within the DTD==.
+	2. The operator (`*`) must follow the *mixed content declaration if children elements are included*.
+	3. The (*#PCDATA*) and *children element declarations must be separated* by the (|) operator.
+
+---
+## **XML DOM**
+- 
 
 ## **XML Validation**
 - An XML document with *correct syntax* is called "**Well Formed**".
