@@ -616,9 +616,12 @@ graph TD
 
 ---
 ## **XML DOM**
-- 
+- DOM *stands for* (**Document Object Model**).
+- It defines a *standard for accessing and manipulating documents*.
+- It defines the *logical structure of documents* and the ==way a document is accessed and manipulated==.
+- Provides a standard programming interface that can be used in a wide variety of environments and applications. The Document Object Model can be used with any programming language.
 
 ## **XML Validation**
 - An XML document with *correct syntax* is called "**Well Formed**".
-- A well formed XML document can be validated against DTD or Schema.
+- A *well formed XML document* can be **validated against DTD** or **Schema**.
 
