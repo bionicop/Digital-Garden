@@ -484,7 +484,7 @@ graph TD
 - XML documents are *read and processed by a specific piece of software* called an **XML parser**.
 - *PCDATA* is the ***text that will be parsed by a parser***.
 - **Tags inside** the PCDATA will be **treated as markup and entities will be expanded**.
-- *In other words* you can say that a PCDATA means the *XML parser examine the data and ensure that it doesn't content entity if it contains that will be replaced*.
+- *In other words* you can say that a PCDATA means the *XML parser examine the data and ensure that it doesn't contain entity if it contains that will be replaced*.
 
 ---
 ## **DTD Attributes**
