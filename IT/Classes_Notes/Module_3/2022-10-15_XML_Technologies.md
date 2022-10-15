@@ -176,13 +176,25 @@ graph TD
 ---
 ## **XML Special Characters**
 
-| **Symbol (name)**              	    | **Escape Sequence** 	    |
-|--------------------------------	|---------------------	|
-| < (less-than)                  	| &#60; or &lt;       	|
-| > (greater-than)               	| &#62; or  &gt;      	|
-| & (ampersand)                  	| &#38;               	|
-| ' (apostrophe or single quote) 	| &#39;               	|
-| " (double-quote)               	| &#34;               	|
+| **Symbol (name)**              | **Escape Sequence** |
+| ------------------------------ | ------------------- |
+| < (less-than)                  | &#60; or &lt;       |
+| > (greater-than)               | &#62; or  &gt;      |
+| & (ampersand)                  | &#38;               |
+| ' (apostrophe or single quote) | &#39;               |
+| " (double-quote)               | &#34;               |
+
+---
+## **Elements vs Attributes**
+| **Elements**                                                                                                  	    | **Attributes**                                                                                          	    |
+|---------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------	|
+| They are the **main building blocks** of _both XML and HTML_ documents.                                       	        | They provide **extra information** _about elements_.                                                    	    |
+| They contain text, other elements, or can be empty.                                                           	| Attributes are always placed inside the opening tag of an element.                                      	|
+| ```xml <person> 	<gender>female</gender> 		<firstname>Rias</firstname> 		<lastname>Gremory</lastname> </person>``` 	    | ```xml <person gender = "female"> 	<firstname>Rias</firstname> 	<lastname>Gremory</lastname> </person>``` 	        |
+
+
+*and if you are looking for which is the best please visit here:* https://stackoverflow.com/a/25764306
+
 
 ---
 ## **XML Validation**
