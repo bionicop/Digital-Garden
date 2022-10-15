@@ -39,7 +39,8 @@ Tags: #xml
 	- [Displaying XML](#Displaying-XML)
 	- [XML Namespaces](#XML-Namespaces)
 		- [xmlns Attribute](#xmlns-Attribute)
-	- 
+	- [XML Schema Languages](#XML-Schema-Languages)
+	- [DTD](#DTD)
 ---
 # **XML**
 - XML *stands for* **[[xml|eXtensible Markup Language]]**.
@@ -322,6 +323,69 @@ graph TD
   </bk:BOOK>  
 </BOOKS>
 ```
+
+---
+## **XML Schema Languages**
+- An XML Schema describes the **structure of an XML document**.
+- The purpose of an XML Schema is to define the *legal building blocks of an XML document*:
+	- The **elements and attributes** that *can appear in a document*.
+	- The *number of* (and order of) **child elements**.
+	- **Data types** for *elements and attributes*.
+
+```mermaid
+graph TD
+    A(XML Schema Language is a formal language to express XML Schemas.)
+    A --> B(DTD) --- C(Document Type Definition)
+    A --> D(W3C XML Schema)
+```
+---
+## **DTD**
+- DTD *stands for* (**Document Type Definition**).
+- DTD defines the *structure* and the **legal elements and attributes** of an XML document.
+- `<!DOCTYPE>` tag is used to **create a DTD**.
+- Syntax:
+```xml
+<!DOCTYPE root_element [element_declarations]>
+```
+
+- DTD are of 2 types:
+```mermaid
+graph TD
+    A(DTD)
+    A --> B(Internal)
+    A --> D(External)
+```
+
+### **Internal DTD**
+- Internal DTD is defined **within a XML document**.
+- `<!DOCTYPE>` tag is placed after the *declaration in internal dtd*.
+- *Advantage of internal dtd* is that ==document is validated by itself **without external reference**==.
+- Example:
+```xml
+<?xml version="1.0"?>  
+<!DOCTYPE note [  
+<!ELEMENT note (to,from,heading,body)>  
+<!ELEMENT to (#PCDATA)>  
+<!ELEMENT from (#PCDATA)>  
+<!ELEMENT heading (#PCDATA)>  
+<!ELEMENT body (#PCDATA)>  
+]>  
+<note>  
+	<to>Tove</to>  
+	<from>Jani</from>  
+	<heading>Reminder</heading>  
+	<body>Don't forget me this weekend</body>  
+</note>
+```
+- The DTD above is interpreted like this:
+	1. **!DOCTYPE note** defines that the *root element of this document* is **note**.
+	2. **!ELEMENT note** defines that the *note element must contain four elements:* "**to,from,heading,body**".
+		1. **!ELEMENT to** defines the *to element* to be of type "**#PCDATA**"
+		2. **!ELEMENT from** defines the *from element* to be of type "**#PCDATA**"
+		3. **!ELEMENT heading** defines the *heading element* to be of type "**#PCDATA**"
+		4. **!ELEMENT body** defines the *body element* to be of type "**#PCDATA**"
+
+### **Internal DTD**
 ---
 ## **XML Validation**
 - An XML document with *correct syntax* is called "**Well Formed**".
