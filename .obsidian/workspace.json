@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "692f89878c44c563",
+            "id": "6c94bcf9b6a119ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Classes_Notes/m1_syllabus.md",
+                "file": "IT/Classes_Notes/Module_3/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Classes_Notes/m1_syllabus.md",
+                "file": "IT/Classes_Notes/Module_3/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Classes_Notes/m1_syllabus.md",
+                "file": "IT/Classes_Notes/Module_3/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Classes_Notes/m1_syllabus.md"
+                "file": "IT/Classes_Notes/Module_3/Untitled.md"
               }
             }
           },
@@ -148,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "692f89878c44c563",
+  "active": "6c94bcf9b6a119ec",
   "lastOpenFiles": [
-    "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
-    "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
-    "IT/Attachment/ip_address.png",
-    "IT/Classes_Notes/m1_syllabus.md",
+    "IT/Classes_Notes/Module_I/2022-09-17_Client_Server_Model.md",
+    "IT/Classes_Notes/Module_3/Untitled.md",
+    "IT/Classes_Notes/Module_I/2022-09-17_Internet_Basics.md",
     "template/Note.md",
+    "IT/Classes_Notes/m1_syllabus.md",
+    "IT/Attachment/ip_address.png",
     "Side_Notes/type_of_internet_connection.md",
     "Side_Notes/computer.md",
     "2022-09-18.md",
-    "[.md",
-    "Chemistry.md"
+    "[.md"
   ]
 }
