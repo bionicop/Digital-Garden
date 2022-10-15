@@ -229,7 +229,7 @@ graph TD
 
 - for an example we wanna add 2 tables in one
 - table 1
-```
+```xml
 <trip>
 	<class>
 		<students>
@@ -242,8 +242,9 @@ graph TD
 	</class>
 </trip>
 ```
+
 - table 2
-```
+```xml
 <trip>
 	<class>
 		<students>
@@ -258,7 +259,7 @@ graph TD
 </trip>
 ```
 
-- after merging-
+- Solving the Name Conflict Using a Prefix & an xmlns Attribute-
 ```xml
 <root
 	xmlns:a="https://www.class1.com"
