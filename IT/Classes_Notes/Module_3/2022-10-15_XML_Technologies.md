@@ -36,8 +36,10 @@ Tags: #xml
 	- [Parsing](#Parsing)
 	- [XML Special Characters](#XML-Special-Characters)
 	- [Elements vs Attributes](#Elements-vs-Attributes)
-	- [Displaying XML](#*Displaying XML)
+	- [Displaying XML](#Displaying-XML)
 	- [XML Namespaces](#XML-Namespaces)
+		- [xmlns Attribute](#xmlns-Attribute)
+	- 
 ---
 # **XML**
 - XML *stands for* **[[xml|eXtensible Markup Language]]**.
