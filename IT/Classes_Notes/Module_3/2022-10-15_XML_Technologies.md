@@ -500,7 +500,14 @@ graph TD
 		3. **attribute-type** defines the *type of attributes*.
 		4. **attribute-value** *takes a fixed value that the attributes must define*.
 - example
-1. dtd
+1. dtd file
+```dtd
+<!ATTLIST payment type CDATA "check">
+```
+2. xml file
+```xml
+<payment type="check" />
+```
 
 ---
 ## **XML Validation**
