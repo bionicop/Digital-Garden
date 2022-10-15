@@ -292,6 +292,36 @@ graph TD
 </root>
 ```
 
+```mermaid
+graph TD
+    A(Namespace)
+    A --> B(Default Namespace) --- C("xmlns = &quot;URI&quot;")
+    A --> D(Explicit namespace) --- E("xmlns:prefix=&quot;URI&quot;")
+```
+
+1. Default Namespaces
+	- Defining a default namespace for an element ***saves us from using prefixes in all the child elements***.
+	- For the *entire document* ==xmlns attribute is put in the root element==.
+	- Example: *(It can also apply a namespace to a particular element.)*
+```xml
+<BOOK xmlns="urn:example.microsoft.com:BookInfo"> 
+	<TITLE>Creepy Crawlies</TITLE> 
+	<PRICE currency="US Dollar">22.95</PRICE> 
+</BOOK>
+```
+
+2. Explicit Namespaces
+	- This is similar to default namespace, Except a prefix is associated with the xmlns attribute.
+	- Example:
+```xml
+<BOOKS>  
+  <bk:BOOK xmlns:bk="urn:example.microsoft.com:BookInfo"  
+           xmlns:money="urn:Finance:Money">  
+    <bk:TITLE>Creepy Crawlies</bk:TITLE>  
+    <bk:PRICE money:currency="US Dollar">22.95</bk:PRICE>  
+  </bk:BOOK>  
+</BOOKS>
+```
 ---
 ## **XML Validation**
 - An XML document with *correct syntax* is called "**Well Formed**".
