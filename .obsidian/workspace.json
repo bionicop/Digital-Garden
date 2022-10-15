@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "language",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,11 +78,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -163,15 +165,15 @@
   },
   "active": "1449f4c73d2775c1",
   "lastOpenFiles": [
-    "IT/Classes_Notes/Module_3/m3_syllabus.md",
+    "IT/Classes_Notes/Module_1/2022-09-17_Internet_Basics.md",
     "IT/Classes_Notes/Module_3/2022-10-15.md",
+    "IT/Classes_Notes/Module_3/m3_syllabus.md",
     "template/mermaid_special_characters.md",
     "Side_Notes/meaning.md",
     "Side_Notes/computer.md",
     "Side_Notes/type_of_internet_connection.md",
     "Side_Notes/URI.md",
     "Side_Notes/xml.md",
-    "template/Note.md",
-    "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md"
+    "template/Note.md"
   ]
 }
