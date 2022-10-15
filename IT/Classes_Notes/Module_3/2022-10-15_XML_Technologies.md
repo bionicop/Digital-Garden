@@ -438,6 +438,7 @@ graph TD
 | Declaring Mixed Content                          	| `<!ELEMENT note (#PCDATA\|to\|from\|header\|message)*>`                                     	                |
 
 - Symbols for *defining content* in *element declarations*.
+
 | **Symbol** 	    | **Meaning**                                                      	    |
 |------------	|------------------------------------------------------------------	|
 | ,          	| _Determines the sequence_ in which **elements must appear**.     	    |
@@ -450,7 +451,7 @@ graph TD
 ## **XML CDATA Sections**
 - CDATA means ***Character Data***.
 - It means that the *data in between these strings* ==includes data== that _could_ ==be interpreted as XML markup, but should not be==.
-- The predefined entities such as `&lt;`, `&gt;`, and `&amp;` require t*yping and are generally difficult to read in the markup*. In such cases, CDATA section can be used.
+- The predefined entities such as `&lt;`, `&gt;`, and `&amp;` require *typing and are generally difficult to read in the markup*. In such cases, CDATA section can be used.
 - By using CDATA section, you are *commanding the parser that the particular section of the document contains **no markup*** and ==should be treated as regular text==.
 - Syntax:
 ```xml
