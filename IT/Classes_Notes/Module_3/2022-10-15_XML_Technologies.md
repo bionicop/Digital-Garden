@@ -84,10 +84,10 @@ Tags: #xml
 ## **Well Formed**
 - An XML document is called well-formed if it satisfies certain rules, *specified by the W3C*.
 	- XML **documents** *must have a* **root element*.
-	- XML **elements** *must have a* **closing tag*.
-	- XML **tags** are **case sensitive**.
-	- XML **elements** *must be* **properly nested**.
-	- XML **attribute** *values must be* **quoted**.
+	- XML **elements** *must have a* **closing tag*.
+	- XML **tags** are **case sensitive**.
+	- XML **elements** *must be* **properly nested**.
+	- XML **attribute** *values must be* **quoted**.
 
 ---
 ## **XML Example**
