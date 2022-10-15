@@ -24,6 +24,7 @@ Tags: #xml
 		- [Prolog](#Prolog)
 		- [Body](#Body)
 	- [Well Formed](#Well-Formed)
+		- [XML Rules](#XML-Rules)
 	- [XML Example](#XML-Example)
 	- [XML Declaration](#XML-Declaration)
 	- [XML Element](#XML-Element)
@@ -82,12 +83,15 @@ Tags: #xml
 
 ---
 ## **Well Formed**
-- An XML document is called well-formed if it satisfies certain rules, *specified by the W3C*.
-	- XML **documents** *must have a* **root element*.
-	- XML **elements** *must have a* **closing tag*.
-	- XML **tags** are **case sensitive**.
-	- XML **elements** *must be* **properly nested**.
-	- XML **attribute** *values must be* **quoted**.
+- An XML document is called well-formed if it satisfies certain [rules](#XML-Rules), *specified by the W3C*.
+
+### **XML Rules**
+- XML **documents** *must have a* **root element**.
+- XML **elements** *must have a* **closing tag**.
+- XML **tags** are **case sensitive**.
+- XML **elements** *must be* **properly nested**.
+- XML **attribute** *values must be* **quoted**.
+- All **empty elements** *must be* **closed**.
 
 ---
 ## **XML Example**
@@ -160,8 +164,27 @@ Tags: #xml
 
 ---
 ## **Parsing**
-- A parser is used to check whether a document is [Well Formed](#Well-Formed)
+- A parser is used to check whether a document is [Well Formed](#Well-Formed).
+- There are 2 types of parsing:
+```mermaid
+graph TD
+    A(Parsing) 
+    A --> B(Validating) --> C(A validating parser checks whether an XML document is well formed and also if the document conforms to an associated DTD.)
+    A --> D(Non Validating) --> E(A non validating parser checks whether XML document is well formed. Browsers act as non validating parsers.)
+```
 
+---
+## **XML Special Characters**
+
+| **Symbol (name)**              	    | **Escape Sequence** 	    |
+|--------------------------------	|---------------------	|
+| < (less-than)                  	| &#60; or &lt;       	|
+| > (greater-than)               	| &#62; or  &gt;      	|
+| & (ampersand)                  	| &#38;               	|
+| ' (apostrophe or single quote) 	| &#39;               	|
+| " (double-quote)               	| &#34;               	|
+
+---
 ## **XML Validation**
 - An XML document with *correct syntax* is called "**Well Formed**".
 - A well formed XML document can be validated against DTD or Schema.
