@@ -9,7 +9,7 @@ tags:
 - Modem
 ---
 
-<< [[m1_syllabus|Syllabus]] | [[2022-09-17_Client_Server_Model|Clent Server Model]] >>
+<< [[m1_syllabus|Syllabus Module 1]] | [[2022-09-17_Client_Server_Model|Clent Server Model]] >>
 
 # ❗❓ Info
 Course Name: Internet Technologies

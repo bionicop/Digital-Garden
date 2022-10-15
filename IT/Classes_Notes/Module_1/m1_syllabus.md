@@ -4,7 +4,7 @@ modification date: Saturday 17th September 2022
 aliases: [Internet Technologies] 
 tags: 
 - Internet_Technologies
-- Syllabus
+- Syllabus_m1
 ---
 
  | [[2022-09-17_Internet_Basics|Internet Basics]] >>
@@ -13,7 +13,7 @@ tags:
 Course Name: Internet Technologies
 Date: Saturday 17th September 2022
 Professor/Speaker: *teach*
-Tags: #Internet_Technologies 
+Tags: #Internet_Technologies #Syllabus_m1 
 
 # Module 1
 ---
@@ -27,7 +27,6 @@ Tags: #Internet_Technologies
 - [[|Domain Registration]]
 - [[|Internet Services]]
 - [[|A Brief Overview of TCP/IP and its Services]]
-- [[|HTTP Intoduction]]
 
 ## #2 - [[|HTTP]]
 - [[|Introduction]]

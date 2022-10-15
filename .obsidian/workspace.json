@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a74929e5b6edca6e",
+        "id": "935988a42f08b19a",
         "type": "tabs",
         "children": [
           {
-            "id": "6c94bcf9b6a119ec",
+            "id": "63e607318e6b255b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Classes_Notes/Module_3/Untitled.md",
+                "file": "IT/Classes_Notes/Module_3/2022-10-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2-",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Classes_Notes/Module_3/Untitled.md",
+                "file": "IT/Classes_Notes/Module_3/2022-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Classes_Notes/Module_3/Untitled.md",
+                "file": "IT/Classes_Notes/Module_3/2022-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Classes_Notes/Module_3/Untitled.md"
+                "file": "IT/Classes_Notes/Module_3/2022-10-15.md"
               }
             }
           },
@@ -148,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e5963bb9f6c69624",
+  "active": "63e607318e6b255b",
   "lastOpenFiles": [
-    "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
-    "IT/Classes_Notes/Module_3/Untitled.md",
+    "IT/Classes_Notes/Module_3/m3_syllabus.md",
+    "IT/Classes_Notes/Module_1/m1_syllabus.md",
+    "IT/Classes_Notes/Module_3/2022-10-15.md",
     "IT/Classes_Notes/Module_1/2022-09-17_Internet_Basics.md",
+    "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
+    "2022-10-14.md",
+    "2022-10-16.md",
     "template/Note.md",
-    "IT/Classes_Notes/m1_syllabus.md",
     "IT/Attachment/ip_address.png",
-    "Side_Notes/type_of_internet_connection.md",
-    "Side_Notes/computer.md",
-    "2022-09-18.md",
-    "[.md"
+    "Side_Notes/type_of_internet_connection.md"
   ]
 }

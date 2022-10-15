@@ -2,7 +2,7 @@
   "cssTheme": "Yin and Yang",
   "baseFontSize": 30,
   "accentColor": "",
-  "showViewHeader": false,
+  "showViewHeader": true,
   "nativeMenus": false,
   "translucency": false
 }
