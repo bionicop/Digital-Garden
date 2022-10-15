@@ -494,10 +494,10 @@ graph TD
 
 ```mermaid
 graph TD
-    A(Attribute type)
-    A --> B(String type)
-    A --> C(Tokenized types)
-    A --> D(Enumerated types)
+    A(Attribute type) 
+    A --> B(String type)
+    A --> C(Tokenized types)
+    A --> D(Enumerated types)
 ```
 
 - Syntax:
