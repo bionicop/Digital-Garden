@@ -43,6 +43,9 @@ Tags: #xml
 	- [DTD](#DTD)
 		- [Internal DTD](#Internal-DTD)
 		- [External DTD](#External-DTD)
+	- [Declaring Elements in DTD](#Declaring-Elements-in-DTD)
+	- [XML CDATA Sections](XML-CDATA-Sections)
+		- [CDATA Rules](#CDATA-Rules)
 ---
 # **XML**
 - XML *stands for* **[[xml|eXtensible Markup Language]]**.
@@ -413,6 +416,7 @@ graph TD
 <!ELEMENT body (#PCDATA)>
 ```
 
+---
 ## **Declaring Elements in DTD**
 - Syntax: 
 ```dtd
@@ -436,7 +440,7 @@ graph TD
 ## **XML CDATA Sections**
 - CDATA means ***Character Data***.
 - It means that the *data in between these strings* ==includes data== that _could_ ==be interpreted as XML markup, but should not be==.
-- The predefined entities such as `&lt;, &gt;, and &amp;` require t*yping and are generally difficult to read in the markup*. In such cases, CDATA section can be used.
+- The predefined entities such as `&lt;`, `&gt;`, and `&amp;` require t*yping and are generally difficult to read in the markup*. In such cases, CDATA section can be used.
 - By using CDATA section, you are *commanding the parser that the particular section of the document contains **no markup*** and ==should be treated as regular text==.
 - Syntax:
 ```xml
@@ -448,7 +452,21 @@ graph TD
 - *CDATA End section* − CDATA section ends with `]]>` *delimiter*.
 - *CDATA section* − 
 	- Characters between these two enclosures are *interpreted as characters, and not as markup*. 
-	- This section may contain markup characters **(<, >, and &**), but they are ignored by the XML processor.
+	- This section may contain markup characters **(<, >, and &**), *but they are ignored by the XML processo*r.
+- Example: (In this ex, everything between `<message>` and `</message>` i*s treated as character data and not as markup*.)
+```xml
+<script>
+   <![CDATA[
+      <message> Welcome to TutorialsPoint </message>
+   ]] >
+</script >
+```
+
+### **CDATA Rules**
+- CDATA *cannot contain the string* "**]]>**" anywhere in the XML document.
+- *Nesting is not allowed* in CDATA section.
+
+---
 
 ---
 ## **XML Validation**
