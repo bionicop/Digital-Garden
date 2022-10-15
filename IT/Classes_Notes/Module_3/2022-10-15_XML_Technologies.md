@@ -1,3 +1,5 @@
+---
+creation date: 2022-10-15 15:07
 modification date: Saturday 15th October 2022
 aliases: [Internet Technologies] 
 tags: 
@@ -31,6 +33,11 @@ Tags: #xml
 	- [Naming Rules](#Naming-Rules)
 	- [Empty Elements](#Empty-Elements)
 	- [XML Attributes](#XML-Attributes)
+	- [Parsing](#Parsing)
+	- [XML Special Characters](#XML-Special-Characters)
+	- [Elements vs Attributes](#Elements-vs-Attributes)
+	- [Displaying XML](#*Displaying XML)
+	- [XML Namespaces](#XML-Namespaces)
 ---
 # **XML**
 - XML *stands for* **[[xml|eXtensible Markup Language]]**.
@@ -169,8 +176,8 @@ Tags: #xml
 ```mermaid
 graph TD
     A(Parsing) 
-    A --> B(Validating) --> C(A validating parser checks whether an XML document is well formed and also if the document conforms to an associated DTD.)
-    A --> D(Non Validating) --> E(A non validating parser checks whether XML document is well formed. Browsers act as non validating parsers.)
+    A --> B(Validating) --- C(A validating parser checks whether an XML document is well formed and also if the document conforms to an associated DTD.)
+    A --> D(Non Validating) --- E(A non validating parser checks whether XML document is well formed. Browsers act as non validating parsers.)
 ```
 
 ---
@@ -194,6 +201,93 @@ graph TD
 
 *and if you are looking for which is the best please visit here:* https://stackoverflow.com/a/25764306
 
+---
+## **Displaying XML**
+- XML documents do not carry information on how to display data.
+- Raw XML files can be viewed in all major browsers.
+```mermaid
+graph TD
+    A(Two common methods to display the stored data are:) 
+    A --> B(CSS) --- C(Cascade Style Sheet)
+    A --> D(XSL) --- E(eXtensible Stylesheet Language)
+```
+
+---
+## **XML Namespaces**
+- A Namespace is a **set of unique names**. 
+- Namespace is a mechanisms by which *element and attribute* ==name can be assigned to a group==. 
+- The Namespace *is identified by [URI](#URI)* (**Uniform Resource Identifier**).
+- *In short*: XML Namespaces provide a method to **avoid element name conflicts**.
+- Syntax:
+```xml
+<element xmlns:name = "URL">
+```
+
+### **xmlns Attribute**
+- When using *prefixes* in XML, a **namespace** for the *prefix must be defined*.
+- The namespace can be defined by an **xmlns** attribute in the start tag of an element. 
+
+- for an example we wanna add 2 tables in one
+- table 1
+```
+<trip>
+	<class>
+		<students>
+			<name>Astro Boy</name>
+			<name>Saitama</name>
+			<name>Makima</name>
+			<name>Kyouma Hououin</name>
+			<name>Gon Freecss</name>
+		</students>
+	</class>
+</trip>
+```
+- table 2
+```
+<trip>
+	<class>
+		<students>
+			<name>Kurisu Makise</name>
+			<name>Levi Ackerman</name>
+			<name>Fubuki</name>
+			<name>## Gintoki</name>
+			<name>Arsène Lupin III</name>
+			<name>Akeno Himejima</name>
+		</students>
+	</class>
+</trip>
+```
+
+- after merging-
+```xml
+<root
+	xmlns:a="https://www.class1.com"
+	xmlns:b="https://www.class2.com">
+	<a:trip>
+		<a:class>
+			<a:students>
+				<a:name>Astro Boy</a:name>
+				<a:name>Saitama</a:name>
+				<a:name>Makima</a:name>
+				<a:name>Kyouma Hououin</a:name>
+				<a:name>Gon Freecss</a:name>
+			</a:students>
+		</a:class>
+	</a:trip>
+	<b:trip>
+		<b:class>
+			<b:students>
+				<b:name>Kurisu Makise</b:name>
+				<b:name>Levi Ackerman</b:name>
+				<b:name>Fubuki</b:name>
+				<b:name>## Gintoki</b:name>
+				<b:name>Arsène Lupin III</b:name>
+				<b:name>Akeno Himejima</b:name>
+			</b:students>
+		</b:class>
+	</b:trip>
+</root>
+```
 
 ---
 ## **XML Validation**
