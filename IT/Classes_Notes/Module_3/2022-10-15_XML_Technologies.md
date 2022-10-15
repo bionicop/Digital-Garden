@@ -131,7 +131,7 @@ Tags: #xml
 	- attributes 
 	- other elements
 	- or a mix of the above.
-![[Pasted image 20221015170220.png]]
+![[xml_help.png]]
 
 ---
 ## **Naming Rules**
