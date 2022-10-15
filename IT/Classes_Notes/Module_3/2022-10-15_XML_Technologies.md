@@ -1,5 +1,3 @@
----
-creation date: 2022-10-15 15:07
 modification date: Saturday 15th October 2022
 aliases: [Internet Technologies] 
 tags: 
@@ -25,6 +23,7 @@ Tags: #xml
 		- [XML Syntax](#XML-Syntax)
 		- [Prolog](#Prolog)
 		- [Body](#Body)
+	- [Well Formed](#Well-Formed)
 	- [XML Example](#XML-Example)
 	- [XML Declaration](#XML-Declaration)
 	- [XML Element](#XML-Element)
@@ -80,6 +79,15 @@ Tags: #xml
 ### **Body**
 - This portion of the XML document *contains textual data marked up by tags*.
 - It must have *one element* called the **document element or root element**, which ==defines the content in the XML document==.
+
+---
+## **Well Formed**
+- An XML document is called well-formed if it satisfies certain rules, *specified by the W3C*.
+	- XML **documents** *must have a* **root element*.
+	- XML **elements** *must have a* **closing tag*.
+	- XML **tags** are **case sensitive**.
+	- XML **elements** *must be* **properly nested**.
+	- XML **attribute** *values must be* **quoted**.
 
 ---
 ## **XML Example**
@@ -152,7 +160,7 @@ Tags: #xml
 
 ---
 ## **Parsing**
-
+- A parser is used to check whether a document is [Well Formed](#Well-Formed)
 
 ## **XML Validation**
 - An XML document with *correct syntax* is called "**Well Formed**".
