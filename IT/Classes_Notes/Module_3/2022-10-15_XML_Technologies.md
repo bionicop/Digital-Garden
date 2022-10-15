@@ -49,6 +49,11 @@ Tags: #xml
 	- [PCDATA](#PCDATA)
 	- [DTD Attributes](#DTD-Attributes)
 	- [Entities](#Entities)
+	- [DTD Mixed Content](#DTD-Mixed-Content)
+	- [XML DOM](#XML-DOM)
+		- [XML DOM Nodes](#XML-DOM-Nodes)
+		- [XML Nodes Types](#XML-Nodes-Types)
+		- 
 ---
 # **XML**
 - XML *stands for* **[[xml|eXtensible Markup Language]]**.
@@ -637,6 +642,80 @@ graph TD
 	</Employee>
 </Company>
 ```
+
+- Output-
+```mermaid
+graph TD
+
+    A[Root Element <br> Company]
+    A --- B(Element <br> Employee) --- q(Attribute <br> technical)
+    A --- a(Element <br> Employee) --- z(Attribute <br> non-technical)
+    
+    B --- D(Element <br> First Name) --- G(Text <br> Tanmay)
+    B --- E(Element <br> First Name) --- H(Text <br> Patil)
+    B --- F(Element <br> First Name) --- I(Text <br> 1234567890)
+
+    a --- b(Element <br> First Name) --- e(Text <br> Taniya)
+    a --- c(Element <br> First Name) --- f(Text <br> Mishra)
+    a --- d(Element <br> First Name) --- g(Text <br> 1234667898)
+```
+
+### **XML DOM Nodes**
+- According to the XML DOM, *everything in an XML document* is a **node**:
+	- The **entire document is a document node**.
+	- *Every XML element* is an **element node**.
+	- The *text in the XML elements* are **text nodes**.
+	- *Every attribute is an* **attribute node**.
+	- *Comments are* **comment nodes**.
+
+### **XML Nodes Types**
+| Node Types                   	| Explanation                                                                                                                   	|
+|------------------------------	|-------------------------------------------------------------------------------------------------------------------------------	|
+| CData Node                   	| This *node contains information* that should **not be analyzed by the parser**. Instead, it should *just be passed on as plain text*. 	|
+| Comment Node                 	| This *node includes information* about the **data, and is usually ignored by the application**.                                     	|
+| Processing Instructions Node 	| This *node contains information* **specifically aimed at the application**.                                                         	|
+| Document Fragments Node      	| Represents the **root** of *any sub tree*.                                                                                          	|
+| Entities Node                	| *Parsed or Unparsed entity*.                                                                                                    	|
+
+### **Node Parents, Children, and Siblings**
+- The nodes in *the node tree have a **hierarchical relationship** to each other*.
+- The terms *parent, child, and sibling* are used to **describe the relationships**. 
+- **Parent nodes** *have children*. *Children on the same level* are called **siblings** (*brothers or sisters*).
+- In **a node tree**, *the top node* is called the **root**.
+- *Every node, except the root*, **has exactly one parent node**.
+- *A node* can have **any number of children**.
+- A *leaf is a node with no children*.
+- **Siblings are nodes** *with the same parent*.
+
+![[node.png]]
+
+---
+## **First Child - Last Child**
+```xml
+<bookstore>
+	<book category="cooking">
+		<title lang="en">Everyday Italian</title>
+		<author>Giada De Laurentiis</author>
+		<year>2005</year>
+		<price>30.00</price>
+	</book>
+</bookstore>
+```
+- In the XML above:
+	1. The `<title>` element is the **first child** of the `<book>` element, and the `<price>` *element is the last child of* the `<book>` element.
+	2. *Furthermore,* the `<book>` element is the **parent node** of the `<title>`, `<author>`, `<year>`, and `<price>` elements.
+
+### **Accessing Nodes**
+
+```mermaid
+graph TD
+    A(Accessing Nodes) 
+    A -->|By using the| B("getElementsByTagName() method.")
+    A --> C("By looping through (traversing) the nodes tree.")
+    A --> D(By navigating the node tree, using the node relationships.)
+```
+
+
 ## **XML Validation**
 - An XML document with *correct syntax* is called "**Well Formed**".
 - A *well formed XML document* can be **validated against DTD** or **Schema**.
