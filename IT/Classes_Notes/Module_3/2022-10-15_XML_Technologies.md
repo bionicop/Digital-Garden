@@ -421,16 +421,16 @@ graph TD
 
 | **name**                                	            | **Syntax**                                                                                	            |
 |--------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|
-| Empty Elements                                   	| ```xml <!ELEMENT element-name category>``` or ```xml <!ELEMENT element-name (element-content)>```   	                    |
-| Elements with Parsed Character Data              	| ```xml <!ELEMENT element-name (#PCDATA)>```                                                         	        |
-| Elements with any Contents                       	| ```xml <!ELEMENT element-name ANY>```                                                               	        |
-| Elements with Children (sequences)               	| ```xml <!ELEMENT element-name (child1)>``` or ```xml <!ELEMENT element-name (child1,child2,...)>``` 	                    |
-| Declaring Only One Occurrence of an Element      	| ```xml <!ELEMENT element-name (child-name)>```                                                      	        |
-| Declaring Minimum One Occurrence of an Element   	| ```xml <!ELEMENT element-name (child-name+)>```                                                     	        |
-| Declaring Zero or More Occurrences of an Element 	| ```xml <!ELEMENT element-name (child-name*)>```                                                     	        |
-| Declaring Zero or One Occurrences of an Element  	| ```xml <!ELEMENT element-name (child-name?)>```                                                     	        |
-| Declaring either/or Content                      	| ```xml <!ELEMENT note (to,from,header,(message\|body))>```                                          	            |
-| Declaring Mixed Content                          	| ```xml <!ELEMENT note (#PCDATA\|to\|from\|header\|message)*>```                                     	            |
+| Empty Elements                                   	| `<!ELEMENT element-name category>` or `<!ELEMENT element-name (element-content)>`   	                            |
+| Elements with Parsed Character Data              	| `<!ELEMENT element-name (#PCDATA)>`                                                         	            |
+| Elements with any Contents                       	| `<!ELEMENT element-name ANY>`                                                               	            |
+| Elements with Children (sequences)               	| `<!ELEMENT element-name (child1)>` or `<!ELEMENT element-name (child1,child2,...)>` 	                            |
+| Declaring Only One Occurrence of an Element      	| `<!ELEMENT element-name (child-name)>`                                                      	            |
+| Declaring Minimum One Occurrence of an Element   	| `<!ELEMENT element-name (child-name+)>`                                                     	            |
+| Declaring Zero or More Occurrences of an Element 	| `<!ELEMENT element-name (child-name*)>`                                                     	            |
+| Declaring Zero or One Occurrences of an Element  	| `<!ELEMENT element-name (child-name?)>`                                                     	            |
+| Declaring either/or Content                      	| `<!ELEMENT note (to,from,header,(message\|body))>`                                       	                |
+| Declaring Mixed Content                          	| `<!ELEMENT note (#PCDATA\|to\|from\|header\|message)*>`                                     	                |
 
 ---
 
