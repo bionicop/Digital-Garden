@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Classes_Notes/Module_3/2022-10-15.md",
+                "file": "IT/Classes_Notes/Module_3/2022-10-15_XML Technologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Classes_Notes/Module_3/2022-10-15.md",
+                "file": "IT/Classes_Notes/Module_3/m3_syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3df9d0868e83a1a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Classes_Notes/Module_3/2022-10-15_XML Technologies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Classes_Notes/Module_3/2022-10-15.md",
+                "file": "IT/Classes_Notes/Module_3/2022-10-15_XML Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Classes_Notes/Module_3/2022-10-15.md",
+                "file": "IT/Classes_Notes/Module_3/2022-10-15_XML Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Classes_Notes/Module_3/2022-10-15.md"
+                "file": "IT/Classes_Notes/Module_3/2022-10-15_XML Technologies.md"
               }
             }
           },
@@ -161,16 +173,16 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "738e7169341e6f3b",
+  "active": "3df9d0868e83a1a0",
   "lastOpenFiles": [
+    "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
     "IT/Classes_Notes/Module_3/m3_syllabus.md",
-    "IT/Classes_Notes/Module_3/2022-10-15.md",
+    "IT/Classes_Notes/Module_3/2022-10-15_XML Technologies.md",
     "Side_Notes/xml.md",
     "IT/Attachment/ip_address.png",
     "Pasted image 20220927152628.png",
     "IT/Classes_Notes/Module_1/m1_syllabus.md",
     "IT/Classes_Notes/Module_1/2022-09-17_Internet_Basics.md",
-    "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
     "2022-10-14.md",
     "2022-10-16.md"
   ]

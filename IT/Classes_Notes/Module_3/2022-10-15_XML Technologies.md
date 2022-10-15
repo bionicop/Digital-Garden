@@ -24,6 +24,13 @@ Tags: #xml
 	- [XML Structure](#XML-Structure)
 		- [XML Syntax](#XML-Syntax)
 		- [Prolog](#Prolog)
+		- [Body](#Body)
+	- [XML Example](#XML-Example)
+	- [XML Declaration](#XML-Declaration)
+	- [XML Element](#XML-Element)
+	- [Naming Rules](#Naming-Rules)
+	- [Empty Elements](#Empty-Elements)
+	- [XML Attributes](#XML-Attributes)
 ---
 # **XML**
 - XML *stands for* **[[xml|eXtensible Markup Language]]**.
@@ -142,6 +149,9 @@ Tags: #xml
 		<from>John</from>
 	</note> 
 ```
+
+---
+## **Parsing**
 
 
 ## **XML Validation**
