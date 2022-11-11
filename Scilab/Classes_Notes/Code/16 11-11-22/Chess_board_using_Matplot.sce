@@ -1,3 +1,5 @@
+clear;
+clc;
 clf();
 board = ones(4,4).*.[25,27;27,25];
 
