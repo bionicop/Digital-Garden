@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "ad074e850ffc23d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "17119d4fa0113fd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d729989dcd8be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/Classes_Notes/2022-11-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cf5ad76df7a01da",
+    "type": "split",
+    "children": [
+      {
+        "id": "b90ef7fb8cbda343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5963bb9f6c69624",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2e5b8df779a4671",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9967a80a6cf9478e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "78a2410171a2abaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbd7721ea353cf57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4ce9c820ddc62f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DBMS/Classes_Notes/2022-11-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92361606fbb8d5f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DBMS/Classes_Notes/2022-11-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "166c6bb5220bf262",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "741db5ff3362aa86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DBMS/Classes_Notes/2022-11-12.md"
+              }
+            }
+          },
+          {
+            "id": "1e8b6ad213e67e5a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "40d729989dcd8be5",
+  "lastOpenFiles": [
+    "template/Note.md",
+    "DBMS/Classes_Notes/2022-11-12.md",
+    "DBMS/Classes_Notes/m1_syllabus.md",
+    "2022-09-17_Internet_Basics.md",
+    "2022-09-20.md",
+    "2022-09-21.md",
+    "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
+    "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
+    "IT/Attachment/ip_address.png",
+    "IT/Classes_Notes/m1_syllabus.md"
+  ]
+}

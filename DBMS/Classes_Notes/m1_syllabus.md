@@ -7,7 +7,7 @@ tags:
 - Syllabus
 ---
 
-[[2022-09-21]] >>
+[[2022-11-12]] >>
 
 # ❗❓ Info
 Course Name: Database Management Systems
