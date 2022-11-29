@@ -7,7 +7,7 @@ tags:
 - Syllabus_m1
 ---
 
- | [[2022-09-17_Internet_Basics|Internet Basics]] >>
+ | [[2022-09-17_Internet_Basics.md|Internet Basics]] >>
 
 # ❗❓ Info
 Course Name: Internet Technologies

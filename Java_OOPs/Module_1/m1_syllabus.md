@@ -11,15 +11,15 @@ tags:
 ---
 # 📕 Syallbus
 
-##  #1 - [[Procedure_Oriented_Programming|Procedure-Oriented Programming]]
+##  #1 - [[Procedure_Oriented_Programming.md|Procedure-Oriented Programming]]
 - [[Procedure_Oriented_Programming|Procedure-Oriented Programming]]
     - 
 
-## #2 - [[Object_Oriented_Programming|Object-Oriented programming]]
+## #2 - [[Object_Oriented_Programming.md|Object-Oriented programming]]
 - [[]]
     - 
 
-## #3 - [[java|What is Java?]]
+## #3 - [[java.md|What is Java?]]
 - [[]]
     - 
 

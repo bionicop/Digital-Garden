@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/index.md",
+                "file": "DBMS/Classes_Notes/m1_syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/index.md",
+                "file": "DBMS/Classes_Notes/m1_syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/index.md",
+                "file": "DBMS/Classes_Notes/m1_syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/index.md"
+                "file": "DBMS/Classes_Notes/m1_syllabus.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "64d67e854b8f8585",
   "lastOpenFiles": [
-    "Home.md",
+    "DBMS/Classes_Notes/2022-11-12.md",
     "DBMS/Classes_Notes/m1_syllabus.md",
-    "template/Note.md",
-    "Scilab/index.md",
-    "Java_OOPs/index.md",
-    "IT/index.md",
-    "Scilab/Classes_Notes/Cheat_Sheet.md",
-    "Scilab/Classes_Notes/2022-09-02.md",
-    "Scilab/Classes_Notes/2022-09-09.md",
-    "Scilab/Classes_Notes/2022-08-12.md"
+    "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
+    "IT/Classes_Notes/Module_3/2022-10-15.md",
+    "IT/Classes_Notes/Module_3/m3_syllabus.md",
+    "IT/Classes_Notes/Module_1/2022-09-17_Internet_Basics.md",
+    "IT/Classes_Notes/Module_1/m1_syllabus.md",
+    "IT/Side_Notes/type_of_internet_connection.md",
+    "IT/Side_Notes/URI.md",
+    "IT/Side_Notes/xml.md"
   ]
 }

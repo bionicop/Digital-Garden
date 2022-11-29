@@ -7,7 +7,7 @@ tags:
 - Syllabus_m3
 ---
 
- | [[2022-10-15#**XML**|XML Technologies]] >>
+ | [[2022-10-15.md#**XML**|XML Technologies]] >>
 
 # ❗❓ Info
 Course Name: Internet Technologies
