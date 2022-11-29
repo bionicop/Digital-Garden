@@ -7,13 +7,12 @@ tags: Index
 
 # 📕 Index
 
-##  #1 - [[2022-08-12.md|Day 1]]
+##  #1 - [Day 1](2022-08-12.md)
 
-##  #2 - [[2022-08-16.md|Day 2]]
+##  #2 - [Day 2](2022-08-16.md)
 
-##  #3 - [[2022-09-02.md|Day 3]]
+##  #3 - [Day 3](2022-09-02.md)
 
-##  #4 - [[2022-09-09.md|Day 4]]
+##  #4 - [Day 4](2022-09-09.md)
 
-##  #5 - [[Cheat_Sheet.md|Simple Cheat Sheet]]
-
+##  #5 - [Simple Cheat Sheet](Cheat_Sheet.md)
