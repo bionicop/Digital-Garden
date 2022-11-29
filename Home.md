@@ -1,6 +1,6 @@
 
 # ⌚ Recently Updated
--   ### [DBMS](DBMS/Classes_Notes/m1_syllabus)
+-   ### [DBMS](DBMS/Classes_Notes/m1_syllabus.md)
     
 -   ### [IT](IT/index)
     
