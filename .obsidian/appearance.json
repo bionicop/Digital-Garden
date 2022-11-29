@@ -1,5 +1,8 @@
 {
   "cssTheme": "Yin and Yang",
-  "baseFontSize": 24,
-  "accentColor": ""
+  "baseFontSize": 30,
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false
 }

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "17119d4fa0113fd2",
+        "id": "935988a42f08b19a",
         "type": "tabs",
         "children": [
           {
-            "id": "40d729989dcd8be5",
+            "id": "63e607318e6b255b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/Classes_Notes/2022-11-12.md",
+                "file": "IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1449f4c73d2775c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Classes_Notes/Module_3/2022-10-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "language",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/Classes_Notes/2022-11-12.md",
+                "file": "IT/Classes_Notes/Module_3/2022-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/Classes_Notes/2022-11-12.md",
+                "file": "IT/Classes_Notes/Module_3/2022-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/Classes_Notes/2022-11-12.md"
+                "file": "IT/Classes_Notes/Module_3/2022-10-15.md"
               }
             }
           },
@@ -146,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40d729989dcd8be5",
+  "active": "1449f4c73d2775c1",
   "lastOpenFiles": [
-    "template/Note.md",
-    "DBMS/Classes_Notes/2022-11-12.md",
-    "DBMS/Classes_Notes/m1_syllabus.md",
-    "2022-09-17_Internet_Basics.md",
-    "2022-09-20.md",
-    "2022-09-21.md",
-    "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
-    "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
-    "IT/Attachment/ip_address.png",
-    "IT/Classes_Notes/m1_syllabus.md"
+    "Side_Notes/xml.md",
+    "IT/Classes_Notes/Module_3/2022-10-15.md",
+    "IT/Classes_Notes/Module_1/2022-09-17_Internet_Basics.md",
+    "IT/Classes_Notes/Module_3/m3_syllabus.md",
+    "template/mermaid_special_characters.md",
+    "Side_Notes/meaning.md",
+    "Side_Notes/computer.md",
+    "Side_Notes/type_of_internet_connection.md",
+    "Side_Notes/URI.md",
+    "template/Note.md"
   ]
 }
