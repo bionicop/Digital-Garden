@@ -55,7 +55,7 @@ Tags: #Internet_Technologies
 # **Internet Basics**
 
 ## **What is the Internet?**
-- The Internet is a vast network that connects [computers](/Side_Notes/computer.md) all over the world.
+- The Internet is a vast network that connects [computers](IT/Side_Notes/computer) all over the world.
 - Computers in a network capable of sharing resources (memory, peripherals).
 - Internet is **Decentralized** by *design*.
 - Each Internet computer, called a **host**, is *independent*.
