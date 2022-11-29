@@ -1,0 +1,10 @@
+{
+  "pdfExportSettings": {
+    "pageSize": "Tabloid",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true
+}
