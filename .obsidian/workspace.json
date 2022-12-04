@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scilab/Classes_Notes/2022-09-09.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scilab/Classes_Notes/2022-09-09.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scilab/Classes_Notes/2022-09-09.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scilab/Classes_Notes/2022-09-09.md"
+                "file": "Home.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "64d67e854b8f8585",
   "lastOpenFiles": [
-    "Scilab/index.md",
-    "Home.md",
-    "Scilab/Classes_Notes/Cheat_Sheet.md",
-    "Scilab/Classes_Notes/2022-09-09.md",
-    "template/Note.md",
-    "Scilab/Classes_Notes/2022-08-12.md",
-    "Java_OOPs/index.md",
-    "Java_OOPs/Module_1/m1_syllabus.md",
     "IT/Classes_Notes/Module_3/m3_syllabus.md",
-    "IT/index.md"
+    "IT/index.md",
+    "Home.md",
+    "Scilab/Classes_Notes/2022-08-12.md",
+    "Scilab/index.md",
+    "IT/Classes_Notes/Module_1/m1_syllabus.md",
+    "DBMS/Classes_Notes/m1_syllabus.md",
+    "Scilab/Classes_Notes/2022-09-09.md",
+    "Scilab/Classes_Notes/Cheat_Sheet.md",
+    "template/Note.md"
   ]
 }
