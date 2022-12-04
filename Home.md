@@ -5,7 +5,7 @@
 - ### [DBMS](Sem_3/DBMS/Classes_Notes/m1_syllabus.md)
 - ### [IT](IT_Index.md)
 - ### [Java OOPs](Java_Index.md)
-- ### [Scilab](Sem_3/Scilab/index.md)
+- ### [Scilab](Scilab_Index.md)
 
 ## Sem 4
 - ### [Software Engineering](Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md)

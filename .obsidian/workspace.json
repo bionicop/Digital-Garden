@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_3/Java_OOPs/Java_Index.md",
+                "file": "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_3/Java_OOPs/Java_Index.md",
+                "file": "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_3/Java_OOPs/Java_Index.md",
+                "file": "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_3/Java_OOPs/Java_Index.md"
+                "file": "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md"
               }
             }
           },
@@ -157,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5963bb9f6c69624",
+  "active": "324d05b21c562357",
   "lastOpenFiles": [
+    "Sem_3/IT/IT_Index.md",
+    "Sem_3/Scilab/Scilab_Index.md",
+    "Sem_3/Java_OOPs/Java_Index.md",
     "Sem_3/DBMS/Classes_Notes/m1_syllabus.md",
     "Sem_3/DBMS/Classes_Notes/2022-11-12.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2022-12-05_Fundamentals_of_Computer_Algorithms.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus.md",
     "template/Note.md",
-    "Sem_3/Scilab/index.md",
-    "Sem_3/Scilab/Classes_Notes/Cheat_Sheet.md",
-    "Sem_3/Scilab/Classes_Notes/2022-09-09.md",
-    "Sem_3/Scilab/Classes_Notes/2022-09-02.md",
-    "Sem_3/Scilab/Classes_Notes/2022-08-16.md"
+    "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
+    "Sem_3/Scilab/Classes_Notes/2022-09-09.md"
   ]
 }

@@ -15,4 +15,4 @@ tags: Index
 
 ##  #4 - [Day 4](2022-09-09.md)
 
-##  #5 - [Simple Cheat Sheet](Cheat_Sheet.md)
+##  #5 - [Simple Cheat Sheet](Scilab_Cheat_Sheet.md)
