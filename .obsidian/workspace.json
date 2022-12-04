@@ -11,12 +11,8 @@
             "id": "324d05b21c562357",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,15 +151,15 @@
   },
   "active": "324d05b21c562357",
   "lastOpenFiles": [
+    "template/Note.md",
+    "template/Syllabus.md",
+    "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus.md",
+    "Sem_3/Scilab/Classes_Notes/2022-08-12.md",
+    "Home.md",
+    "2022-11-13.md",
+    "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
     "Sem_3/IT/IT_Index.md",
     "Sem_3/Scilab/Scilab_Index.md",
-    "Sem_3/Java_OOPs/Java_Index.md",
-    "Sem_3/DBMS/Classes_Notes/m1_syllabus.md",
-    "Sem_3/DBMS/Classes_Notes/2022-11-12.md",
-    "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2022-12-05_Fundamentals_of_Computer_Algorithms.md",
-    "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus.md",
-    "template/Note.md",
-    "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
-    "Sem_3/Scilab/Classes_Notes/2022-09-09.md"
+    "Sem_3/Java_OOPs/Java_Index.md"
   ]
 }
