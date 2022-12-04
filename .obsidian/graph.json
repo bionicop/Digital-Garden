@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "Sem_3",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4480394263660739,
-  "close": true
+  "scale": 0.6235548993232211,
+  "close": false
 }
