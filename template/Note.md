@@ -9,6 +9,7 @@ tags:
 
 # ❗❓ Info
 Course Name: 
+Course Code: 
 Date: <% tp.file.creation_date("dddd Do MMMM YYYY") %>
 Professor/Speaker: 
 Tags: #

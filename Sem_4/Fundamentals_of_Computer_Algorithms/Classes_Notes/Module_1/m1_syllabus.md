@@ -1,11 +1,11 @@
 ---
-creation date: <% tp.file.creation_date() %>
-modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY") %>
+creation date: 2022-12-04 07:24
+modification date: Sunday 4th December 2022
 aliases: [] 
 tags: 
 ---
 
-<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] >>
+| [[2022-12-05_Fundamentals_of_Computer_Algorithms|Fundamentals of Computer Algorithms]] >>
 
 # Module 1
 ---

@@ -13,6 +13,7 @@ tags:
 
 # ❗❓ Info
 Course Name: Internet Technologies
+Course Code: CA220
 Date: Saturday 17th September 2022
 Professor/Speaker: *teach*
 Tags: #Internet_Technologies 
