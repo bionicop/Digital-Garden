@@ -2,7 +2,7 @@
 # Table:
 
 ## Sem 3
-- ### [DBMS](Sem_3/DBMS/Classes_Notes/m1_syllabus.md)
+- ### [[Sem_3/DBMS/Classes_Notes/m1_syllabus]]
 - ### [IT](IT_Index.md)
 - ### [Java OOPs](Java_Index.md)
 - ### [Scilab](Scilab_Index.md)
