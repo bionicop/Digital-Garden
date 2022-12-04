@@ -2,10 +2,10 @@
 # Table:
 
 ## Sem 3
-- ### [[Sem_3/DBMS/Classes_Notes/m1_syllabus]]
-- ### [IT](IT_Index.md)
-- ### [Java OOPs](Java_Index.md)
-- ### [Scilab](Scilab_Index.md)
+- ### [DBMS](Sem_3/DBMS/Classes_Notes/m1_syllabus.md)
+- ### [IT](Sem_3/IT/IT_Index.md)
+- ### [Java OOPs](Sem_3/Java_OOPs/Java_Index.md)
+- ### [Scilab](Sem_3/Scilab/Scilab_Index.md)
 
 ## Sem 4
 - ### [Software Engineering](Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md)
