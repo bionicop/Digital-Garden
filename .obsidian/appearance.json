@@ -1,8 +1,8 @@
 {
   "cssTheme": "Yin and Yang",
   "baseFontSize": 30,
+  "translucency": false,
   "accentColor": "",
   "showViewHeader": true,
-  "nativeMenus": false,
-  "translucency": false
+  "nativeMenus": false
 }

@@ -7,12 +7,8 @@
         "id": "40d729989dcd8be5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Classes_Notes/2022-09-17_Internet_Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Classes_Notes/2022-09-17_Internet_Basics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40d729989dcd8be5",
+  "active": "e5963bb9f6c69624",
   "lastOpenFiles": [
     "IT/Classes_Notes/2022-09-17_Client_Server_Model.md",
     "IT/Classes_Notes/2022-09-17_Internet_Basics.md",

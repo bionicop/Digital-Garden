@@ -7,5 +7,6 @@
   },
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "template"
+  "attachmentFolderPath": "Attachment",
+  "useMarkdownLinks": true
 }
