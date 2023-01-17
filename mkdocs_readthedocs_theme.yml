@@ -1,0 +1,21 @@
+site_name: Digital Garden
+dev_addr: "127.0.0.1:3000"
+repo_url: 'https://github.com/bionicop/Digital-Garden'
+edit_uri: 'https://github.com/bionicop/Digital-Garden/tree/main/docs/'
+site_description: 'This Website will contain Notes & Codes from my College in digital format :D'
+site_author: 'BiONiC, @bionic'
+watch: ['docs', 'mkdocs.yml', 'custom_theme']
+plugins:
+    - search:
+        indexing: 'full'
+theme:
+    name: readthedocs
+    highlightjs: true
+    github_url: https://github.com/bionicop/Digital-Garden
+    navigation_depth: 4
+    titles_only: true
+    sticky_navigation: true
+    custom_dir: custom_theme
+    collapse_navigation: true
+
+ 
