@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_3/IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_3/IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_3/IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_3/IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md"
+                "file": "Home.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "ff537085d970932c",
   "lastOpenFiles": [
-    "Sem_3/IT/Side_Notes/xml.md",
-    "Sem_3/IT/IT_Index.md",
-    "Sem_3/IT/Side_Notes/URI.md",
-    "Sem_3/IT/Side_Notes/type_of_internet_connection.md",
-    "Sem_3/IT/Side_Notes/computer.md",
-    "Attachment/IT/Image/ip_address.png",
-    "Home.md",
+    "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
+    "Sem_3/Scilab/Classes_Notes/2022-09-09.md",
+    "Sem_3/Scilab/Classes_Notes/2022-09-02.md",
+    "Sem_3/Scilab/Classes_Notes/2022-08-16.md",
+    "Sem_3/Scilab/Classes_Notes/2022-08-12.md",
+    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
     "Sem_3/IT/Classes_Notes/Module_3/2022-10-15.md",
-    "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2022-12-05_Fundamentals_of_Computer_Algorithms.md",
-    "Sem_3/IT/Classes_Notes/Module_3/m3_syllabus.md"
+    "Attachment/IT/Image/node.png",
+    "Sem_3/IT/Classes_Notes/Module_1/m1_syllabus.md",
+    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17_Internet_Basics.md"
   ]
 }
