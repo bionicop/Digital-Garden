@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d955c89ca3e1650a",
+        "id": "53d42be909edeafe",
         "type": "tabs",
         "children": [
           {
-            "id": "94ad340881e70986",
+            "id": "f22a74b283e6850d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_3/IT/IT_Index.md",
+                "file": "Sem_3/DBMS/Classes_Notes/m1_syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_3/IT/IT_Index.md",
+                "file": "Sem_3/DBMS/Classes_Notes/m1_syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_3/IT/IT_Index.md",
+                "file": "Sem_3/DBMS/Classes_Notes/m1_syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_3/IT/IT_Index.md"
+                "file": "Sem_3/DBMS/Classes_Notes/m1_syllabus.md"
               }
             }
           },
@@ -158,17 +158,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "94ad340881e70986",
+  "active": "f22a74b283e6850d",
   "lastOpenFiles": [
-    "Sem_3/IT/Side_Notes/xml.md",
-    "Sem_3/IT/IT_Index.md",
-    "Sem_3/IT/Side_Notes/URI.md",
-    "Sem_3/IT/Side_Notes/type_of_internet_connection.md",
-    "Sem_3/IT/Side_Notes/computer.md",
+    "Sem_3/DBMS/Classes_Notes/DBMS_vs_File_Processing_System.md",
+    "Sem_3/DBMS/Classes_Notes/m1_syllabus.md",
+    "Sem_3/DBMS/Classes_Notes/DBMS.md",
     "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md",
-    "Sem_3/IT/Classes_Notes/Module_1/m1_syllabus.md",
-    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics.md",
+    "File_Directory.md",
     "template/Note.md",
-    "Sem_3/IT/Classes_Notes/Module_3/2022-10-15.md"
+    "Sem_3/IT/IT_Index.md",
+    "README.md",
+    "Sem_3/IT/Side_Notes/xml.md",
+    "Sem_3/IT/Side_Notes/URI.md"
   ]
 }

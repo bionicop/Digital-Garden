@@ -7,7 +7,7 @@ tags:
 - Syllabus
 ---
 
-[[2022-11-12]] >>
+| [DBMS vs File Processing System](Sem_3/DBMS/Classes_Notes/DBMS_vs_File_Processing_System) >>
 
 # ❗❓ Info
 Course Name: Database Management Systems
