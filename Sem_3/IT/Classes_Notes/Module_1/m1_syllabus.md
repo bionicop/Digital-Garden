@@ -19,7 +19,7 @@ Tags: #Internet_Technologies #Syllabus_m1
 ---
 # 📕 Syallbus
 
-##  #1 - [[2022-09-17_Internet_Basics#|Internet Basics]]
+##  #1 - [Internet Basics](Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics#Internet-Basics)
 - [[2022-09-17_Internet_Basics#What is the Internet|Introduction to Internet]]
 - [[2022-09-17_Client_Server_Model|Client Server Model]]
 - [[|Internet IP Address]]
