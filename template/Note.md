@@ -5,7 +5,7 @@ aliases: []
 tags: 
 ---
 
-<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] >>
+<< [Name](File_Directory) | [Name](File_Directory) >>
 
 # ❗❓ Info
 Course Name: 

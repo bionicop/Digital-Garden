@@ -7,7 +7,7 @@ tags:
 - Syllabus_m1
 ---
 
- | [[Sem_3/IT/Classes_Notes/Module_1/2022-09-17_Internet_Basics|Internet Basics]] >>
+ | [Internet Basics](Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics#Internet-Basics) >>
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -20,23 +20,5 @@ Tags: #Internet_Technologies #Syllabus_m1
 # 📕 Syallbus
 
 ##  #1 - [Internet Basics](Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics#Internet-Basics)
-- [[2022-09-17_Internet_Basics#What is the Internet|Introduction to Internet]]
-- [[2022-09-17_Client_Server_Model|Client Server Model]]
-- [[|Internet IP Address]]
-- [[|Domain Name]]
-- [[|Domain Registration]]
-- [[|Internet Services]]
-- [[|A Brief Overview of TCP/IP and its Services]]
 
-## #2 - [[|HTTP]]
-- [[|Introduction]]
-- [[|Web Servers and Clients]]
-- [[|IP Address]]
-- [[|Cyber Laws]]
-- [[|URL]]
-- [[|Message Format]]
-- [[|Testing HTTP Using Telnet]]
-- [[|Persistent and Non Persistent Connections]]
-- [[|Internet Security]]
-- [[|Web Caching]]
-- [[|Proxy]]
+## #2 - [Client Server Model](Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md)
