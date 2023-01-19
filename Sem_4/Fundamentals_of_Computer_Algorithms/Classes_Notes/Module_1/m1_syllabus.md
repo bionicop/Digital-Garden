@@ -5,7 +5,7 @@ aliases: []
 tags: 
 ---
 
-| [[2022-12-05_Fundamentals_of_Computer_Algorithms|Fundamentals of Computer Algorithms]] >>
+| [2023-01-19_Fundamentals_of_Computer_Algorithms](2023-01-19_Fundamentals_of_Computer_Algorithms.md) >>
 
 # Module 1
 ---

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff537085d970932c",
+            "id": "94ad340881e70986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2023-01-19_Fundamentals_of_Computer_Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2023-01-19_Fundamentals_of_Computer_Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2023-01-19_Fundamentals_of_Computer_Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2023-01-19_Fundamentals_of_Computer_Algorithms.md"
               }
             }
           },
@@ -158,17 +159,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ff537085d970932c",
+  "active": "94ad340881e70986",
   "lastOpenFiles": [
+    "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus.md",
+    "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2023-01-19_Fundamentals_of_Computer_Algorithms.md",
+    "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2022-12-05_Fundamentals_of_Computer_Algorithms.md",
+    "template/Note.md",
     "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
     "Sem_3/Scilab/Classes_Notes/2022-09-09.md",
     "Sem_3/Scilab/Classes_Notes/2022-09-02.md",
     "Sem_3/Scilab/Classes_Notes/2022-08-16.md",
     "Sem_3/Scilab/Classes_Notes/2022-08-12.md",
-    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md",
-    "Sem_3/IT/Classes_Notes/Module_3/2022-10-15.md",
-    "Attachment/IT/Image/node.png",
-    "Sem_3/IT/Classes_Notes/Module_1/m1_syllabus.md",
-    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17_Internet_Basics.md"
+    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17_Client_Server_Model.md"
   ]
 }
