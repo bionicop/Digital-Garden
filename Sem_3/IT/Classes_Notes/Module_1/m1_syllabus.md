@@ -7,7 +7,7 @@ tags:
 - Syllabus_m1
 ---
 
- | [Internet Basics](Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics#Internet-Basics) >>
+ | [Internet Basics](2022-09-17-Internet_Basics#Internet-Basics) >>
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -19,6 +19,6 @@ Tags: #Internet_Technologies #Syllabus_m1
 ---
 # 📕 Syallbus
 
-##  #1 - [Internet Basics](Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics#Internet-Basics)
+##  #1 - [Internet Basics](2022-09-17-Internet_Basics#Internet-Basics)
 
-## #2 - [Client Server Model](Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md)
+## #2 - [Client Server Model](2022-09-17-Client_Server_Model.md)
