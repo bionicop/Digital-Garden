@@ -7,7 +7,7 @@ tags:
 - Syllabus
 ---
 
-| [2023-01-19_Software_Engineering](2023-01-19_Fundamentals_of_Computer_Algorithms.md) >>
+| [Software Engineering](2023-01-19-Software_Engineering.md) >>
 
 # Module 1
 ---
