@@ -21,6 +21,7 @@ Tags: #Software_Engineering
 ## 📃 Summary of Notes
 - [Introduction](#Introduction)
 	- [What is software engineering?](#What-is-software-engineering?)
+	- [is Software Engineering Art or Science?](#is-Software-Engineering-Art-or-Science?)
 - [Protocol](#Protocol)
 	- [Standard Protocols](#Standard-Protocols)
 	- [Types of Protocol](#Types-of-Protocol)
@@ -37,8 +38,11 @@ Tags: #Software_Engineering
 - Thus, It's a *systematic collection* of good program development **practices and techniques**. (An *engineering approach* to *develop a software*.)
 - From above points of view we can define Soft Eng as:
 	- Soft Eng discusses *systematic & cost-effective* techniques for Software Development. It is *an engineering approach to develop software*.
+
 ## *is* **Software Engineering Art or Science?**
 - Many people think writing good quality code is an Art. So let's discuss about this:
 	- In other engineering branches It is based on science there are *specific rules & names for the components, techniques* & working principles related to it & before they are *standardized the experience is marked as* their **Thumb Rule** and on the basis of it, *the rules are standardized by various organizations*.
 	- Likewise in Soft Eng there is *heavy use of knowledge* which comes from **experience of practitioners**, & *well organizations or resarcher's made systmeatically organzied* the experience in ***thoeritical form***.
 	- Thus, like any other Engineering Disciplines, *Soft Eng is a "Science" that is **transformed from "Art"***.
+
+## *is* **Software Engineering Art or Science?**
