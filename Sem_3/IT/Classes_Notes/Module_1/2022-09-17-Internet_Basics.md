@@ -9,7 +9,7 @@ tags:
 - Modem
 ---
 
-<< [Syllabus Module 1](Sem_3/IT/Classes_Notes/Module_1/m1_syllabus) | [Client Server Model](Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md) >>
+<< [Syllabus Module 1](m1_syllabus)  | [Client Server Model](2022-09-17-Client_Server_Model.md) >>
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -22,35 +22,35 @@ Tags: #Internet_Technologies
 # 📑 Internet Technologies
 
 ## 📃 Summary of Notes
-- [Internet Basics](#Internet-Basics])
-	- [What is the Internet?](#what-is-the-Internet?)
-		- [Types of Internet Connections](#types-of-internet-connections)
+- [❗❓ Info](#-info)
+- [📑 Internet Technologies](#-internet-technologies)
+	- [📃 Summary of Notes](#-summary-of-notes)
+- [**Internet Basics**](#internet-basics)
+	- [**What is the Internet?**](#what-is-the-internet)
+	- [**Types of Internet Connections**](#types-of-internet-connections)
 		- [Dial-Up](#dial-up)
 		- [DSL](#dsl)
 		- [Cable](#cable)
 		- [Wireless](#wireless)
+		- [Satellite](#satellite)
 		- [Cellular](#cellular)
-	- [Modem](#modem)
-		- [Internal and External Modem](#internal-and-external-modem)
-		- [Characteristics of Modem](#characteristics-of-modem)
+	- [**Modem**](#modem)
+		- [**Internal and External Modem**](#internal-and-external-modem)
+		- [**Characteristics of Modem**](#characteristics-of-modem)
 			- [Speed of Transmission](#speed-of-transmission)
-			- [Modes Supported](#Modes-supported)
-			- [Auto-answer](#Auto-answer)
-			- [Data Compression](#Data-compression)
-			- [Flash Memory](#Flash-memory)
-			- [Fax Capability](#Fax-capability)
-	-  [Standards Of Data Communication](#Standards-Of-Data-Communication)
-		- [CCIT](#CCIT)
-		- [ISDN Connection](#ISDN-Connection)
-			- [ISDN Configurations](#ISDN-Configurations)
-				- [Types_of_ISDN](#Types_of_ISDN)
-					- [Basic Rate Interface](#Basic-Rate-Interface-(BRI))
-					- [Primary Rate Interface](#Primary-Rate-Interface)
-		-  [DSL Connection](#DSL-Connection)
-			-  [Types of DSL](#Types-of-DSL)
-				- [Symmetric Digital Subscriber Line](#Symmetric-DSL-(SDSL))
-				- [Asymmetric Digital Subscriber Line](#Asymmetric-DSL-(ADSL))
-	- [Baseband vs Broadband Transmission](#Baseband-vs-Broadband-Transmission)
+			- [Modes Supported](#modes-supported)
+			- [Auto-answer](#auto-answer)
+			- [Data Compression](#data-compression)
+			- [Flash Memory](#flash-memory)
+			- [Fax Capability](#fax-capability)
+	- [**Standards of Data Communication**](#standards-of-data-communication)
+		- [**CCIT**](#ccit)
+		- [**ISDN Connection**](#isdn-connection)
+			- [**ISDN Configurations**](#isdn-configurations)
+			- [**Types of ISDN**](#types-of-isdn)
+		- [**DSL Connection**](#dsl-connection)
+			- [**Types of DSL**](#types-of-dsl)
+	- [**Baseband vs Broadband Transmission**](#baseband-vs-broadband-transmission)
 
 ---
 # **Internet Basics**

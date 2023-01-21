@@ -11,9 +11,7 @@ tags:
 ---
 # 📕 Syallbus
 
-##  #1 - [[Procedure_Oriented_Programming|Procedure-Oriented Programming]]
-- [[Procedure_Oriented_Programming|Procedure-Oriented Programming]]
-    - 
+##  #1 - [Procedure-Oriented Programming](Procedure_Oriented_Programming) 
 
 ## #2 - [[Object_Oriented_Programming|Object-Oriented programming]]
 - [[]]

@@ -17,14 +17,6 @@ Tags: #DBMS #Syllabus
 
 # Module 1
 ---
-# 📕 Syallbus
 
-#  #1 - [[2022-09-17_Internet_Basics|Introduction]]
-- [[2022-09-17_Internet_Basics#|Purpose of Database Systems]]
-- [[2022-09-17_Internet_Basics#|View of Data]]
-- [[2022-09-17_Internet_Basics#|Data Models]]
-- [[2022-09-17_Internet_Basics#|Database Languages]]
-- [[2022-09-17_Internet_Basics#|Relational Database]]
-- [[2022-09-17_Internet_Basics#|Database Architecture]]
-- [[2022-09-17_Internet_Basics#|Database Users and Administrators]]
-- [[2022-09-17_Internet_Basics#|Transaction Management]]
+#  #1 - [DBMS_vs_File_Processing_System](DBMS_vs_File_Processing_System)
+#  #2 - [DBMS](DBMS)
