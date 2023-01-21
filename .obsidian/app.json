@@ -8,5 +8,6 @@
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachment",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }
