@@ -19,6 +19,6 @@ Tags: #Internet_Technologies #Syllabus_m1
 ---
 # 📕 Syallbus
 
-##  #1 - [Internet Basics](2022-09-17-Internet_Basics#Internet-Basics)
+##  #1 - [Internet Basics](2022-09-17-Internet_Basics)
 
-## #2 - [Client Server Model](2022-09-17-Client_Server_Model.md)
+## #2 - [Client Server Model](2022-09-17-Client_Server_Model)

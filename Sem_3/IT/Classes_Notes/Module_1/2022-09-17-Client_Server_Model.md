@@ -7,7 +7,7 @@ tags:
 - Client_Server_Model
 ---
 
-<< [Internet Basics](Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics) |
+<< [Internet Basics](2022-09-17-Internet_Basics) |
 
 # ❗❓ Info
 Course Name: Internet Technologies
