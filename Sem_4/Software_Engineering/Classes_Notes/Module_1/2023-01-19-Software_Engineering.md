@@ -19,10 +19,10 @@ Tags: #Software_Engineering
 # 📑 Software Engineering
 
 ## 📃 Summary of Notes
-- [Introduction](#Introduction)
-	- [What is software engineering?](#What-is-software-engineering?)
-- [is Software Engineering Art or Science?](#is-Software-Engineering-Art-or-Science?)
-- [Program vs Products](#Program-vs-Products)
+- [Introduction](#introduction)
+	- [What is software engineering?](#what%20is%20software%20engineering?)
+- [is Software Engineering Art or Science?](#is%20software%20engineering%20art%20or%20science?)
+- [Program vs Products](#program%20vs%20products)
 	- [abc](#abc)
 
 ---

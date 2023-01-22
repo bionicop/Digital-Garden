@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "965c6be74daff5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/Obsidian_Cheat_Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
+                "file": "template/Obsidian_Cheat_Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
+                "file": "template/Obsidian_Cheat_Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md"
+                "file": "template/Obsidian_Cheat_Sheet.md"
               }
             }
           },
@@ -158,17 +172,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f22a74b283e6850d",
+  "active": "965c6be74daff5d0",
   "lastOpenFiles": [
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "README.md",
+    "template/Syllabus.md",
+    "template/Note.md",
     "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_3/DBMS/Classes_Notes/DBMS_vs_File_Processing_System.md",
     "Sem_3/DBMS/Classes_Notes/m1_syllabus.md",
     "Sem_3/DBMS/Classes_Notes/DBMS.md",
     "Sem_4/Data_Analytics/Classes_Notes/Module_1/m1_syllabus.md",
-    "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus.md",
-    "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2023-01-19_Fundamentals_of_Computer_Algorithms.md",
-    "Sem_3/IT/IT_Index.md"
+    "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus.md"
   ]
 }
