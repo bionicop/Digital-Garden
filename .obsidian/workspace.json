@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "template/Obsidian_Cheat_Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "template/Obsidian_Cheat_Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "template/Obsidian_Cheat_Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "template/Obsidian_Cheat_Sheet.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "5802cb618664d37c",
   "lastOpenFiles": [
+    "README.md",
     "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md",
     "Sem_3/IT/Classes_Notes/Module_3/2022-10-15.md",
     "Sem_3/Scilab/Scilab_Index.md",
@@ -168,7 +169,6 @@
     "Sem_3/Scilab/Classes_Notes/2022-09-02.md",
     "Sem_3/Scilab/Classes_Notes/2022-08-16.md",
     "Sem_3/Scilab/Classes_Notes/2022-08-12.md",
-    "Sem_3/Java_OOPs/Java_Index.md",
-    "Sem_3/Java_OOPs/HomeWork/2022-09-20.md"
+    "Sem_3/Java_OOPs/Java_Index.md"
   ]
 }
