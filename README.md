@@ -20,3 +20,7 @@
 - ### [Web Programming](Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md)
 - ### [Data Analytics](Sem_4/Data_Analytics/Classes_Notes/Module_1/m1_syllabus.md)
 - ### [Fundamentals of Computer Algorithms](Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus.md)
+
+## CheatSheets (⚠️Under Construction🚧)
+- ### [Obsidian CheatSheet](template/Obsidian_Cheat_Sheet.md)
+- ### [Scilab](Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf)

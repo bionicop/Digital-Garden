@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/Obsidian_Cheat_Sheet.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/Obsidian_Cheat_Sheet.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/Obsidian_Cheat_Sheet.md"
+                "file": "README.md"
               }
             }
           },
@@ -172,17 +170,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "965c6be74daff5d0",
+  "active": "f22a74b283e6850d",
   "lastOpenFiles": [
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
-    "template/Obsidian_Cheat_Sheet.md",
+    "Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf",
     "README.md",
+    "template/Obsidian_Cheat_Sheet.md",
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
     "template/Syllabus.md",
     "template/Note.md",
     "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_3/DBMS/Classes_Notes/DBMS_vs_File_Processing_System.md",
     "Sem_3/DBMS/Classes_Notes/m1_syllabus.md",
-    "Sem_3/DBMS/Classes_Notes/DBMS.md",
-    "Sem_4/Data_Analytics/Classes_Notes/Module_1/m1_syllabus.md"
+    "Sem_3/DBMS/Classes_Notes/DBMS.md"
   ]
 }
