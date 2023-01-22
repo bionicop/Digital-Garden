@@ -13,4 +13,4 @@ tags:
 ---
 # 📕 Syallbus
 
-##  #1 - [Software Engineering](2023-01-19-Software_Engineering) 
+##  #1 - [Software Engineering](2023-01-19-Software_Engineering.md) 
