@@ -13,10 +13,4 @@ tags:
 ---
 # 📕 Syallbus
 
-##  #1 - [[|]]
-- [2023-01-19-Software_Engineering](Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md)
-    - 
-
-## #2 - [[|]]
-- [[]]
-    - 
+##  #1 - [Software Engineering](2023-01-19-Software_Engineering) 
