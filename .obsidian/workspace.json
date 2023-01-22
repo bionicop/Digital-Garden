@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53d42be909edeafe",
+        "id": "961c7f472da368d6",
         "type": "tabs",
         "children": [
           {
-            "id": "f22a74b283e6850d",
+            "id": "5802cb618664d37c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "965c6be74daff5d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/Obsidian_Cheat_Sheet.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,17 +158,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e5963bb9f6c69624",
+  "active": "5802cb618664d37c",
   "lastOpenFiles": [
-    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics.md",
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
     "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md",
-    "template/Obsidian_Cheat_Sheet.md",
-    "template/Note.md",
-    "template/Syllabus.md",
-    "Sem_3/DBMS/Classes_Notes/DBMS.md",
-    "Sem_3/DBMS/Classes_Notes/DBMS_vs_File_Processing_System.md",
-    "Sem_3/DBMS/Classes_Notes/m1_syllabus.md",
-    "README.md"
+    "Sem_3/IT/Classes_Notes/Module_3/2022-10-15.md",
+    "Sem_3/Scilab/Scilab_Index.md",
+    "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
+    "Sem_3/Scilab/Classes_Notes/2022-09-09.md",
+    "Sem_3/Scilab/Classes_Notes/2022-09-02.md",
+    "Sem_3/Scilab/Classes_Notes/2022-08-16.md",
+    "Sem_3/Scilab/Classes_Notes/2022-08-12.md",
+    "Sem_3/Java_OOPs/Java_Index.md",
+    "Sem_3/Java_OOPs/HomeWork/2022-09-20.md"
   ]
 }

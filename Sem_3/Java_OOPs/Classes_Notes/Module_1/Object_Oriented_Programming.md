@@ -19,10 +19,10 @@ Tags: #OOPS #Object_Oriented_Programming
 # 📑 Object-Oriented programming
 
 ## 📃 Summary of Notes
--   - [Object-Oriented Programming](#object-oriented-programming)
-      - [Classes](#classes)
-      - [Object](#object) ^49a322
-  - [OOPs Concepts in Java](#oops-concepts-in-java)
+-   - [Object-Oriented Programming](<#Object-Oriented Programming>)
+      - [Classes](<#Classes>)
+      - [Object](<#Object>)
+  - [OOPs Concepts in Java](<#OOPs Concepts in Java>)
 
 ## Object-Oriented Programming
 - It is a methodology or paradigm to design a program using classes and objects.
