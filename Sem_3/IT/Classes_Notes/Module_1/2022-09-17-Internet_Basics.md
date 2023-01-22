@@ -48,9 +48,9 @@ Tags: #Internet_Technologies
 		- [**ISDN Connection**](#isdn-connection)
 			- [**ISDN Configurations**](#isdn-configurations)
 			- [**Types of ISDN**](#types-of-isdn)
-		- [**DSL Connection**](#dsl-connection)
-			- [**Types of DSL**](#types-of-dsl)
-	- [**Baseband vs Broadband Transmission**](#baseband-vs-broadband-transmission)
+		- [DSL Connection](<#DSL Connection>)
+			- [Types of DSL](<#Types of DSL>)
+	- [Baseband vs Broadband Transmission](#baseband-vs-broadband-transmission)
 
 ---
 # **Internet Basics**
