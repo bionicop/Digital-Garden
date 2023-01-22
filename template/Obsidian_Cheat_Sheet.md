@@ -50,6 +50,18 @@ Coding Blocks - Using Grave Accent (`) 3 times before and after the code[You cou
 # External links
 [Something COOL](https://cutt.ly/69shyNU)
 [External Link but with Title o.o](https://cutt.ly/69shyNU "Click me...JUST DO IT~!")
+
+# URI Links
+[Link to note](obsidian://open?vault=Digital-Garden&file=template%2FObsidian_Cheat_Sheet)
+
+# Escaping [I learned about this preety late & this is the only reason I am making these cheatnote/cheatsheet it is a Game Changer ngl.]
+
+# 1st Way:
+[Some Heading](#some%heading) [Important thing here is if you have spaces between your headings that you are trying to link in same document as a Index then you have to 1st Write heading in lowercase & 2nd have "%20" when there is some space.]
+
+# 2nd Way:
+Or you could completely skip that by doing:
+[Some Heading](<#Some Heading>) [Here, you have to just add "<" at the start of your heading & this ">" at the end of your heading, & this is "Case-Insensitive" so you don't have to re-write your heading in lowercase good innit?]
 ```
 
 # Tables: 
@@ -61,3 +73,19 @@ Coding Blocks - Using Grave Accent (`) 3 times before and after the code[You cou
 
 tho, I mostly use this site to generate tables as it is faster ttps://www.tablesgenerator.com/markdown_tables
 ```
+
+# Footnotes:
+```
+# 1st Way:
+Text with foot note[^1] 
+abc
+[^1]: Footnote 1
+
+# 2nd Way: [Directly in text]
+This is some text. 
+Some More text This text has a foot note ^[Foot Notes Text]
+
+
+I prefer to use 1st method :)'
+```
+
