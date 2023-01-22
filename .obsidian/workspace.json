@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/Obsidian_Cheat_Sheet.md",
+                "file": "Sem_4/Web_Programming/Web_Programming_Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/Obsidian_Cheat_Sheet.md",
+                "file": "Sem_4/Web_Programming/Web_Programming_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/Obsidian_Cheat_Sheet.md",
+                "file": "Sem_4/Web_Programming/Web_Programming_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/Obsidian_Cheat_Sheet.md"
+                "file": "Sem_4/Web_Programming/Web_Programming_Index.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "5802cb618664d37c",
   "lastOpenFiles": [
+    "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
+    "Sem_4/Web_Programming/Web_Programming_Index.md",
+    "template/Syllabus.md",
+    "template/Obsidian_Cheat_Sheet.md",
+    "template/Note.md",
     "README.md",
     "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md",
     "Sem_3/IT/Classes_Notes/Module_3/2022-10-15.md",
     "Sem_3/Scilab/Scilab_Index.md",
-    "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
-    "Sem_3/Scilab/Classes_Notes/2022-09-09.md",
-    "Sem_3/Scilab/Classes_Notes/2022-09-02.md",
-    "Sem_3/Scilab/Classes_Notes/2022-08-16.md",
-    "Sem_3/Scilab/Classes_Notes/2022-08-12.md",
-    "Sem_3/Java_OOPs/Java_Index.md"
+    "Sem_3/Scilab/Classes_Notes/2022-09-09.md"
   ]
 }
