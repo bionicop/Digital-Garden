@@ -54,4 +54,3 @@ Tags: #Software_Engineering
 | There are _no concrete guidelines_ in writing a program.                                                    	| In case of product, the firm **guidelines are followed**.                                                                               	|
 | It _may or may not focus on efficiency and cost_.                                                           	| It needs to _worry about the **cost and efficiency**_ as it would ==affect the profitability of the enterprise launching the product==. 	|
 
-

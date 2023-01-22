@@ -1,8 +1,3 @@
----
-title: 🍀 Digital Garden
-enableToc: false
----
-
 # What is this?
 - These are my College notes(& codes) which I will be writing with the help of other resources in condenced format so that it's easy to rembember & understand :) _Hope on with me on the ride of my GARDENNNNNN!_
 
