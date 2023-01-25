@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Roll Number</title>
+</head>
+
+<body>
+	<script>
+		var roll_no = 45001;
+
+		document.write("<h4>Q1) Generate 30 roll number with JScript and print them. (Roll number should start from: 'BCA45001/23'</h4> <br>"); <!--Original question was to just print till 30, I added promt for fun: ) -->
+		
+		let roll_no_end = prompt("How many Roll number you wish to print? ex: If you wish to print from 1 - 30 then '45030'");
+			for (roll_no = 45001; roll_no <= roll_no_end; roll_no++) {
+				document.write("BCA/" + roll_no + "/23" + "<br>");
+			}
+	</script>
+</body>
+
+</html>
