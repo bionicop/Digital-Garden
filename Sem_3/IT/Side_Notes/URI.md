@@ -1,3 +1,5 @@
+--- 
+---
 # URI
 - URI *stands for* **Uniform Resource Identifier**.
 - URI is a **string of characters** *which identifies an Internet Resource*. 
