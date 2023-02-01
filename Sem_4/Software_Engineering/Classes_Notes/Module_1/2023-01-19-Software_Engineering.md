@@ -5,7 +5,7 @@ aliases: [Fundamentals of Computer Algorithms]
 tags: 
 - Fundamentals of Computer Algorithms
 ---
-
+#publish
 << [[Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus|Syllabus Module 1]] | [[2022-12-05_Software_Engineering|Software Engineering]] >>
 
 # ❗❓ Info

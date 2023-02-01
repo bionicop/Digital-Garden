@@ -2,9 +2,11 @@
 creation date: 2023-01-17
 modification date: Tuesday 17th January 2023
 aliases: [Index] 
-tags: Index
+tags: 
+- Index
+- publish
 ---
-
+#publish
 # 📕 Index
 
 ##  #1 - [Day 1](Classes_Notes/2022-08-12.md)
