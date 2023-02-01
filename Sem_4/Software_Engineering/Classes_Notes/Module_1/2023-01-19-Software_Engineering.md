@@ -33,7 +33,7 @@ Tags: #Software_Engineering
 - On the other hand Engineering is all about *developing products, using well-defined, scientific principles and methods*.
 - Thus, It's a *systematic collection* of good program development **practices and techniques**. (An *engineering approach* to *develop a software*.)
 - From above points of view we can define Soft Eng as:
-	- Soft Eng discusses *systematic & cost-effective* techniques for Software Development. It is *an engineering approach to develop software*.
+	- Soft Eng discusses *systematic & cost-effective* techniques for Software Development.
 
 # *is* **Software Engineering Art or Science?**
 - Many people think writing good quality code is an Art. So let's discuss about this:
