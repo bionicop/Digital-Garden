@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JS Form</title>
+</head>
+<body>
+    <h1>Please Input your Details: </h1>
+    <p><i>(nothing is being stored as it's just concatenating 2 strings in our case that is name.)</i></p>
+
+    <p>
+        <fieldset>
+            First name: <input type="text" id="fname" required /><br />
+            Last name: <input type="text" id="lname"/><br />
+        </fieldset>
+        <button onclick="checkAndReadInput()">a simple button <i>is it THO? hmmm</i>></button>
+        <p id="result"></p>
+    </p>
+
+    <script>
+        function checkAndReadInput() {
+            // Get the values:
+            var text1 = document.getElementById("fname").value;
+            var text2 = document.getElementById("lname").value;
+            // Check if either of the inputs are empty.
+            if (text1.length === 0 || text2.length === 0) {
+                alert("Please fill the form before continuing.");
+                return;
+            }
+            var mysteryasf = prompt("HEY THERE, I learn't something today wanna know what?", "Yes/No");
+            // Convert the user's response to lowercase:
+            mysteryasf = mysteryasf.toLowerCase();
+            if (mysteryasf === "yes" || mysteryasf === "y") {
+                x = "YOUR NAME!!! " + text1 + " " + text2;
+                document.getElementById("result").innerHTML = x;
+            } else {
+                // Shows a random message from the "sadMessage" array, added to make it more dynamic.
+                var sadMessage = ["Aw, that's too bad.",
+                    "Maybe next time.",
+                    "No problem, see you later.",
+                    "It's okay, maybe next time. Have a good one!",
+                    "No worries, come back soon :)",
+                    "Easter egg! You're awesome :)",
+                    "Too bad, see you later!",
+                    "Well, maybe next time. Have a great day!",
+                ];
+                var randomIndex = Math.floor(Math.random() * sadMessage.length);
+                alert(sadMessage[randomIndex]);
+            }
+        }
+    </script>
+</body>
+</html>
