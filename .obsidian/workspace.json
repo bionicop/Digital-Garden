@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1d492634d34895e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Use_Case.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Use_Case.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Use_Case.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Use_Case.md"
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md"
               }
             }
           },
@@ -170,10 +157,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1d492634d34895e3",
+  "active": "4fe1581f86c88632",
   "lastOpenFiles": [
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Software_Engineering/Classes_Notes/Module_1/Use_Case.md",
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
     "Sem_4/Web_Programming/Classes_Notes/Module_1/2023-02-01.md",
