@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
-                "mode": "preview",
+                "file": "Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec0bb0f8e76219b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem_4/Web_Programming/Classes_Notes/Module_1/2023-02-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "741d013cee8d3fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem_4/Web_Programming/Classes_Notes/Module_1/2023-02-01.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
+                "file": "Sem_4/Web_Programming/Classes_Notes/Module_1/2023-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
+                "file": "Sem_4/Web_Programming/Classes_Notes/Module_1/2023-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md"
+                "file": "Sem_4/Web_Programming/Classes_Notes/Module_1/2023-02-01.md"
               }
             }
           },
@@ -137,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,17 +182,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5802cb618664d37c",
+  "active": "741d013cee8d3fa1",
   "lastOpenFiles": [
-    "Sem_4/Web_Programming/Web_Programming_Index.md",
-    "README.md",
-    "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
-    "template/Syllabus.md",
-    "template/Obsidian_Cheat_Sheet.md",
+    "Sem_4/Web_Programming/Side_Notes/sgml.md",
+    "Sem_4/Web_Programming/Classes_Notes/Module_1/2023-02-01.md",
+    "Sem_3/IT/Side_Notes/URI.md",
+    "Sem_3/IT/Side_Notes/type_of_internet_connection.md",
+    "Sem_3/IT/Side_Notes/computer.md",
+    "Sem_3/IT/IT_Index.md",
+    "Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md",
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/2023-01-19-Software_Engineering.md",
     "template/Note.md",
-    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md",
-    "Sem_3/IT/Classes_Notes/Module_3/2022-10-15.md",
-    "Sem_3/Scilab/Scilab_Index.md",
-    "Sem_3/Scilab/Classes_Notes/2022-09-09.md"
+    "Untitled.md"
   ]
 }
