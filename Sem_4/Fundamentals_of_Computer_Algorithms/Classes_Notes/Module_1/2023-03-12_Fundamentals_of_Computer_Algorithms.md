@@ -8,13 +8,6 @@ tags:
 
 << [[Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus|Syllabus Module 1]] | [[2022-12-05_Fundamentals_of_Computer_Algorithms|Fundamentals of Computer Algorithms]] >>
 
-# ❗❓ Info
-Course Name: Fundamentals of Computer Algorithms
-Course Code: CA255
-Date: Sunday 12th March 2023
-Professor/Speaker: *self ig..*
-Tags: #Fundamentals_of_Computer_Algorithms
-
 ---
 # 📑 Fundamentals of Computer Algorithms
 
