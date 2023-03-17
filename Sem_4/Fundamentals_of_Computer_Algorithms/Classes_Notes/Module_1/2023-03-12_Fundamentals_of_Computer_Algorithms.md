@@ -69,16 +69,35 @@ for(int i=0; i<(5-1); i++){
 - These are mathematical notations used to describe the running time of an algorithm when the input tends towards a particular value or a limiting value.
 - Three main notations are:
 		- **Big-Oh Notation (O)**
-			- It represents the upper bond of the running time of an algorithm.
+			- It represents the upper bound of the running time of an algorithm.
 			- Thus, it provides the worst case complexity of an algorithm.
-			- image source: https://www.programiz.com/dsa/asymptotic-notations ![Attachment/](Big-Oh.png)
-			- Here, f(n) <= c.g(n), c.g(n) proves to be the upper bond for f(n) for all n >= 0.
+			- image source: https://www.programiz.com/dsa/asymptotic-notations ![Attachment/](Attachment/Fundamentals_of_Computer_Algorithms/Big-Oh.png)
+			- Here, f(n) <= c.g(n), c.g(n) proves to be the upper bound for f(n) for all n >= 0.
 			- c = constant
 			- n<sub>0</sub> >= 1
 			- Therefore, f(n) = O(g(n))
 		- **Big-Omega Notation (Ω)**
-			- It represents the lower bond of the running time of an algorithm.
+			- It represents the lower bound of the running time of an algorithm.
 			- Thus, it provides the best case complexity of an algorithm.
-			- image source: https://www.programiz.com/dsa/asymptotic-notations ![Attachment/](Big-Omega.png)
-			- Here, f(n) >= c.g(n), c.g(n) proves to be the lower bond for f(n) for all n >= n<sub>0</sub>.
-			- 
+			- image source: https://www.programiz.com/dsa/asymptotic-notations ![](Attachment/Fundamentals_of_Computer_Algorithms/Big-Omega.png)
+			- Here, f(n) >= c.g(n), c.g(n) proves to be the lower bound for f(n) for all n >= n<sub>0</sub>.
+			- c = constant
+			- c > 0
+			- n<sub>0</sub> >= 1
+			- Therfore, f(n) = Ω(g(n))
+		- **Big-Theta Notation (Θ)**
+			- Theta notation encloses the fundtion f(n) from above and below, It represents both upper and lower bound of the running time of an algorithm.
+			- It is used to analyze the average case complexity of an algorithm.
+			- image source: https://www.programiz.com/dsa/asymptotic-notations ![](Attachment/Fundamentals_of_Computer_Algorithms/Big-Theta.png)
+			- Here,  c<sub>2</sub>.g(n) <= f(n) <= c<sub>1</sub>.g(n), c<sub>1</sub>.g(n) & c<sub>2</sub>.g(n) proves to be the lower bound & upper bound for f(n) for all n >= n<sub>0</sub>.
+			- c<sub>1</sub>, c<sub>2</sub> = constant
+			- c<sub>1</sub>, c<sub>2</sub> > 0
+			- n<sub>0</sub> >= 1
+			- Therfore, f(n) = Θ(g(n))
+
+# **Master Theorem**
+- This theorm is used to solve recurrence relations of the form.
+- $$
+{T(n) = \mathbf{aT} (\frac{n}{b}) + Θ(n^{k}\log^{p}n)}
+$$
+- 
