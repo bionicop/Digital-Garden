@@ -66,7 +66,9 @@ for(int i=0; i<(5-1); i++){
 ```
 
 # **Asymptotic Notations:**
-- These are mathematical notations used to describe the running time og an algorithm when the input tends towards a particular value or a limiting value.
+- These are mathematical notations used to describe the running time of an algorithm when the input tends towards a particular value or a limiting value.
 - Three main notations are:
 		- Big-O Notation (O)
-			- It represents the upper bond of the running time of an algorithm
+			- It represents the upper bond of the running time of an algorithm.
+			- Thus, it gives the worst case complexity of an algorithm.
+			- 
