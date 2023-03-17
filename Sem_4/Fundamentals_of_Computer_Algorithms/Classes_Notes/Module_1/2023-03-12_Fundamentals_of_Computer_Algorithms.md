@@ -97,9 +97,7 @@ for(int i=0; i<(5-1); i++){
 
 # **Master Theorem**
 - This theorm is used to solve recurrence relations of the form.
-- $$
-{T(n) = \mathbf{aT} (\frac{n}{b}) + Θ(n^{k}log^{p}n)}
-$$
+$${T(n) = \mathbf{aT} (\frac{n}{b}) + Θ(n^{k}log^{p}n)}$$
 - where, a >= 1, b > 1, k >= 0, p = any real number
 - **Case I:**
 	- If a > b<sup>k</sup>, then
@@ -130,3 +128,6 @@ $$
 			- $$
 {T(n) = Θ({n}^{k})}
 $$
+```latex
+$${T(n) = \mathbf{aT} (\frac{n}{b}) + Θ(n^{k}log^{p}n)}$$
+```
