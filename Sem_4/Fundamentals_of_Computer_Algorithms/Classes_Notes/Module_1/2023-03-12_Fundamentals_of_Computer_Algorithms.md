@@ -68,14 +68,17 @@ for(int i=0; i<(5-1); i++){
 # **Asymptotic Notations:**
 - These are mathematical notations used to describe the running time of an algorithm when the input tends towards a particular value or a limiting value.
 - Three main notations are:
-		- Big-Oh Notation (O)
+		- **Big-Oh Notation (O)**
 			- It represents the upper bond of the running time of an algorithm.
 			- Thus, it provides the worst case complexity of an algorithm.
-			- image source: https://www.programiz.com/dsa/asymptotic-notations ![](Attachment/Pasted%20image%2020230317223743.png) 
-			- Here, f(n) <= c.g(n), c.g(n) proves to be the upper bond for f(n) for all n>=0.
+			- image source: https://www.programiz.com/dsa/asymptotic-notations ![Attachment/](Big-Oh.png)
+			- Here, f(n) <= c.g(n), c.g(n) proves to be the upper bond for f(n) for all n >= 0.
 			- c = constant
 			- n<sub>0</sub> >= 1
 			- Therefore, f(n) = O(g(n))
-		- Big-Omega Notation (Ω)
+		- **Big-Omega Notation (Ω)**
 			- It represents the lower bond of the running time of an algorithm.
 			- Thus, it provides the best case complexity of an algorithm.
+			- image source: https://www.programiz.com/dsa/asymptotic-notations ![Attachment/](Big-Omega.png)
+			- Here, f(n) >= c.g(n), c.g(n) proves to be the lower bond for f(n) for all n >= n<sub>0</sub>.
+			- 

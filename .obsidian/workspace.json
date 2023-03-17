@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91935b16151b025b",
+            "id": "9660bacfb4ffe995",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -158,12 +157,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "91935b16151b025b",
+  "active": "9660bacfb4ffe995",
   "lastOpenFiles": [
-    "Attachment/Pasted image 20230317223743.png",
-    "Attachment/Pasted image 20230317223720.png",
-    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md",
+    "Attachment/Scilab/Image/sine.png",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2023-03-12_Fundamentals_of_Computer_Algorithms.md",
+    "Big-Oh.png.png.md",
+    "Attachment/(sine.png).md",
+    "Attachment/Big-Oh.png",
+    "Sem_3/Scilab/Classes_Notes/2022-08-16.md",
+    "Sem_3/Scilab/Classes_Notes/2022-08-12.md",
+    "Attachment/Pasted image 20230317223720.png",
+    "Attachment/logo.png",
+    "Attachment/Big-Omega.png",
+    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_3/IT/Classes_Notes/Module_3/2022-10-15.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2023-01-19_Fundamentals_of_Computer_Algorithms.md",
