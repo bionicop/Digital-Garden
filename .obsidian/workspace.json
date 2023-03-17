@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -157,7 +158,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e5963bb9f6c69624",
+  "active": "9660bacfb4ffe995",
   "lastOpenFiles": [
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Oh.png",
     "Big-Oh.png.png.md",
