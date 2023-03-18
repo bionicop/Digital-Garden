@@ -95,7 +95,9 @@ $${T(n) = \mathbf{aT} (\frac{n}{b}) + Θ(n^{k}log^{p}n)}$$
 			- $${T(n) = Θ({n}^{k})}$$
 
 ---
-# **Selection Sort:**
+# **Sorting Algorithms**
+
+## **Selection Sort:**
 - It is a simple sorting algorithm that works by selecting the *smallest element from the unsorted part of an array* and **putting it at the beginning of the array**. It then keeps repeating the process for the remaining unsorted part of the array until the whole array is sorted.
 ```java
 for(int i=0; i<(5-1); i++){
@@ -113,7 +115,7 @@ for(int i=0; i<(5-1); i++){
 }
 ```
 
-## **Selection Sort Analysis**
+### **Selection Sort Analysis**
 - Time Complexity = **Θ(n<sup>2</sup>)** *{because of 2 nested loops}*
 	- One loop to select an array's element one by one => **Θ(n)
 	- Second loop to compare & swap elements => **Θ(n)
@@ -121,7 +123,7 @@ for(int i=0; i<(5-1); i++){
 - Selection sort is not a stable algorithm.
 
 
-# **Insertion Sort:**
+## **Insertion Sort:**
 - It is a simple sorting algorithm that works by *building a sorted list from the unsorted part of an array one element at a time*. It *iterates through the array and for each element*, it *finds the* **correct position to insert it in the sorted part of the array**.
 ```java
 Algorithm Sort(int a[], int n){
@@ -145,7 +147,39 @@ Algorithm Sort(int a[], int n){
 }
 ```
 
-## **Insertion Sort Analysis**
+### **Insertion Sort Analysis**
+- Time Complexity = **Θ(n<sup>2</sup>)** *{because of 2 nested loops}*
+	- First "*for*" loop, for *comparing elements with their previous element*.
+	- Second "*while*" loop, for *shifitng elements forward*.
+- Insertion sort is an in-place sorting algorithm.
+- Insertion sort is a stable algorithm.
+
+
+## **Quick Sort:**
+- It is a simple sorting algorithm that works by *building a sorted list from the unsorted part of an array one element at a time*. It *iterates through the array and for each element*, it *finds the* **correct position to insert it in the sorted part of the array**.
+```java
+Partition(arr[], lb, ub){
+    int i,j,key;
+    // initialize i to 1 and loop over the array until i is less than n
+    for(i = 1; i < n; i++){
+        // set the variable key to the value of the element at index i
+        key = a[i];
+        // initialize j to i-1
+        j = i - 1;
+        // while j is greater than or equal to 0 and the value of the element at index j is greater than key
+        while(j >= 0 && a[j] > key){
+            // move the element at index j one position to the right
+            a[j + 1] = a[j];
+            // decrement j
+            j = j - 1;
+        }
+        // set a[j+1] to key
+        a[j + 1] = key;
+    }
+}
+```
+
+### **Insertion Sort Analysis**
 - Time Complexity = **Θ(n<sup>2</sup>)** *{because of 2 nested loops}*
 	- First "*for*" loop, for *comparing elements with their previous element*.
 	- Second "*while*" loop, for *shifitng elements forward*.
