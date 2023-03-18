@@ -109,4 +109,26 @@ $${T(n) = \mathbf{aT} (\frac{n}{b}) + Θ(n^{k}log^{p}n)}$$
 			- $${T(n) = Θ({n}^{k}{log^{p}n})}$$
 		- If p < 0, then
 			- $${T(n) = Θ({n}^{k})}$$
-
+# **Insertion Sort:**
+- It is a simple sorting algorithm that works by *building a sorted list from the unsorted part of an array one element at a time*. It *iterates through the array and for each element*, it *finds the* **correct position to insert it in the sorted part of the array**.
+```java
+Algorithm Sort(int a[], int n){
+    int i,j,key;
+    // initialize i to 1 and loop over the array until i is less than n
+    for(i = 1; i < n; i++){
+        // set the variable key to the value of the element at index i
+        key = a[i];
+        // initialize j to i-1
+        j = i - 1;
+        // while j is greater than or equal to 0 and the value of the element at index j is greater than key
+        while(j >= 0 && a[j] > key){
+            // move the element at index j one position to the right
+            a[j + 1] = a[j];
+            // decrement j
+            j = j - 1;
+        }
+        // set a[j+1] to key
+        a[j + 1] = key;
+    }
+}
+```
