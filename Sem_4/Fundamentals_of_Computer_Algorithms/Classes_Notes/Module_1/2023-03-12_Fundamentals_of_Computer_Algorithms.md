@@ -40,24 +40,7 @@ graph TD
     4 --> G(Profiling) --> 6(Profiling means running a program on sample datasets and calulating ammount of space and time it requires.)
 ```
 
-# **Selection Sort:**
-- It is a simple sorting algorithm that works by selecting the *smallest element from the unsorted part of an array* and **putting it at the beginning of the array**. It then keeps repeating the process for the remaining unsorted part of the array until the whole array is sorted.
-```java
-for(int i=0; i<(5-1); i++){
-    // initialize i to 0 and loop over the array until i is less than n-1
-    for(int j=i+1; j<5; j++){
-        // initialize j to i+1 and loop over the remaining unsorted part of the array until j is less than n
-        if(arr[j] < arr[i]){
-            // compare the value of the element at index j to the value of the element at index i
-            int temp = arr[i];
-            arr[j] = arr[i];
-            arr[i] = temp;
-            // if the element at index j is smaller than the element at index i, swap their positions in the array
-        }
-    }
-}
-```
-
+---
 # **Asymptotic Notations:**
 - These are mathematical notations used to describe the running time of an algorithm when the input tends towards a particular value or a limiting value.
 - Three main notations are:
@@ -88,6 +71,7 @@ for(int i=0; i<(5-1); i++){
 			- n<sub>0</sub> >= 1
 			- Therfore, f(n) = Θ(g(n))
 
+---
 # **Master Theorem**
 - This theorm is used to solve recurrence relations of the form.
 $${T(n) = \mathbf{aT} (\frac{n}{b}) + Θ(n^{k}log^{p}n)}$$
@@ -109,6 +93,34 @@ $${T(n) = \mathbf{aT} (\frac{n}{b}) + Θ(n^{k}log^{p}n)}$$
 			- $${T(n) = Θ({n}^{k}{log^{p}n})}$$
 		- If p < 0, then
 			- $${T(n) = Θ({n}^{k})}$$
+
+---
+# **Selection Sort:**
+- It is a simple sorting algorithm that works by selecting the *smallest element from the unsorted part of an array* and **putting it at the beginning of the array**. It then keeps repeating the process for the remaining unsorted part of the array until the whole array is sorted.
+```java
+for(int i=0; i<(5-1); i++){
+    // initialize i to 0 and loop over the array until i is less than n-1
+    for(int j=i+1; j<5; j++){
+        // initialize j to i+1 and loop over the remaining unsorted part of the array until j is less than n
+        if(arr[j] < arr[i]){
+            // compare the value of the element at index j to the value of the element at index i
+            int temp = arr[i];
+            arr[j] = arr[i];
+            arr[i] = temp;
+            // if the element at index j is smaller than the element at index i, swap their positions in the array
+        }
+    }
+}
+```
+
+## **Selection Sort Analysis**
+- Time Complexity = **Θ(n<sup>2</sup>)** *{because of 2 nested loops}*
+	- One loop to select an array's element one by one => **Θ(n)
+	- Second loop to compare & swap elements => **Θ(n)
+- Selection sort is an in-place sorting algorithm.
+- Selection sort is not a stable algorithm.
+
+
 # **Insertion Sort:**
 - It is a simple sorting algorithm that works by *building a sorted list from the unsorted part of an array one element at a time*. It *iterates through the array and for each element*, it *finds the* **correct position to insert it in the sorted part of the array**.
 ```java
@@ -132,3 +144,10 @@ Algorithm Sort(int a[], int n){
     }
 }
 ```
+
+## **Insertion Sort Analysis**
+- Time Complexity = **Θ(n<sup>2</sup>)** *{because of 2 nested loops}*
+	- First "*for*" loop, for *comparing elements with their previous element*.
+	- Second "*while*" loop, for *shifitng elements forward*.
+- Insertion sort is an in-place sorting algorithm.
+- Insertion sort is a stable algorithm.
