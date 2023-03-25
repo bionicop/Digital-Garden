@@ -6,8 +6,6 @@ tags:
 - Fundamentals of Computer Algorithms
 ---
 
-<< [[Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus|Syllabus Module 1]] | [[2022-12-05_Fundamentals_of_Computer_Algorithms|Fundamentals of Computer Algorithms]] >>
-
 ---
 # 📑 Fundamentals of Computer Algorithms
 

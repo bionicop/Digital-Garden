@@ -7,11 +7,11 @@ tags:
 - Syllabus
 ---
 
-| [Software Engineering](Software_Engineering.md) >>
+| [Software Engineering](Software_Engineering) >>
 
 # Module 1
 ---
 # 📕 Syallbus
 
-##  #1 - [Software Engineering](Software_Engineering.md) 
-##  #2 - [Use Case Diagrams](Use_Case.md) 
+##  #1 - [Software Engineering](Software_Engineering)
+##  #2 - [Use Case Diagrams](Use_Case) 
