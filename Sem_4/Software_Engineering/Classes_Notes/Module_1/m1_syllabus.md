@@ -7,11 +7,11 @@ tags:
 - Syllabus
 ---
 
-| [Software Engineering](2023-01-19-Software_Engineering.md) >>
+| [Software Engineering](Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md) >>
 
 # Module 1
 ---
 # 📕 Syallbus
 
-##  #1 - [Software Engineering](2023-01-19-Software_Engineering.md) 
+##  #1 - [Software Engineering](Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md) 
 ##  #2 - [Use Case Diagrams](Use_Case.md) 

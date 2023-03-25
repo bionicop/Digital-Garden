@@ -54,3 +54,11 @@ Tags: #Software_Engineering
 | There are _no concrete guidelines_ in writing a program.                                                    	| In case of product, the firm **guidelines are followed**.                                                                               	|
 | It _may or may not focus on efficiency and cost_.                                                           	| It needs to _worry about the **cost and efficiency**_ as it would ==affect the profitability of the enterprise launching the product==. 	|
 
+# **Emergence of *Software Engineering***
+- Early Computer Progrmaming:
+	- In the 1950s, computers where slow and expensive even with small line of codes it took computers long time to process them. Since, at that time assembly language was used Porgramming was a very tedious task.
+- High Level Programming Language:
+	- With the introduction of semi-conductors technology, computers became much smaller and faster as well as cost-effective.
+	- Also, programming lanugages were upgraded from assembly(low-level) to high-level lanugage. COBOL and FORTRAN came into existence. As a result programming become much more easier, thus increasing productivity.
+- Contorl flow Based Design:
+	- Since the usage of computers increased rapidly, and program evolved to become more and more complex, the individual style of programming couldn't be used 
