@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md"
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md"
               }
             }
           },
@@ -160,6 +159,12 @@
   },
   "active": "656932599eaf3876",
   "lastOpenFiles": [
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/Use_Case.md",
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
+    "Sem_3/DBMS/Classes_Notes/m1_syllabus.md",
+    "Sem_3/DBMS/Classes_Notes/DBMS_vs_File_Processing_System.md",
+    "Sem_3/DBMS/Classes_Notes/DBMS.md",
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
     "Attachment/THEEEEECATTTT.png",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2023-03-12_Fundamentals_of_Computer_Algorithms.md",
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Oh.png",
@@ -179,9 +184,6 @@
     "Sem_3/IT/Classes_Notes/Module_3/2022-10-15.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/2023-01-19_Fundamentals_of_Computer_Algorithms.md",
     "template/Note.md",
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/Use_Case.md",
-    "Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md",
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md"
+    "Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md"
   ]
 }
