@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md"
               }
             }
           },
@@ -159,6 +160,8 @@
   },
   "active": "656932599eaf3876",
   "lastOpenFiles": [
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
+    "index.md",
     "Sem_3/Java_OOPs/Java_Index.md",
     "Sem_3/Scilab/Scilab_Index.md",
     "Sem_3/Scilab/Classes_Notes/2022-09-09.md",
@@ -166,7 +169,6 @@
     "Sem_4/Data_Analytics/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/Fundamentals_of_Computer_Algorithms.md",
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Web_Programming/Classes_Notes/Module_1/2023-02-01.md",
     "Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Web_Programming/Side_Notes/sgml.md",
@@ -181,7 +183,6 @@
     "Attachment/THEEEEECATTTT.png",
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Oh.png",
     "Big-Oh.png.png.md",
-    "index.md",
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Theta.png",
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Omega.png",
     "Attachment/Fundamentals_of_Computer_Algorithms",
