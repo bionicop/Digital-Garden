@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "639034c2af851243",
+        "id": "008ac149a4a20aba",
         "type": "tabs",
         "children": [
           {
-            "id": "656932599eaf3876",
+            "id": "c88b76740b83b87b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6194b2e2a3f10d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Just Something I need to Work on/My_Training_Program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Just Something I need to Work on/My_Training_Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Just Something I need to Work on/My_Training_Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Just Something I need to Work on/My_Training_Program.md"
               }
             }
           },
@@ -157,11 +170,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "656932599eaf3876",
+  "active": "e6194b2e2a3f10d9",
   "lastOpenFiles": [
-    "Just Something I need to Work on",
-    "Just Something I need to Work on/My_Training_Program.md",
     "index.md",
+    "Just Something I need to Work on/My_Training_Program.md",
+    "Just Something I need to Work on/aa.md",
+    "template/Obsidian_Cheat_Sheet.md",
+    "template/Note.md",
+    "Just Something I need to Work on",
     "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
     "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_3/Java_OOPs/Java_Index.md",
@@ -189,9 +205,7 @@
     "Attachment/Fundamentals_of_Computer_Algorithms",
     "Attachment/Scilab/Image/sine.png",
     "Attachment/(sine.png).md",
-    "Sem_3/Scilab/Classes_Notes/2022-08-16.md",
     "Attachment/Pasted image 20230317223720.png",
-    "Attachment/logo.png",
-    "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Client_Server_Model.md"
+    "Attachment/logo.png"
   ]
 }
