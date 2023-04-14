@@ -26,3 +26,6 @@
 ## CheatSheets (⚠️Under Construction🚧)
 - ### [Obsidian CheatSheet](template/Obsidian_Cheat_Sheet.md)
 - ### [Scilab](Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf)
+
+## Just Something I need to Work on
+- ### [my Body](Just%20Something%20I%20need%20to%20Work%20on/My_Training_Program.md)
