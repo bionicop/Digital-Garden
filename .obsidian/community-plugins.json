@@ -3,11 +3,10 @@
   "templater-obsidian",
   "execute-code",
   "obsidian-custom-frames",
-  "obsidian-discordrpc",
   "table-editor-obsidian",
   "obsidian-markmind",
   "obsidian-enhancing-mindmap",
   "wikilinks-to-mdlinks-obsidian",
   "obsidian-latex-suite",
-  "obsidian-languagetool-plugin"
+  "obsidian-discordrpc"
 ]

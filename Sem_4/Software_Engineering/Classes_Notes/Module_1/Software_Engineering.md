@@ -254,6 +254,9 @@ Tags: #Software_Engineering
 
 ### **Phases**
 - #### **Requirements Planning**
-	- It involves use of various technqiues used in requirment .
-- 
+	- This model involves using various techniques for requirement elicitation, such as brainstorming
+- #### **User Description**
+	- This phase includes taking user feedback and building the prototype.
+- #### **Construction**
+	- Refinement of prototype and delivery takes place. Powerful automated tools are used to make the final product.
 ---
