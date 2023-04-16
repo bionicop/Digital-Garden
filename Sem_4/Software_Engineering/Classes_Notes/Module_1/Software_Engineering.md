@@ -33,6 +33,13 @@ Tags: #Software_Engineering
 	- [Prototyping Model](<#Prototyping Model>)
 		- [Life Cycle Activities of Prototyping Model](<#Life Cycle Activities of Prototyping Model>)
 	- [Evolutionary Model](<#Evolutionary Model>)
+		- [Application](<#Application>)
+		- [Advantages & Disadvantages of Evolutionary Model](<#Advantages & Disadvantages of Evolutionary Model>)
+	- [Spiral Model](<#Spiral Model>)
+		- [Function of Each Quadrant](<#Function of Each Quadrant>)
+		- [Risk Handling in Spiral Model](<#Risk Handling in Spiral Model>)
+		- [Why is it called a Meta Model?](<#Why is it called a Meta Model?>)
+		- [Advantages & Disadvantages of Spiral Model](<#Advantages & Disadvantages of Spiral Model>)
 
 ---
 # **Introduction**
@@ -44,6 +51,7 @@ Tags: #Software_Engineering
 - From above points of view we can define Soft Eng as:
 	- Soft Eng discusses *systematic & cost-effective* techniques for Software Development.
 
+---
 # *is* **Software Engineering Art or Science?**
 - Many people think writing good quality code is an Art. So let's discuss about this:
 	- In other engineering branches It is based on science there are *specific rules & names for the components, techniques* & working principles related to it & before they are *standardized the experience is marked as* their **Thumb Rule** and on the basis of it, *the rules are standardized by various organizations*.
@@ -84,18 +92,17 @@ Tags: #Software_Engineering
 	- This desing technique revolutionised the software development process. It includes devlopment process. It inclides many new, powerful and real-wprld features like  encapsulation, abstraction, inheritance and polymorphism.
 	- These features helped tremendously in development of well-designed and high quality software.
 
+---
 # **Software Devlopment Life Cycle Model**
 - SDLC Models are used to define the stages included in an information system development project, from feasibility study till the maintainance of the completed application.
 ## **Classical Waterfall Model**
-- It is the basic SDLC Model, It is very simple but idealistic, This model is not in use anymore, but it's knowledge is improtant as all other SDLC Models are based on this model.
-- This model divides the SDLC in various phases. One Phase can be started, only after the completion of the previious phase. *This results in sequential flow of devlopment.*
+- The Classical Waterfall Model is the basic SDLC model, which divides the SDLC into various phases. One phase can be started only after the completion of the previous phase. *This results in sequential flow of devlopment.*
 
 ### **Phases of Waterfall Model:**
 - #### **Feasibilty Study:**
-	- Main goal of this phase to determine whether devloping a software is *techincally and financially stable or not*.
+	- Main goal of this phase to determine whether devloping a software is *technically and financially feasible*.
 - #### **Requirement Analysis and Specification:**
-	- Main goal is to *understand and document the requirments of the user properly*.
-	- *It consistes of 2 differnet activites:*
+	- Main goal is to *understand and document the requirments of the user properly*. *It consistes of 2 differnet activites:*
 		- ##### **Requirments Gathering/Analysis:**
 			- *All requirments* regarding the **software are gathererd and analysed**.
 			- Analysis is done _**to remove incompleteness and inconsistencies in requirments**_.
@@ -103,29 +110,28 @@ Tags: #Software_Engineering
 			- All the *analysed requirments are documented* in **Software Requirments Specification** (*SRS*) documents.
 			- It _serves as a contract b/w developers & customers_.
 - #### **Design:**
-	- Here, the main goal is to *convert SRS into format which can be implemented in programming language*.
+	- Here, the main goal is to *convert SRS into format which can be implemented in a programming language*.
 - #### **Coding & Unit Testing:**
 	- Here, design is *converted into source code*.
 	- Unit testing is *aimed to check whether everything is working properly or not*.
 - #### **Integration & System Testing:**
-	- Differnet *modules when completed* are **integrated and unit tested**. Integration *takes place in a number of steps*, and during each step, *previously planned modules are integrated* and a *resultant system is obtained*, *which is then tested*. And in the end a *full working system is aquired*.
+	- Differnet *modules when completed,* are **integrated and unit tested**. Integration *takes place in a number of steps*, and during each step, *previously planned modules are integrated* and a *resultant system is obtained*, *which is then tested*. And in the end, a *full working system is aquired*.
 	- ##### Three Types of Testing:
 		- ###### **Alpha Testing**
 			- Performed by the development team.
 		- ###### **Beta Testing**
-			- Performed by selected sutomers.
+			- Performed by selected customers.
 		- ###### **Acceptance Testing**
 			- Customers perform this in order to decide whether to accept or reject the software.
 - #### **Maintainance:**
-	- Most important phase of Software life cycle. 
-	- Majority of effort is spent in this phase.
+	- Most important phase of Software life cycle. Majority of effort is spent in this phase.
 	- ##### Three Types:
 		- ###### **Corrective Maintainance**
-			- To correct errors that were not discovered during devlopment phase.
+			- To correct errors that were not discovered during the devlopment phase.
 		- ###### **Perfective Maintainance**
 			- To enhance the software based on customer requirments.
 		- ###### **Adaptive Maintainance**
-			- To keep the software functioning on any new platform/os.
+			- To keep the software functioning on any new platform/OS.
 
 ### **Advantages & Disadvantages of Classical Waterfall**
 
@@ -133,8 +139,9 @@ Tags: #Software_Engineering
 |:-----------:|:---------------:|
 |   1. Simple and easy to understand.    |      1. Since devlopment flows like a waterfall, any mechanism for error correction is not present      |
 |  2. Each stage is clearly defined.  |      2. Assumes all requriments of customers are well-defined since the beginning therefore, any changes are difficult to accomodate.       |
-|    3. Works well when project is small & requirment are well defined.         |         3. A new phase only commences after completion of previous phase.        |
+|    3. Works well when project is small & requirments are well-defined.         |         3. A new phase only commences after completion of previous phase.        |
 
+---
 ## **Iterative Waterfall Model**
 - It was devloped to incoperate changes into the "Classical Waterfall Model" to it practically useful.
 - *Provides feedback paths from every phase to it's previous phase.*
@@ -165,6 +172,7 @@ Tags: #Software_Engineering
 |  2. Highly cost-effective for changing plans or requirments.  |      2. One pashe starts only after previous is completed.       |
 |    3. Less time spent on documenting, more on developing.         |         3. Accommodating and implementing requests after development phase is difficult.        |
 
+---
 ## **Prototyping Model**
 - "Prototyping" is defined as the process of developing a working replica of the software that needs to be made.
 - It provides a basic working ideas of the end product.
@@ -179,6 +187,61 @@ Tags: #Software_Engineering
 - #### **Iterative Devlopment**
 	- Once prototype is approved the actual software is built using the [Iterative Waterfall](<#Iterative Waterfall Model>) approach.
 
-
+---
 ## **Evolutionary Model**
-- 
+- This model suggests *breaking down the work into smaller chunks*.
+- Prioriting them and then delivering those chunks to the customers one by one.
+- This model allows for changing requirments as well as all work is broken down into maintainable work chunks.
+
+### **Application**
+- Commonly used when the customer wants to sart testing the core features instead for waiting for the full software.
+- Also used in object-oriented soft dev.
+
+### **Advantages & Disadvantages of Evolutionary Model**
+
+| **Advantage** | **Disadvantage** |
+|:-----------:|:---------------:|
+|   1. User gets a chance to experiment partially devloped system.    |      1. Sometimes it can be difficult to divide work into several part, that would be acceptable to the customer.      |
+|  2. Reduces errors because core modules get tested thoroughly.  |           |
+
+---
+
+## **Spiral Model**
+- It is very important SDLC Model.
+- Provides support for the Risk managment.
+- This works like a sipral with many loops.
+- The exact number of loops depend upon the project.
+- Each loop is called "Phase", The radius of the spiral represents the cost of the project. 
+
+### **Function of Each Quadrant**
+- #### **Objective Determination & Identifying Alternative Solutions**
+	- Requirments are gathered from the customers and the objectives are identified, elaborated and analyzed at the start of every phase.
+- #### **Identify & Resolve Risks**
+	- All possible solutions are evaluated to select the best possible solution, Then the risks with that solution are identified & the risks are resolved using the best possible strategy.
+- #### **Develop Next Version of the Product**
+	- The identified features are devloped and verified through testing. At the end of this phase, next version of software is available.
+- #### **Review and Plan Next Phase**
+	- In the fourth phase, the customers evaluate the so far devloped software. In the end, planning for next phase is started.
+
+### **Risk Handling in Spiral Model**
+- A risk is anything that could cause problems for a software project.
+- The most important feature of the spiral model is *handling these unkown risk after the project has started*.
+- During each cycle of the Spiral Model, the features of the product are analyzed, and any risks up to that point are identified and addressed through prototyping.
+
+### **Why is it called a Meta Model?**
+- It is called Meta-Model, because it's a *combination of every other model*.
+- The *Single Loop Spiral* is like the *Iterative Waterfall Model*.
+- It follows a **step-by-step approach**, like the *Classical Waterfall Model*.
+- It uses **prototypes to handle risks**, like the *Prototyping Model*.
+- It supports the evolutionary model with *each iteration being an evolutionary level*.
+
+### **Advantages & Disadvantages of Spiral Model**
+
+|                    **Advantage**                    |                                                     **Disadvantage**                                                     |
+|:---------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| 1. Best suited for projects with many unkown risks. |                                         1. Much more complex that other models.                                          |
+|    2. Recommended for large & complex projects.     |                                           2. Not suitable for small projects.                                            |
+|  3. Requirment changes can be easily incorporated.  | 3. Successful development is very dependent on risk analysis. Without experts, development through this model is futile. |
+| 4. Customers can see the development of the product, ensuring satisfaction | 4. As numbber of phases is unkown at the start devlopment, time estimation is difficult.                                                                                                                         |
+
+---
