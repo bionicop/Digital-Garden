@@ -40,6 +40,8 @@ Tags: #Software_Engineering
 		- [Risk Handling in Spiral Model](<#Risk Handling in Spiral Model>)
 		- [Why is it called a Meta Model?](<#Why is it called a Meta Model?>)
 		- [Advantages & Disadvantages of Spiral Model](<#Advantages & Disadvantages of Spiral Model>)
+	- [RAD Model](<#RAD Model>)
+		- [Phases](<#Phases>)
 
 ---
 # **Introduction**
@@ -244,4 +246,14 @@ Tags: #Software_Engineering
 |  3. Requirment changes can be easily incorporated.  | 3. Successful development is very dependent on risk analysis. Without experts, development through this model is futile. |
 | 4. Customers can see the development of the product, ensuring satisfaction | 4. As numbber of phases is unkown at the start devlopment, time estimation is difficult.                                                                                                                         |
 
+---
+## **RAD Model**
+- This model is suitable for projects that can be divided into smaller modules that can be assigned to separate teams to work on independently.
+- These modules can than be combined into the final product.
+- This model also has a shorter time span for devlopment, ususally 60-90 days.
+
+### **Phases**
+- #### **Requirements Planning**
+	- It involves use of various technqiues used in requirment .
+- 
 ---
