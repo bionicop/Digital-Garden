@@ -5,7 +5,6 @@ aliases: [Fundamentals of Computer Algorithms]
 tags: 
 - Fundamentals of Computer Algorithms
 ---
-#publish
 << [[Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus|Syllabus Module 1]] | [[2022-12-05_Software_Engineering|Software Engineering]] >>
 
 # ❗❓ Info
@@ -107,3 +106,21 @@ Tags: #Software_Engineering
 			- Performed by selected sutomers.
 		- ###### **Acceptance Testing**
 			- Customers perform this in order to decide whether to accept or reject the software.
+- #### **Maintainance:**
+	- Most important phase of Software life cycle. 
+	- Majority of effort is spent in this phase.
+	- ##### Three Types:
+		- ###### **Corrective Maintainance**
+			- To correct errors that were not discovered during devlopment phase.
+		- ###### **Perfective Maintainance**
+			- To enhance the software based on customer requirments.
+		- ###### **Adaptive Maintainance**
+			- To keep the software functioning on any new platform/os.
+
+### **Advantages & Disadvantages of Classical Waterfall**
+
+| **Advantage** | **Disadvantage** |
+|:-----------:|:---------------:|
+|   1. Simple and easy to understand.    |      1. Since devlopment flows like a waterfall, any mechanism for error correction is not present      |
+|  2. Each stage is clearly defined.  |      2. Assumes all requriments of customers are well-defined since the beginning therefore, any changes are difficult to accomodate.       |
+|    3. Works well when project is small & requirment are well defined.         |         3. A new phase only commences after completion of previous phase.        |

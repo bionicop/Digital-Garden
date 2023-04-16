@@ -6,7 +6,6 @@ tags:
 - Index
 - publish
 ---
-#publish
 # 📕 Index
 
 ##  #1 - [Day 1](Classes_Notes/2022-08-12)
