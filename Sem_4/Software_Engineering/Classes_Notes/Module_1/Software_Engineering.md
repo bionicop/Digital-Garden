@@ -30,6 +30,8 @@ Tags: #Software_Engineering
 	- [Iterative Waterfall Model](<#Iterative Waterfall Model>)
 		- [Process](<#Process>)
 		- [Advantages & Disadvantages of Iterative Waterfall](<#Advantages & Disadvantages of Iterative Waterfall>)
+	- [Prototyping Model](<#Prototyping Model>)
+		- [Life Cycle Activities of Prototyping Model](<#Life Cycle Activities of Prototyping Model>)
 
 ---
 # **Introduction**
@@ -176,3 +178,6 @@ Tags: #Software_Engineering
 - #### **Iterative Devlopment**
 	- Once prototype is approved the actual software is built using the [Iterative Waterfall](<#Iterative Waterfall Model>) approach.
 
+
+## **Evolutionary Model**
+- 
