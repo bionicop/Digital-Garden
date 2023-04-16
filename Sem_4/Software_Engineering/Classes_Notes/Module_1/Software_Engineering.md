@@ -22,7 +22,14 @@ Tags: #Software_Engineering
 	- [What is software engineering?](#What%20is%20Software%20Engineering?>)
 - [is Software Engineering Art or Science?](<#is Software Engineering Art or Science?>)
 - [Program vs Products](<#Program vs Product>)
-	- [abc](#abc)
+- [Emergence of Software Engineering](<#Emergence of Software Engineering>)
+- [Software Devlopment Life Cycle Model](<#Software Devlopment Life Cycle Model>)
+	- [Classical Waterfall Model](<#Classical Waterfall Model>)
+		- [Phases of Waterfall Model](<#Phases of Waterfall Model>)
+		- [Advantages & Disadvantages of Classical Waterfall](<#Advantages & Disadvantages of Classical Waterfall>)
+	- [Iterative Waterfall Model](<#Iterative Waterfall Model>)
+		- [Process](<#Process>)
+		- [Advantages & Disadvantages of Iterative Waterfall](<#Advantages & Disadvantages of Iterative Waterfall>)
 
 ---
 # **Introduction**
@@ -42,6 +49,7 @@ Tags: #Software_Engineering
 
 ---
 # **Program** *vs* **Product**
+
 |                                                 **Program**                                                 	|                                                               **Product**                                                               	|
 |:-----------------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------:	|
 | Program contains a _set of instructions_ ==designed to complete a specific task==.                          	| Product is the _final manufacture and production of the project_.                                                                       	|
@@ -75,7 +83,6 @@ Tags: #Software_Engineering
 
 # **Software Devlopment Life Cycle Model**
 - SDLC Models are used to define the stages included in an information system development project, from feasibility study till the maintainance of the completed application.
-
 ## **Classical Waterfall Model**
 - It is the basic SDLC Model, It is very simple but idealistic, This model is not in use anymore, but it's knowledge is improtant as all other SDLC Models are based on this model.
 - This model divides the SDLC in various phases. One Phase can be started, only after the completion of the previious phase. *This results in sequential flow of devlopment.*
@@ -124,3 +131,48 @@ Tags: #Software_Engineering
 |   1. Simple and easy to understand.    |      1. Since devlopment flows like a waterfall, any mechanism for error correction is not present      |
 |  2. Each stage is clearly defined.  |      2. Assumes all requriments of customers are well-defined since the beginning therefore, any changes are difficult to accomodate.       |
 |    3. Works well when project is small & requirment are well defined.         |         3. A new phase only commences after completion of previous phase.        |
+
+## **Iterative Waterfall Model**
+- It was devloped to incoperate changes into the "Classical Waterfall Model" to it practically useful.
+- *Provides feedback paths from every phase to it's previous phase.*
+- These paths allow for correcting errors in previous phases.
+- Combines the sequential steps of tradional model & the flexibility of the iterative design.
+
+### **Process:**
+- #### **Requirment Gathering**
+	- Business owners & devlopers meet to discuss the goal and requirments.
+- #### **Design**
+	- Preliminary design is made based on above requirments.
+- #### **Implementaion**
+	- Developers begin to build the website based on the design created in stage 2.
+- #### **Testing**
+	- Once the software is build, it is tested to ensure that it meets the requirments and functions.
+- #### **Deployment**
+	- Software is deployed and made public.
+- #### **Review & Improvment**
+	- After some time of devlopment owners and devlopers review it's performance and make necessary improvments.
+- #### **Phase Containment of Errors**
+	- Principle of detecting erros as close to their points of commitement as possible.
+
+### **Advantages & Disadvantages of Iterative Waterfall**
+
+| **Advantage** | **Disadvantage** |
+|:-----------:|:---------------:|
+|   1. Feedback path allows for error correction.    |      1. Project may suffer from risk & this model has no risk handling.      |
+|  2. Highly cost-effective for changing plans or requirments.  |      2. One pashe starts only after previous is completed.       |
+|    3. Less time spent on documenting, more on developing.         |         3. Accommodating and implementing requests after development phase is difficult.        |
+
+## **Prototyping Model**
+- "Prototyping" is defined as the process of developing a working replica of the software that needs to be made.
+- It provides a basic working ideas of the end product.
+- Used for obtaining customers feedback.
+- Prototype is tested and refiend as per the customer's feedback repeatedly.
+
+### **Life Cycle Activities of Prototyping Model:**
+- #### **Prototye Devlopment**
+	- An initial requriments gathering phase is carried.
+	- A quick design is made through which a prototype is build and submitted to the customer for evaluation.
+	- Based on the feedback prototype is refined and improved till the customer is satisfied and approves the prototype.
+- #### **Iterative Devlopment**
+	- Once prototype is approved the actual software is built using the [Iterative Waterfall](<#Iterative Waterfall Model>) approach.
+

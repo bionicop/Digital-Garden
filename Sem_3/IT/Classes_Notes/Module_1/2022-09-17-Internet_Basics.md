@@ -182,6 +182,7 @@ Tags: #Internet_Technologies
 
 ---
 ## **Baseband vs Broadband Transmission**
+
 |                                     **Baseband**                                      |                                                       **Broadband**                                                        |
 |:-------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
 |             The _entire bandwidth_ is for **single signal transmission**.             | Broadband is used to describe a type of data transmission in which a _single medium_ can carry *several channels at once*. |
