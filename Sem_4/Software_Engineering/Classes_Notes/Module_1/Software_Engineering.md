@@ -77,17 +77,33 @@ Tags: #Software_Engineering
 # **Software Devlopment Life Cycle Model**
 - SDLC Models are used to define the stages included in an information system development project, from feasibility study till the maintainance of the completed application.
 
-## Classical Waterfall Model
+## **Classical Waterfall Model**
 - It is the basic SDLC Model, It is very simple but idealistic, This model is not in use anymore, but it's knowledge is improtant as all other SDLC Models are based on this model.
-- This model divides the SDLC in various phases. One Phase can be stored, only after the completion og the previious phase. This results in sequential flow of devlopment.
+- This model divides the SDLC in various phases. One Phase can be started, only after the completion of the previious phase. *This results in sequential flow of devlopment.*
 
-### Phases of Waterfall Model:
-- Feasibilty Study:
-	- Main goal of this phase to determine whether devloping a software is techincally and financially stable or not.
-	- Involves understanding the probelm and then determining-various strategies to solve the problem.
-- Requirement Analysis and Specification:
-	- Main goal is to understand and documetn the requirments of the user properly.
-	- It consistes of 2 differnet activites:
-		- Requirments Gathering/Analysis:
-			- All requirments regarding the software are gathererd and analysed.
-			- Analysis is done the remove incompleteness and inconsistencies in requirments.
+### **Phases of Waterfall Model:**
+- #### **Feasibilty Study:**
+	- Main goal of this phase to determine whether devloping a software is *techincally and financially stable or not*.
+- #### **Requirement Analysis and Specification:**
+	- Main goal is to *understand and document the requirments of the user properly*.
+	- *It consistes of 2 differnet activites:*
+		- ##### **Requirments Gathering/Analysis:**
+			- *All requirments* regarding the **software are gathererd and analysed**.
+			- Analysis is done _**to remove incompleteness and inconsistencies in requirments**_.
+		- ##### **Requirment Specification:**
+			- All the *analysed requirments are documented* in **Software Requirments Specification** (*SRS*) documents.
+			- It _serves as a contract b/w developers & customers_.
+- #### **Design:**
+	- Here, the main goal is to *convert SRS into format which can be implemented in programming language*.
+- #### **Coding & Unit Testing:**
+	- Here, design is *converted into source code*.
+	- Unit testing is *aimed to check whether everything is working properly or not*.
+- #### **Integration & System Testing:**
+	- Differnet *modules when completed* are **integrated and unit tested**. Integration *takes place in a number of steps*, and during each step, *previously planned modules are integrated* and a *resultant system is obtained*, *which is then tested*. And in the end a *full working system is aquired*.
+	- ##### Three Types of Testing:
+		- ###### **Alpha Testing**
+			- Performed by the development team.
+		- ###### **Beta Testing**
+			- Performed by selected sutomers.
+		- ###### **Acceptance Testing**
+			- Customers perform this in order to decide whether to accept or reject the software.

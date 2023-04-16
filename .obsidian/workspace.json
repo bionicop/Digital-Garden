@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md"
               }
             }
           },
@@ -159,14 +160,15 @@
   },
   "active": "21e2fd5b02a97f06",
   "lastOpenFiles": [
-    "Just Something I need to Work on/My_Training_Program.md",
+    "Untitled.md",
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "index.md",
+    "Just Something I need to Work on/My_Training_Program.md",
     "Just Something I need to Work on/aa.md",
     "template/Obsidian_Cheat_Sheet.md",
     "template/Note.md",
     "Just Something I need to Work on",
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_3/Java_OOPs/Java_Index.md",
     "Sem_3/Scilab/Scilab_Index.md",
     "Sem_3/Scilab/Classes_Notes/2022-09-09.md",
@@ -191,7 +193,6 @@
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Omega.png",
     "Attachment/Fundamentals_of_Computer_Algorithms",
     "Attachment/Scilab/Image/sine.png",
-    "Attachment/(sine.png).md",
     "Attachment/Pasted image 20230317223720.png",
     "Attachment/logo.png"
   ]
