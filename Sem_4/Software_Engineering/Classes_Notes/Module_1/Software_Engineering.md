@@ -32,6 +32,7 @@ Tags: #Software_Engineering
 		- [Advantages & Disadvantages of Iterative Waterfall](<#Advantages & Disadvantages of Iterative Waterfall>)
 	- [Prototyping Model](<#Prototyping Model>)
 		- [Life Cycle Activities of Prototyping Model](<#Life Cycle Activities of Prototyping Model>)
+	- [Evolutionary Model](<#Evolutionary Model>)
 
 ---
 # **Introduction**
