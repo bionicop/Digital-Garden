@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
+                "file": "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/Fundamentals_of_Computer_Algorithms.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
+                "file": "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/Fundamentals_of_Computer_Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
+                "file": "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/Fundamentals_of_Computer_Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md"
+                "file": "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/Fundamentals_of_Computer_Algorithms.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "bdca57648e36eb39",
   "lastOpenFiles": [
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics.md",
     "template/Obsidian_Cheat_Sheet.md",
     "Sem_3/DBMS/Classes_Notes/DBMS_vs_File_Processing_System.md",
