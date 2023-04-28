@@ -11,8 +11,12 @@
             "id": "0ae990a5beaa7bcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md"
+              }
             }
           },
           {
@@ -151,11 +160,11 @@
   },
   "active": "0ae990a5beaa7bcd",
   "lastOpenFiles": [
+    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/Fundamentals_of_Computer_Algorithms.md",
     "Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Web_Programming/Classes_Notes/Module_1/xmlSchemaVsDTD.md",
     "Sem_4/Web_Programming/Classes_Notes/Module_1/2023-02-01.md",
-    "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Web_Programming/Web_Programming_Index.md",
     "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",
     "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics.md",
