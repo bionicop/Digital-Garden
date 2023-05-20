@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbed754facfb1020",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fff1cadd04e3ed9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -158,7 +177,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0ae990a5beaa7bcd",
+  "active": "fbed754facfb1020",
   "lastOpenFiles": [
     "Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/Fundamentals_of_Computer_Algorithms.md",
