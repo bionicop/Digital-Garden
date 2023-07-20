@@ -26,9 +26,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "88d9ba19fc09b0c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Training_Prog/IoT_using_Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Training_Prog/IoT_using_Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Training_Prog/IoT_using_Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Training_Prog/IoT_using_Python.md"
+              }
             }
           },
           {
@@ -170,7 +186,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0c291063199f72d0",
+  "active": "88d9ba19fc09b0c4",
   "lastOpenFiles": [
     "Untitled.md",
     "Sem_4/Software_Engineering/Classes_Notes/Module_1/Software_Engineering.md",

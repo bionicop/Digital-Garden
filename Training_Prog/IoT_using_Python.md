@@ -4,10 +4,8 @@ modification date: Monday 17th July 2023
 aliases: [IOT Using Python] 
 tags: 
 - IOT using Python
-- Training Prog Day 1
+- Training Prog
 ---
-
-<< [Name](File_Directory) | [Name](File_Directory) >>
 
 # ❗❓ Info
 Course Name: IoT using Python
@@ -109,7 +107,7 @@ print(a,b,c,d,e)
 
 `a& = 5`
 
-- Loops
+- Loops:
 	- While
 ```python
 i = 1
