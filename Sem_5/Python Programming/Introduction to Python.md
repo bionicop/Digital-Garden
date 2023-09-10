@@ -16,71 +16,107 @@ Tags: #PythonProgramming #Module1 #IntroductionToPython
 ---
 # 📑 Module 1: Introduction to Computers, Programs, and Python
 
-## 📃 Summary of Notes
-- [Introduction to Computers, Programs, and Python](<#Introduction to Computers, Programs, and Python>)
-	- [Programming Languages](#programming-languages)
-	- [Operating Systems](#operating-systems)
-- [The History of Python](#the-history-of-python)
-- [Features of Python Language](#features-of-python-language)
-- [Getting Started with Python](#getting-started-with-python)
-- [Programming Style and Documentation](#programming-style-and-documentation)
-- [Programming Errors](#programming-errors)
+# Python Basic
+- High Level Language.
+- Interpreted Language.
+- General Purpose Programming Language.
+- Case Sensitive.
+- Object-Oriented Programming Language.
+- Open Source.
+- Dynamically Typed.
 
-## Introduction to Computers, Programs, and Python
-
-### Programming Languages
-- **Communication Bridge:** Programming languages serve as intermediaries between humans and computers, enabling us to convey instructions to computers effectively.
-- 
-
-### Operating Systems
-- Understanding operating systems and their role in managing computer hardware and software.
-
-### The History of Python
-- A brief history of the Python programming language: its origins, development, and significance in the programming world.
-
-### Features of Python Language
-- Exploring the distinctive features of Python that set it apart from other programming languages.
-
-### Getting Started with Python
-- Setting up Python: Installation and configuration. Writing and running a simple Python program.
-
-### Programming Style and Documentation
-- Best practices for writing clean, readable, and well-documented code. The importance of proper coding style.
-
-### Programming Errors
-- Types of programming errors: syntax errors, runtime errors, and logical errors. Strategies for identifying and correcting errors.
+# Translators
+- Translators *converts the source code* to **machine-code**.
+```mermaid
+graph TD
+    A(Translators) --> B(Interpreter) --> 1(Line-by-line translation.)
+    A --> C(Compiler) --> 2(All lines translated in one go.)
+    
+```
 
 ---
+```mermaid
+flowchart TD
 
-## Elementary Programming
+    A(User) <--> B(Application Program)
 
-### Writing a Simple Program
-- Understanding the structure of a basic Python program. Writing your first "Hello, World!" program.
+    B <--> C(O.S)
 
-### Reading Input from the Console
-- How to take user input and incorporate it into your Python programs.
+    C <--> D(Hardware)
 
-### Identifiers and Variables
-- Defining identifiers and variables in Python. Rules and conventions for naming variables.
+    A <--> C
+```
 
-### Assignment Statements and Expressions
-- Using assignment statements to store values in variables. Evaluating expressions and understanding operator precedence.
+# Roles of OS:
+- **Controlling** & **Monitoring** *system activities*.
+- **Allocating** & **Assigning** *system resources*.
+- **Scheduling Operations**.
 
-### Simultaneous Assignments
-- Performing simultaneous assignments to multiple variables in a single statement.
+# Comments
+- *Single-Line Comment*: 
+```python
+# This is a single line comment.
+```
+- *Multi-Line Comment:*
+```python
+"""  
+This is a
+Multi-line
+comment.
+"""
+```
 
-### Named Constants
-- Declaring and using named constants in Python programs.
+# Indentation
+- ***Whitespace** at the start of the line* to **indicate a block of code**.
 
-### Numeric Data Types and Operators
-- Exploring numeric data types (integers, floats) and their operations in Python.
+# Errors (SIRLogic)
+- **S**yntax Error:
+	- Error in **Code Construction**.
+- **I**nput Error:
+	- Causes when *User Enters a value* that the **Program Can't Handle**.
+- **R**untime Error:
+	- *Causes Program* to **Terminate Abnormally**.
+- **Logic** Error:
+	- Happens when a *Program Doesn't Perform* **the way it was Intended To**.
 
-### Evaluating Expressions and Operator Precedence
-- Understanding how expressions are evaluated and how operator precedence impacts the order of operations.
+# Variable
+- Variable is a name that **references a value stored in computer memory**.
+- We don't need to declare data type of the variable.
+- It automatically figures out the data type accordingly.
 
-### Augmented Assignment Operators
-- Using augmented assignment operators (+=, -=, *=, /=) to update variable values.
+# Input from Console
+```python
+variable = input("Enter a Variable: ")
+```
+- By default, the `input()` function returns a **string**.
+- We can use `eval()` function to dynamically evaluate expressions.
+```python
+a = eval(input("Enter a Number: "))
+print(a)
+```
 
-### Type Conversions and Rounding
-- Converting between data types in Python. Rounding numerical values.
+# Identifiers
+- Identifiers are like the names you give to things in your program, such as variables and functions.
+## Naming Rule of Identifiers
+1. Sequence of Char - letters, digits & underscore.
+2. Should always start with letter or underscore.
+3. Can't be a keyword (for ex: for, while, if, elif)
+4. Can be of any length.
 
+# Variable, Assignment Statement & Expression
+- Variable are used to reference values that may be changed in the program.
+- ex: Assignment Statement
+```python
+x = 10 # x -> 10 {x now holds the value 10}
+y = x + 5 # y -> 15
+x = 23 # x -> 23
+y = x + 11 # y -> 34
+```
+`Variable = Expression`
+
+- Assigning to Multiple Variable
+```python
+x = y = z = 2
+
+print(x,y,z) # 2 2 2
+```
