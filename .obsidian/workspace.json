@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ece49e47069af054",
+        "id": "efb5a538bf45b512",
         "type": "tabs",
         "children": [
           {
-            "id": "61a6262e95aacdda",
+            "id": "c20b7c22f7322753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_5/Python Programming/Introduction to Python.md",
+                "file": "Sem_5/Computer Graphics & Multimedia/Question-Bank.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_5/Python Programming/Introduction to Python.md",
+                "file": "Sem_5/Computer Graphics & Multimedia/Question-Bank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_5/Python Programming/Introduction to Python.md",
+                "file": "Sem_5/Computer Graphics & Multimedia/Question-Bank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_5/Python Programming/Introduction to Python.md"
+                "file": "Sem_5/Computer Graphics & Multimedia/Question-Bank.md"
               }
             }
           },
@@ -165,13 +165,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "61a6262e95aacdda",
+  "active": "c20b7c22f7322753",
   "lastOpenFiles": [
+    "Sem_5/Computer Graphics & Multimedia/Question-Bank.md",
+    "Sem_5/Python Programming/Introduction to Python.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/Fundamentals_of_Computer_Algorithms.md",
     "Sem_3/Scilab/Classes_Notes/2022-08-12.md",
     "Sem_3/Java_OOPs/Classes_Notes/Module_1/Procedure_Oriented_Programming.md",
     "Sem_3/Java_OOPs/Classes_Notes/Module_1/Object_Oriented_Programming.md",
-    "Sem_5/Python Programming/Introduction to Python.md",
     "Sem_3/Java_OOPs/Classes_Notes/Module_1/java.md",
     "Sem_3/Java_OOPs/Classes_Notes/Module_1/m1_syllabus.md",
     "Sem_4/Data_Analytics/Classes_Notes/Module_1/m1_syllabus.md",
@@ -195,7 +196,6 @@
     "Just Something I need to Work on/aa.md",
     "Just Something I need to Work on",
     "Sem_3/Java_OOPs/Java_Index.md",
-    "Sem_3/Scilab/Scilab_Index.md",
     "Attachment/THEEEEECATTTT.png",
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Oh.png",
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Theta.png",
