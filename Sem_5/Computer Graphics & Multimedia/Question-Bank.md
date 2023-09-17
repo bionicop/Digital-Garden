@@ -16,12 +16,13 @@ Some common video display devices used for computer graphics are:
 - Organic Light Emitting Diode (OLED)
 
 **Q3. Define refresh buffer/frame buffer.**
-
-A refresh buffer or frame buffer is the memory area that holds the digital representation of the display image. It stores the intensity values for all the screen points/pixels. The contents of this buffer is repeatedly scanned and displayed on the screen to refresh the display.
+- A refresh buffer or frame buffer is the memory area that holds the digital representation of the display image.
+- It stores the intensity values for all the screen points/pixels. 
+- The contents of this buffer is repeatedly scanned and displayed on the screen to refresh the display.
 
 **Q4. What is meant by scan code?** 
-
-Scan code refers to the unique code that is generated when a key is pressed on a keyboard. It is used by the keyboard controller to identify which key has been pressed.
+- Scan code refers to the unique code that is generated when a key is pressed on a keyboard.
+- It is used by the keyboard controller to identify which key has been pressed.
 
 **Q5. List out the merits and demerits of Penetration techniques?**
 
