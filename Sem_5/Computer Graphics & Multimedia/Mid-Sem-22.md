@@ -6,23 +6,17 @@
 
 # **Q1. (b) Draw the diagram of CRT (AI NOTE: skip the diagram answer 2nd part of the question) and discuss properties of Video Display Device's.**
 
-Properties of video display devices:
+Properties of video display devices: ***(BR CAR VC)***
 
-- Spatial resolution: Number of pixels per unit length. Defines sharpness and clarity.
+- **B**rightness: Luminosity measured in nits
+- **R**esolution: Pixels in horizontal and vertical dimensions
+- **C**ontrast Ratio: Ratio of brightest to darkest color
+- **A**spect Ratio: Ratio of width to height
+- **R**esponse Time: Time to change pixel shade
+- **V**iewing Angle: Maximum angle for good visibility
+- **C**olor Depth: Bits per pixel. More bits means better color
 
-- Brightness and contrast: Brightness produces light intensity. Contrast represents range of brightness from black to white.
-
-- Gray scale resolution: Number of digital gray levels available. More levels provide better image quality. 
-
-- Color capability: Ability to display different colors. Defined by number of bits/pixel.
-
-- Aspect ratio: Ratio of width to height of display. 4:3 is common. Widescreen uses 16:9.
-
-- Refresh rate: Number of times per second the display is refreshed. Higher is smoother. 60 Hz is common.
-
-- Flicker: Caused by low refresh rates. Higher refresh reduces flicker. 
-
-# **Q2. (a) Differnetiate between Beam Penetration Method and Shadow-Mask Method.**
+# **Q2. (a) Differentiate between Beam Penetration Method and Shadow-Mask Method.**
 
 - Beam penetration method: Allows three beams to penetrate through a single dot screen coated with all phosphor colors. Used in early color CRTs.
 
