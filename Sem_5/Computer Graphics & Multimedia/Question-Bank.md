@@ -16,8 +16,8 @@ Some common video display devices used for computer graphics are:
 - Organic Light Emitting Diode (OLED)
 
 **Q3. Define refresh buffer/frame buffer.**
-- A refresh buffer or frame buffer is the memory area that holds the digital representation of the display image.
-- It stores the intensity values for all the screen points/pixels. 
+- A refresh buffer or frame buffer is the **memory area that holds the digital representation of the display image**.
+- It **stores the intensity values for all the screen points/pixels**. 
 - The contents of this buffer is repeatedly scanned and displayed on the screen to refresh the display.
 
 **Q4. What is meant by scan code?** 
