@@ -4,7 +4,7 @@
 
 - **Vertical retracing:** After scanning all the horizontal scan lines, the beam moves back to the top left position to begin displaying the next frame. This return motion is called vertical retrace.
 
-# **Q1. (b) Draw the diagram of CRT (AI NOTE: skip the diagram answer 2nd part of the question) and discuss properties of Video Display Deivces.**
+# **Q1. (b) Draw the diagram of CRT (AI NOTE: skip the diagram answer 2nd part of the question) and discuss properties of Video Display Device's.**
 
 Properties of video display devices:
 
