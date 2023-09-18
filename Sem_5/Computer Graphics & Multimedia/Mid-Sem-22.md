@@ -12,7 +12,7 @@ Properties of video display devices: ***(BR CAR VC)***
 - **R**esolution: Pixels in horizontal and vertical dimensions
 - **C**ontrast Ratio: Ratio of brightest to darkest color
 - **A**spect Ratio: Ratio of width to height
-- **R**esponse Time: Time to change pixel shade
+- **R**esponse Time: Time taken by pixel to change from one color to another.
 - **V**iewing Angle: Maximum angle for good visibility
 - **C**olor Depth: Bits per pixel. More bits means better color
 
