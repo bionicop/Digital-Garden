@@ -22,13 +22,13 @@ Properties of video display devices: ***(BR CAR VC)***
 
 - Shadow mask method: Uses three separate dot screens in three colors and a physical mask to block incorrect beams. Beams can only hit dots of same color. Better color separation.
 
-# **Q2. (b) Computer the memory requirment of the frame buffer in (KB) for a raster system having resolution 1920 x 1080 and supports 24 bits per pixel.Also computer the PPI of a roaster system if diagonal in 5 inches.** 
+# **Q2. (b) Computer the memory requirement of the frame buffer in (KB) for a raster system having resolution 1920 x 1080 and supports 24 bits per pixel. Also computer the PPI of a roaster system if diagonal in 5 inches.** 
 
 ## Formula: 
 
-**Memory = Resolution x Resolution x Bits per pixel / 8**
+**`Memory = Resolution x Resolution x Bits per pixel / 8`**
 
-**PPI = sqrt(Resolution_x^2 + Resolution_y^2) / Diagonal length**
+**`PPI = sqrt(Resolution_x^2 + Resolution_y^2) / Diagonal length`**
 
 ## Calculation:
 
