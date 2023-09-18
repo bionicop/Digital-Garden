@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_5/Computer Graphics & Multimedia/Question-Bank.md",
+                "file": "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "78a2410171a2abaa",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_5/Computer Graphics & Multimedia/Question-Bank.md",
+                "file": "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_5/Computer Graphics & Multimedia/Question-Bank.md",
+                "file": "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_5/Computer Graphics & Multimedia/Question-Bank.md"
+                "file": "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md"
               }
             }
           },
@@ -179,6 +178,7 @@
   "active": "c20b7c22f7322753",
   "lastOpenFiles": [
     "Sem_5/Computer Graphics & Multimedia/Question-Bank.md",
+    "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md",
     "Sem_5/Python Programming/Introduction to Python.md",
     "Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/Fundamentals_of_Computer_Algorithms.md",
     "Sem_3/Scilab/Classes_Notes/2022-08-12.md",
@@ -206,7 +206,6 @@
     "Just Something I need to Work on/My_Training_Program.md",
     "Just Something I need to Work on/aa.md",
     "Just Something I need to Work on",
-    "Sem_3/Java_OOPs/Java_Index.md",
     "Attachment/THEEEEECATTTT.png",
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Oh.png",
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Theta.png",
