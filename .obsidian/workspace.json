@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "efb5a538bf45b512",
+        "id": "7372be1395e1de61",
         "type": "tabs",
         "children": [
           {
-            "id": "c20b7c22f7322753",
+            "id": "5caf64216fc9ee73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md",
+                "file": "Sem_5/Computer Network/End-Sem-Paper(took just first 3 questions).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md",
+                "file": "Sem_5/Computer Network/End-Sem-Paper(took just first 3 questions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md",
+                "file": "Sem_5/Computer Network/End-Sem-Paper(took just first 3 questions).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md"
+                "file": "Sem_5/Computer Network/End-Sem-Paper(took just first 3 questions).md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c20b7c22f7322753",
+  "active": "5caf64216fc9ee73",
   "lastOpenFiles": [
-    "Sem_5/Computer Graphics & Multimedia/Question-Bank.md",
     "Sem_5/Computer Network/Question-Bank.md",
+    "Sem_5/Computer Network/End-Sem-Paper(took just first 3 questions).md",
+    "Sem_5/Computer Graphics & Multimedia/Question-Bank.md",
     "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md",
     "Sem_5/Python Programming/Introduction to Python.md",
     "Sem_5/Computer Network",
@@ -205,7 +206,6 @@
     "Sem_3/IT/Classes_Notes/Module_1/2022-09-17-Internet_Basics.md",
     "template/Obsidian_Cheat_Sheet.md",
     "Sem_3/DBMS/Classes_Notes/DBMS_vs_File_Processing_System.md",
-    "Just Something I need to Work on/My_Training_Program.md",
     "Just Something I need to Work on",
     "Attachment/THEEEEECATTTT.png",
     "Attachment/Fundamentals_of_Computer_Algorithms/Big-Oh.png",

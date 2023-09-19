@@ -571,9 +571,7 @@ Q54. What are the cases when retransmission becomes necessary? What do you under
 A: Retransmission is required when:
 
 - Negative acknowledgment received indicating error.
-
 - No acknowledgment received within timeout period.
-
 - Packet sequencing errors detected. 
 
 Positive ACK: Receiver sends ACK to confirm packet received correctly.
@@ -585,13 +583,7 @@ Q55. Explain selective reject transmission method.
 A: In selective reject:
 
 - Receiver individually acknowledges each packet received using ACK/NACK.
-
 - Sender only retransmits those specific packets that receive NACK. 
-
 - Other packets not requested for retransmission are buffered at receiver.
-
 - Ensures only erred packets are resent, not already correct ones. 
-
 - More efficient use of bandwidth than Go-Back-N since only faulty packets are repeated.
-
-Let me know if you need any clarification on these explanations.
