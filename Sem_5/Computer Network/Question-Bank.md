@@ -245,23 +245,23 @@ Working: Hook switch connects phone to line. Dial generates tones selecting numb
 
 While dialing a number, the hook switch closed and dial generates dual tone frequencies into the line based on keys pressed. The tones follow sine wave characteristics based on selected keypad digits.
 
-Q19. Explain working of Dual Tone multiple frequency Touch tone pad and associated frequencies with the help of a diagram.
+## Q19. Explain working of Dual Tone multiple frequency Touch tone pad and associated frequencies with the help of a diagram.
 
 DTMF keypad generates two tones - one from high frequency group, one from low frequency group. E.g. 1 has 697 Hz and 1209 Hz tones. The receiver identifies digits by decoding the dual tone frequencies.
 
-Q20. What do you understand by direct distance dialling and leased line/
+## Q20. What do you understand by direct distance dialling and leased line/
 
 DDD allows subscribers to dial long distance calls without operator assistance. The telephone exchange automatically routes the call.
 
 Leased line is a dedicated point to point circuit leased from carrier. Provides constant transmission bandwidth.
 
-Q21. A signal has two data level with a pulse duration of 1 ms. What is the pulse rate and bit rate?
+## Q21. A signal has two data level with a pulse duration of 1 ms. What is the pulse rate and bit rate?
 
 Pulse duration = 1 ms
 Pulses per second = 1000 / Pulse duration = 1000/1 = 1000 pps
 Since each pulse carries 1 bit, the bit rate is 1000 bits/sec.
 
-Q22. Define Throughput, propagation Delay, Propagation time, Wavelength
+## Q22. Define Throughput, propagation Delay, Propagation time, Wavelength
 
 Throughput - The actual rate of data transfer achieved.  
 
@@ -271,13 +271,13 @@ Propagation time - Time taken by one bit on the medium.
 
 Wavelength - Distance covered in one cycle of a signal.
 
-Q23. What are the important transmission impairments? Further explain attenuation using a formula.
+## Q23. What are the important transmission impairments? Further explain attenuation using a formula.
 
 Impairments: Attenuation, distortion, noise.
 
 Attenuation reduces signal power over distance. Attenuation = Output power / Input power  
 
-Q24. A signal travels through a transmission medium and its power is reduced by half. Calculate attenuation.
+## Q24. A signal travels through a transmission medium and its power is reduced by half. Calculate attenuation.
 
 Original power = P
 Final power after attenuation = P/2
@@ -286,7 +286,7 @@ Attenuation = Final power / Original power
 
 So attenuation is 0.5 or -3 dB.
 
-Q25. The attenuation of a signal is -10 db. What is the final signal power if it was originally 5W?
+## Q25. The attenuation of a signal is -10 db. What is the final signal power if it was originally 5W?
 
 Attenuation A = -10 db
 
@@ -302,7 +302,7 @@ Final power P2 = P2/P1 * P1
 
 So final power is 0.5 W.
 
-Q26. How many types of Noise may get introduced during data transmission? Elaborate your answer.
+## Q26. How many types of Noise may get introduced during data transmission? Elaborate your answer.
 
 Four types of noise:
 
@@ -314,7 +314,7 @@ Four types of noise:
 
 - Impulse noise - Short bursts of noise from external sources.
 
-Q27. What are the three characteristics of an oscillating wave?
+## Q27. What are the three characteristics of an oscillating wave?
 
 - Amplitude - Height of wave from reference
 
@@ -322,7 +322,7 @@ Q27. What are the three characteristics of an oscillating wave?
 
 - Phase - Position of wave relative to reference point
 
-Q28. What do you understand the term “Baud”? Why Baud rate configuration is necessary? How using encoding technique number of bits transferred/baud can be increased? Explain with the help of examples.  
+## Q28. What do you understand the term “Baud”? Why Baud rate configuration is necessary? How using encoding technique number of bits transferred/baud can be increased? Explain with the help of examples.  
 
 Baud rate is the number of signal units per second. Determines transmission speed. Needs matching at sender and receiver.
 
@@ -330,7 +330,7 @@ Encoding packs multiple bits into a signal unit. Increases bits/baud.
 
 E.g. 2 bits/baud with 2B1Q encoding.
 
-Q29. What are the three characteristics of an oscillating wave?
+## Q29. What are the three characteristics of an oscillating wave?
 
 - Amplitude - Height of wave from reference
 
@@ -338,27 +338,27 @@ Q29. What are the three characteristics of an oscillating wave?
 
 - Phase - Position of wave relative to reference point
 
-Q30. How is signal said to be periodic?
+## Q30. How is signal said to be periodic?
 
 A signal is periodic if it repeats its waveform over regular intervals of time. The time period is the duration of one complete waveform cycle.
 
-Q31. What is the Nyquist theorem? 
+## Q31. What is the Nyquist theorem? 
 
 Nyquist theorem states that to reconstruct a signal of bandwidth B Hz without distortion, the sampling rate must be >= 2B samples per second.
 
-Q32. What is Shannon’s theorem? How is it different from Nyquist theorem?
+## Q32. What is Shannon’s theorem? How is it different from Nyquist theorem?
 
 Shannon's theorem gives the theoretical maximum data rate over a channel. It states that channel capacity C is proportional to bandwidth B and logarithm of signal to noise ratio S/N. 
 
 Nyquist rate is minimum required samples per second. Shannon capacity is maximum possible data rate.
 
-Q33. What is attenuation? How it is determined?
+## Q33. What is attenuation? How it is determined?
 
 Attenuation is the loss of signal power over transmission distance. It is determined by:
 
 Attenuation = Output Power / Input Power
 
-Q34. What do you understand by Trunks and Multiplexing? Write shot notes on Frequency Division Multiplexing and Time Division Multiplexing.
+## Q34. What do you understand by Trunks and Multiplexing? Write shot notes on Frequency Division Multiplexing and Time Division Multiplexing.
 
 Trunks are communication links between exchanges. 
 
@@ -368,13 +368,11 @@ FDM - Bandwidth divided into non-overlapping frequency bands.
 
 TDM - Time divided into repeating frames with time slots for each channel.
 
-Q35. Write short notes on T1 carrier line. Explain its format using diagram.  
+## Q35. Write short notes on T1 carrier line. Explain its format using diagram.  
 
 T1 uses alternate mark inversion to transmit 1.544 Mbps over twisted pair. Framing bits allow synchronization. 24 channels each get 64 Kbps bandwidth.
 
-<Diagram>
-
-Q36. Write short notes on Multiplexer and concentrator. How do they differ from each other?
+## Q36. Write short notes on Multiplexer and concentrator. How do they differ from each other?
 
 Multiplexer combines multiple signals onto a shared line.
 
@@ -382,7 +380,7 @@ Concentrator is a hub that joins connections from multiple devices.
 
 Key difference - Multiplexer combines streams while concentrator connects physical links.
 
-Q37. How much band width is there in 0.1 micron of spectrum at a wavelength of 1 micron.  
+## Q37. How much band width is there in 0.1 micron of spectrum at a wavelength of 1 micron.  
 
 Bandwidth = Speed / Wavelength
 
@@ -395,7 +393,7 @@ Bandwidth = Speed / Wavelength
 For 0.1 micron:
 Bandwidth = 3x102 * 0.1 = 30 Hz
 
-Q38. What signal to noise ratiois needed to put a T1 carrier on a 50 Khz Channel?
+## Q38. What signal to noise ratiois needed to put a T1 carrier on a 50 Khz Channel?
 
 T1 data rate = 1.544 Mbps
 Required SNR = Power(signal) / Power(noise)
@@ -408,15 +406,15 @@ Required SNR = 1.544x106 / 50x103 = 30
 
 So required SNR is 30. 
 
-Q39. What is Inverse Mltiplexing? Explain
+## Q39. What is Inverse Mltiplexing? Explain
 
 Inverse multiplexing combines multiple low-speed links to get a high-speed logical link. Traffic is split across the links. Provides more bandwidth as needed by adding links.
 
-Q40. Explain Sampling Theorem.
+## Q40. Explain Sampling Theorem.
 
 Sampling theorem states that a band-limited signal can be reconstructed if sampled at a rate >= 2B samples/sec, where B is max signal frequency. This avoids aliasing. Minimum rate 2B is called Nyquist rate.
 
-Q41. What do you understand by Pulse Code Modulation? How analog data is converted into Digital data using pulse code Modulation. Explain with the help of block diagram
+## Q41. What do you understand by Pulse Code Modulation? How analog data is converted into Digital data using pulse code Modulation. Explain with the help of block diagram
 
 PCM - Analog signal is sampled, quantized into discrete levels, and encoded into digital bits. 
 
@@ -424,17 +422,17 @@ PCM - Analog signal is sampled, quantized into discrete levels, and encoded into
 
 Helps convert analog signals like voice into digital format for transmission.
 
-Q42. What is Quatization?
+## Q42. What is Quatization?
 
 Quantization is the process of approximating sampled signal amplitudes to nearest discrete quantization levels to convert the sampled analog signal to digital values.
 
-Q43. Differentiate between asynchronous and synchronous data transfer.
+## Q43. Differentiate between asynchronous and synchronous data transfer.
 
 Asynchronous - No separate clock, timing provided by start/stop bits. Varying data rate.
 
 Synchronous - Separate clock synchronized with data. Constant data rate.
 
-Q44. What are the different methods of error detection and correction. what do you understand by parity method of error detection.
+## Q44. What are the different methods of error detection and correction. what do you understand by parity method of error detection.
 
 Error detection - Parity, CRC, checksum etc. Checks for errors.
 
@@ -442,15 +440,15 @@ Error correction - Hamming code, FEC. Can detect and correct errors.
 
 Parity - Extra parity bit set based on count of 1s in data bits. Checks for single bit error.
 
-Q45. Draw the block diagram of Parity Generator and Parity Checker circuits. Explain its function.
+## Q45. Draw the block diagram of Parity Generator and Parity Checker circuits. Explain its function.
 
-<Parity generator block diagram>
+`Parity generator block diagram`
 Performs modulo-2 addition of data bits to generate even/odd parity bit.
 
-<Parity checker block diagram> 
+`Parity checker block diagram`
 Recomputes parity of received data and compares with received parity bit to detect errors.
 
-Q46. What is the LRC error character for the message “HELP!” How can the LRC error Character used to determine which bit in “HELP! ”is bad?
+## Q46. What is the LRC error character for the message “HELP!” How can the LRC error Character used to determine which bit in “HELP! ”is bad?
 
 LRC is longitudinal redundancy check. XOR of all character bits.
 
@@ -459,7 +457,7 @@ LRC for HELP! = 01001000 01000101 01001100 01010000 00100001
 
 If LRC received is 1, XOR it with characters again to find error bit.
 
-Q47. Apply two dimensional parity check bits to the following data stream 1100111 1011101 0111001 0101001
+## Q47. Apply two dimensional parity check bits to the following data stream 1100111 1011101 0111001 0101001
 
 Data stream: 
 
@@ -478,7 +476,7 @@ So encoded stream is:
 0111001 1
 0101001 0
 
-Q48. what do you understand by modulo 2 arithmetic .how it is used in cyclic Redundancy check.
+## Q48. what do you understand by modulo 2 arithmetic .how it is used in cyclic Redundancy check.
 
 In modulo 2 arithmetic, addition and multiplication operations are done with 0s and 1s and any overflow is discarded.
 
@@ -518,7 +516,7 @@ Steps:
 
 Therefore, the received data is valid.
 
-Q50. Given Message = 101000110100000 ,pattern =110101 . Find CRC using Polynomial method.
+## Q50. Given Message = 101000110100000 ,pattern =110101 . Find CRC using Polynomial method.
 
 A: Steps:
 1. Message = 101000110100000
@@ -530,7 +528,7 @@ A: Steps:
    Remainder = 10001
 5. Remainder 10001 is the CRC code.
 
-Q51. What is Hamming code? Explain its use and write rule to decide the number of hamming code bit to be attached. how many bits in error could be detected and corrected using this method.
+## Q51. What is Hamming code? Explain its use and write rule to decide the number of hamming code bit to be attached. how many bits in error could be detected and corrected using this method.
 
 A: Hamming code is an error correction code that adds redundancy bits to allow detection and correction of single bit errors. 
 
@@ -538,7 +536,7 @@ Redundancy bits are calculated based on hamming distance rule of 2^r >= m+r+1, w
 
 Hamming code can detect 2 bits in error and correct 1 bit error.
 
-Q52. Eight bit input word is given as 00111001 .Find the hamming code .After transmission check its validity. How will you find that which bit is in error ,What corrective action will be taken to rectify the error?
+## Q52. Eight bit input word is given as 00111001 .Find the hamming code .After transmission check its validity. How will you find that which bit is in error ,What corrective action will be taken to rectify the error?
 
 A: Data word = 00111001
 
@@ -552,7 +550,7 @@ Find error bit by XOR with original code. Error in bit 3.
 Correct by flipping bit 3:
 1010011011001
 
-Q53. Explain working of error testing equipment.
+## Q53. Explain working of error testing equipment.
 
 A: Error testing equipment work by deliberately introducing errors and testing the communication system's ability to detect and correct them. Some ways they work:
 
@@ -566,7 +564,7 @@ A: Error testing equipment work by deliberately introducing errors and testing t
 
 This helps test robustness and reliability of the system.
 
-Q54. What are the cases when retransmission becomes necessary? What do you understand by positive and negative acknowledgement?
+## Q54. What are the cases when retransmission becomes necessary? What do you understand by positive and negative acknowledgement?
 
 A: Retransmission is required when:
 
@@ -578,7 +576,7 @@ Positive ACK: Receiver sends ACK to confirm packet received correctly.
 
 Negative ACK: Receiver sends NACK to indicate error in reception. 
 
-Q55. Explain selective reject transmission method.
+## Q55. Explain selective reject transmission method.
 
 A: In selective reject:
 
