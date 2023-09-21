@@ -79,7 +79,7 @@ SyntaxError
 
 # **10. If your program needs to read data from a file, but the file does not exist, an error would occur when running this program. What kind of error is this?**
 
-IOError
+Runtime error
 
 # **11. Suppose you write a program for computing the perimeter of a rectangle and you mistakenly write your program so that it computes the area of a rectangle. What kind of error is this?**
 
