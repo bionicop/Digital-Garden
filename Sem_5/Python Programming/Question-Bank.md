@@ -110,8 +110,7 @@ Step 3: Display the value of kilometers.
 ```python
 miles = 100
 kilometers = miles * 1.609  
-print(kilometers)
-# kilometers is 160.9
+print(kilometers)  # 160.9
 ```
 
 # **14. How do you write a statement to prompt the user to enter a numeric value?**
