@@ -423,3 +423,84 @@ if x > 0:
 if y > 0:
   x = 1
 ```
+
+Here are questions 51 to 71:
+
+# **51. Write an if statement that increases pay by 3% if score is greater than 90.**
+
+```python
+if score > 90:
+  pay = pay * 1.03
+```
+
+# **52. Use nested if to find the largest of three numbers.**
+
+```python
+if x > y and x > z:
+  largest = x
+elif y > x and y > z:
+  largest = y  
+else:
+  largest = z
+```
+
+# **53. Suppose that when you run the following program you enter the input 2, 3, 6 from the console. What is the output?**
+
+```python
+x, y, z = eval(input("Enter three numbers: "))
+if x < y and y < z:
+  print("sorted")
+else:
+  print("not sorted")
+```
+
+Output: `sorted`
+
+# **54. List the precedence order of the Boolean operators.**
+
+not, and, or (highest to lowest)
+
+# **55. Evaluate the following expressions:**
+
+```python
+True or True and False # True
+True and True or False # True
+```
+
+**56. True or false? All the binary operators except = are left-associative.**
+
+True
+
+# **57. Can you convert any for loop to a while loop? List the advantages of using for loops.**
+
+Yes. Advantages of for loop - simpler, no index handling needed.
+
+# **58. What is the keyword break used for? What does the keyword continue used for?** 
+
+`break` exits loop. 
+
+`continue` skips current iteration.
+
+# **59. What are the benefits of using a user defined function?**
+
+Code reuse, modularization, abstraction.
+
+# **60. How do you define a function? How do you invoke a function?**
+
+Use `def` keyword. Invoke simply by `function_name()`.
+
+# **61. True or false? A call to a None function is always a statement itself, but a call to a value-returning function is always a component of an expression.**
+
+False. Both return value and None functions are statements.
+
+# **62. Can you have a return statement in a None function? Does the return statement in the following function cause syntax errors?**
+
+```python
+def xFunction(x, y):
+  print(x + y)
+  return
+```
+
+Yes. Return is optional in Python functions.
+
+Let me know if you need questions 72-80 as well!
