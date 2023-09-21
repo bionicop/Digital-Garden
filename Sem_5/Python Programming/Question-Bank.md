@@ -133,7 +133,10 @@ Use `\` at end of line to break statement.
 
 # **17. What is the naming convention for variables?** 
 
-Use lowercase with words separated by underscores.
+- Variables should start with a letter or the underscore character (`_`).
+- Variables cannot start with a number.
+- Variables can only contain alphanumeric characters and underscores (`A-z`, `0-9`, and `_`).
+- Variable names are case-sensitive.
 
 # **18. What is wrong in the following statement? `2 = a`**
 
