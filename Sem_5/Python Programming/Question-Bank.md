@@ -265,7 +265,7 @@ print("\"")
 # **31. How do you write a character in Unicode?**
 
 ```python
-print("\u0041")
+print("\u0041") # A
 ```
 
 # **32. Suppose you entered A when running the following code. What is the output?**
