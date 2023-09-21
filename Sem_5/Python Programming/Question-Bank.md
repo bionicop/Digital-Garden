@@ -75,15 +75,15 @@ Output:
 
 # **9. If you forget to put a closing quotation mark on a string, what kind of error will be raised?**
 
-SyntaxError
+Syntax Error
 
 # **10. If your program needs to read data from a file, but the file does not exist, an error would occur when running this program. What kind of error is this?**
 
-Runtime error
+Runtime Error
 
 # **11. Suppose you write a program for computing the perimeter of a rectangle and you mistakenly write your program so that it computes the area of a rectangle. What kind of error is this?**
 
-Semantic error.
+Logical error.
 
 # **12. Show the printout of the following code:**
 
