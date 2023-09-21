@@ -14,8 +14,23 @@ python filename.py
 
 # **4. What is a comment? How do you denote a comment line and a comment paragraph?**
 
-Comment line starts with `#`. Comment paragraph is enclosed in `""" """`.
+**Comment:**
+- Comments are used to make code more readable and to explain what the code is doing.
+- Comments are ignored by the interpreter. 
 
+Comments are of 2 types:
+1. *Single-Line Comment*: 
+```python
+# This is a single line comment.
+```
+2. *Multi-Line Comment:*
+```python
+"""  
+This is a
+Multi-line
+comment.
+"""
+```
 # **5. What is the statement to display the message Hello world on the console?**
 
 ```python
