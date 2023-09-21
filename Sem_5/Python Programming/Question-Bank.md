@@ -42,7 +42,7 @@ print("Hello world")
 ```python
 # Display two messages
 print("Welcome to Python")
-    print("Python is fun").
+    print("Python is fun")
 ```
 
 Indentation Error,
@@ -50,7 +50,7 @@ fix code will be:
 ```python
 # Display two messages
 print("Welcome to Python")
-print("Python is fun").
+print("Python is fun")
 ```
 
 # **7. Show the output of the following code:**
@@ -71,7 +71,7 @@ Output:
 
 - Syntax errors
 - Runtime errors  
-- Semantic errors
+- Logical errors
 
 # **9. If you forget to put a closing quotation mark on a string, what kind of error will be raised?**
 
@@ -80,8 +80,6 @@ SyntaxError
 # **10. If your program needs to read data from a file, but the file does not exist, an error would occur when running this program. What kind of error is this?**
 
 IOError
-
-Here are the remaining Python practice questions and answers with code blocks:
 
 # **11. Suppose you write a program for computing the perimeter of a rectangle and you mistakenly write your program so that it computes the area of a rectangle. What kind of error is this?**
 
@@ -121,7 +119,7 @@ print(kilometers)
 Use the input() function:
 
 ```python
-num = input("Enter a number: ")
+num = int(input("Enter a number: "))
 ```
 
 # **15. What happens if the user enters 5a when executing the following code?**
