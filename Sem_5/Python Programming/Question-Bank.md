@@ -197,7 +197,7 @@ print(int("04")) # 4
 
 print(int("4.5")) # 4
 
-print(eval("04")) # 0 
+print(eval("04")) # Syntax Error
 ```
 
 # **25. Evaluate the following functions:**
@@ -255,7 +255,7 @@ chr(85) = 'U'
 chr(90) = 'Z'
 ```
 
-# **30. How do you display the characters \ and "?**
+# **30. How do you display the characters `\` and "?""**
 
 ```python
 print("\\")
