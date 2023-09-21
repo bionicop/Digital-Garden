@@ -42,7 +42,15 @@ print("Hello world")
 ```python
 # Display two messages
 print("Welcome to Python")
-print("Python is fun")
+    print("Python is fun").
+```
+
+Indentation Error,
+fix code will be:
+```python
+# Display two messages
+print("Welcome to Python")
+print("Python is fun").
 ```
 
 # **7. Show the output of the following code:**
