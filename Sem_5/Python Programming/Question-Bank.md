@@ -319,7 +319,9 @@ A method is a function that is associated with an object.
 
 `type(obj)` gives type.
 
-# **38. Which of the following statements is the precise meaning for the statement n = 3?**
+# **38. Which of the following statements is the precise meaning for the statement n = 3?** 
+## (a) n is a variable that holds int value 3. 
+## (b) n is a variable that references an object that holds int value 3.
 
 (b) n is a variable that references an object that holds int value 3.
 
