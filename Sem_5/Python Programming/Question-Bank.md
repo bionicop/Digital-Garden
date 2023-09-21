@@ -1,5 +1,3 @@
-Here are the Python practice questions and answers with code blocks:
-
 **1. Is Python case sensitive?**
 
 Yes, Python is case sensitive.
