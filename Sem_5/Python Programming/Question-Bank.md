@@ -115,8 +115,6 @@ print(kilometers)  # 160.9
 
 # **14. How do you write a statement to prompt the user to enter a numeric value?**
 
-Use the input() function:
-
 ```python
 num = int(input("Enter a number: "))
 ```
@@ -131,7 +129,7 @@ An error will occur because input is a string and cannot be used in numeric expr
 
 # **16. How do you break a long statement into multiple lines?**
 
-Use \ at end of line to break statement.
+Use `\` at end of line to break statement.
 
 # **17. What is the naming convention for variables?** 
 
