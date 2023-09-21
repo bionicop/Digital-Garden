@@ -304,13 +304,103 @@ A method is a function that is associated with an object.
 
 (b) n is a variable that references an object that holds int value 3.
 
-**39. Suppose s is "\tGeorgia\n". What is s.lower() and s.upper()?**
+**39. Suppose s is "`\tGeorgia\n`". What is s.lower() and s.upper()?**
 
 ```python
 s.lower() = "\tgeorgia\n"  
 s.upper() = "\tGEORGIA\n" 
 ```
 
-**40. Suppose s is " \tGood\tMorning\n". What is s.strip()?**
+**40. Suppose s is " `\tGood\tMorning\n`". What is s.strip()?**
 
 `s.strip() = "Good\tMorning"`
+
+Here are answers for the remaining Python practice questions:
+
+**41. What is the return value from invoking the format function?**
+
+The format function returns a formatted string.
+
+**42. What happens if the size of the actual item is greater than the width in the format specifier?**
+
+Overflow content is truncated.
+
+**43. Show the printout of the following statements:**
+
+```python
+print(format(57.467657, "9.3f")) # 57.468
+print(format(12345678.923, "9.1f")) # 123456792.0 
+print(format(57.4, ".2f")) # 57.40  
+print(format(57.4, "10.2f")) # 57.40
+```
+
+**44. Show the printout of the following statements:**
+
+```python
+print(format(57.467657, "9.3e")) # 5.746e+01
+print(format(12345678.923, "9.1e")) # 1.235e+08
+print(format(57.4, ".2e")) # 5.74e+01 
+print(format(57.4, "10.2e")) # 5.74e+01
+```
+
+**45. Show the printout of the following statements:**
+
+```python
+print(format(5789.467657, "9.3f")) # 5789.468 
+print(format(5789.467657, "10d”)) # 5789
+```
+
+**46. List six comparison operators.**
+
+==, !=, >, <, >=, <=
+
+**47. Can the following conversions be allowed? If so, find the converted result.**
+
+```python
+i = int(True) # 1
+j = int(False) # 0 
+b1 = bool(4) # True
+b2 = bool(0) # False
+```
+
+**48. How do you generate a random integer 0 or 1?**
+
+```python
+import random
+random.randint(0, 1) 
+```
+
+**49. Explain simple-if, if-else, if-elif-else and nested if statements in Python. Take some example.**
+
+- `if` checks single condition. 
+- `if-else` executes one block or other.  
+- `if-elif-else` checks multiple conditions. 
+- Nested `if` has `if` inside another `if`.
+
+```python
+if x > 0:
+  print("Positive")
+
+if score >= 90:
+  print("A")
+else:
+  print("B")
+  
+if grade == "A": 
+  print("Excellent")
+elif grade == "B":
+  print("Good")  
+else:
+  print("Pass")
+  
+if x > 0:
+  if y > 0:
+    print("First Quadrant") 
+```
+
+**50. Write an if statement that assigns 1 to x if y is greater than 0.**
+
+```python
+if y > 0:
+  x = 1
+```
