@@ -161,11 +161,48 @@ x = 0, y = 0, z = 0
 5.1 ** 2 # 26.01
 ```
 
-Let me know if you need the explanations for any of these expressions.
 
 # **21. If today is Tuesday, what day of the week will it be in 100 days?**
 
-Friday
+- Thursday. After ever 7 days it will be Tuesday again. 100/7 = 14 remainder 2. So after 98 days it will be Tuesday; after 100 it will be Thursday.
+
+```
+A simple trick:
+
+TUESDAY IS THE SECOND DAY OF THE WEEK=>2
+
+TO FIND AFTER 100 DAYS=>100
+TOTAL DAYS IN A WEEK=>7
+
+(2+100) % 7 = 4
+
+AND 4TH DAY IS THURSDAY
+
+NOTE: IF REMAINDER IS ZERO ,IT INDICATES SUNDAY
+
+sorce: https://www.quora.com/If-today-is-Tuesday-what-day-will-it-be-after-100-days#:~:text=answer%20views%202y-,Thursday.,100%20it%20will%20be%20Thursday.
+```
+
+- Code of the trick will be:
+```python
+# Define the days of the week
+days_of_week = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+# Given information
+current_day = "Tuesday"
+days_to_add = 100
+total_days_in_week = 7
+
+# Find the index of the current day
+current_day_index = days_of_week.index(current_day) #2
+
+# Calculate the new day
+new_day_index = (current_day_index + days_to_add) % total_days_in_week
+new_day = days_of_week[new_day_index] 
+
+print("The day after", days_to_add, "days from", current_day, "is", new_day + ".")
+
+```
 
 # **22. What is the result of 25 / 4? How would you rewrite the expression if you wished the result to be an integer number? Suppose m and r are integers. Write a Python expression for mr^2.**
 
@@ -505,4 +542,232 @@ def xFunction(x, y):
 
 Yes. Return is optional in Python functions.
 
-Let me know if you need questions 72-80 as well!
+Here are answers for the remaining Python questions:
+
+# **63. Define the term function header, parameter, and argument.**
+
+- Function header is the `def` statement that defines the function.
+
+- Parameters are placeholders listed in function definition. 
+
+- Arguments are values passed to function when calling it.
+
+# **64. Explain function call stack by an example.**
+
+The function call stack tracks active function calls. When a function is called, a stack frame is pushed on top. When it returns, the frame is popped off the stack.
+
+For example:
+
+```python
+def a():
+  print("Inside a")
+  b()
+  
+def b():
+  print("Inside b")
+  
+a()
+```
+
+The call stack will be:
+
+1. `a()` is called, push frame for `a()`
+2. `a()` calls `b()`, push frame for `b()` 
+3. `b()` returns, pop frame
+4. `a()` returns, pop frame 
+
+# **65. What is pass-by-value?**
+
+In Python, arguments are passed by value. The function gets a copy of the original object, not the actual object. Changes to arguments inside function do not affect the caller.
+
+# **66. Can the argument have the same name as its parameter?**
+
+Yes.
+
+# **67. What happens if you define two functions in a module that have the same name?**
+
+The latter definition will override the former. The function that appears later in the code will be used.
+
+# **68. Can a function return multiple values?**
+
+Yes, using return tuple/list containing multiple values.
+
+```python
+def fun():
+  return 1, 2
+
+a, b = fun()
+```
+
+# **69. Explain the use of global key word inside the function.** 
+
+`global` keyword imports a global variable into the function's local scope. This allows modifying the global variable inside the function.
+
+```python
+count = 0 
+
+def increment():
+  global count
+  count += 1
+```
+
+# **70. Explain recursion. Write program to compute factorial using recursion.**
+
+Recursion is when a function calls itself. Recursion is used to solve problems that can be broken down into smaller subproblems.
+
+```python
+def factorial(n):
+  if n == 0:
+    return 1
+  return n * factorial(n-1) 
+```
+
+# **71. Write program to display pascal triangle.**
+
+```python
+def printPascal(n):
+  for line in range(1, n+1):
+    C = 1; # used to represent C(line, i)
+    for i in range(1, line+1):
+      print(C, end=' ') 
+      C = int(C * (line - i) / i)
+    print()
+``` 
+
+# **72. Write program to display the Fibonacci sequence.**
+
+```python  
+def fibonacci(n):
+  a, b = 0, 1
+  print(a, end=' ') 
+  for i in range(n-1):
+    print(b, end=' ')
+    a, b = b, a + b
+```
+
+You're right, my apologies. Here are the remaining questions 70 to 80:
+
+# **73. Explain positional arguments, keyword arguments with example.**
+
+Positional arguments match function parameters by position. Keyword arguments are passed by name.
+
+```python
+def func(a, b, c):
+  print(a, b, c)
+
+func(1, 2, 3) # Positional 
+func(c=3, b=2, a=1) # Keyword
+```
+
+# **74. Explain default parameters with example.** 
+
+Default parameters allow specifying a default value if no argument passed for that parameter.
+
+```python
+def add(a, b=5):
+  return a + b
+  
+add(2) # 7
+add(2, 3) # 5  
+```
+
+# **75. Can we have method overloading in Python? Explain.**
+
+No, Python does not support method overloading. Methods can only be defined once in a class.
+
+# **76. Write program to read a string and check if it is a palindrome or not.**
+
+```python
+string = input("Enter string: ")
+
+if string == string[::-1]:
+  print(string, "is a palindrome")
+else:
+  print(string, "is not a palindrome")
+```
+
+# **77. Write program to find the sum of all prime numbers between 1-n.**
+
+```python
+import math
+
+n = 10
+sum = 0 
+
+for i in range(2, n+1):
+  if isPrime(i):
+    sum += i
+    
+print("Sum of primes:", sum)
+
+def isPrime(x):
+  for i in range(2, int(math.sqrt(x))+1):  
+    if x % i == 0:
+      return False
+  return True
+```
+
+# **78. Write program to find GCD and LCM of two numbers.**
+
+```python
+def gcd(a, b):
+  if b == 0:
+    return a
+  else: 
+    return gcd(b, a%b)
+
+def lcm(a, b):
+  return (a * b) // gcd(a, b)
+```
+
+# **79. Suppose x = 2 and y = 4. Show the output, if any, of the following code. What is the output if x = 3 and y = 2? What is the output if x = 3 and y = 3?**
+
+```python
+if x > 2:
+  if y > 2: 
+    z = x + y
+    print("z is", z)
+  else:
+    print("x is", x) 
+```
+
+For x = 2, y = 4: No output
+
+For x = 3, y = 2: `x is 3` 
+
+For x = 3, y = 3: `z is 6`
+
+# **80. Write difference between index and find function.**
+
+- index() returns the index of first occurrence of substring. Raises error if not found.
+
+- find() returns the index of first occurrence of substring. Returns -1 if not found.
+
+# **81. Give difference between eval and int.**
+
+- eval evaluates a string expression and returns the result. 
+
+- int converts the input to integer.
+
+# **82. How python decides the type of a variable? Write a program to know the type of python variable.**
+
+Python assigns types to variables based on value assigned.
+
+```python
+num = 5 # int 
+price = 10.5 # float
+name = "John" # str
+
+print(type(num))
+print(type(price)) 
+print(type(name))
+```
+
+# **83. What is the meaning of Mutable? Is the python string Mutable? Explain with example.**
+
+Mutable objects can be modified after creation. Strings are immutable in Python.
+
+```python  
+s = "hello"
+s[0] = 'H' # Error! Strings cannot be modified
+```
