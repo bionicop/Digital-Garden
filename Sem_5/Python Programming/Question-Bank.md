@@ -645,11 +645,10 @@ def fibonacci(n):
     a, b = b, a + b
 ```
 
-You're right, my apologies. Here are the remaining questions 70 to 80:
-
 # **73. Explain positional arguments, keyword arguments with example.**
 
-Positional arguments match function parameters by position. Keyword arguments are passed by name.
+Positional arguments match function parameters by position. 
+Keyword arguments are passed by name.
 
 ```python
 def func(a, b, c):
