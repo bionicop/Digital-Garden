@@ -370,11 +370,9 @@ s.upper() = "\tGEORGIA\n"
 ```
 
 # **40. Suppose s is " `\tGood\tMorning\n`". What is s.strip()?**
-
 `s.strip() = "Good\tMorning"`
-
-Here are answers for the remaining Python practice questions:
-
+- The `strip()` method in Python removes whitespace characters from the beginning and end of a string
+- Output: `Good Morning`
 # **41. What is the return value from invoking the format function?**
 
 The format function returns a formatted string.
@@ -410,7 +408,7 @@ print(format(5789.467657, "10d”)) # 5789
 
 # **46. List six comparison operators.**
 
-==, !=, >, <, >=, <=
+`==, !=, >, <, >=, <=`
 
 # **47. Can the following conversions be allowed? If so, find the converted result.**
 
