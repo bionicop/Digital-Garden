@@ -463,8 +463,6 @@ if y > 0:
   x = 1
 ```
 
-Here are questions 51 to 71:
-
 # **51. Write an if statement that increases pay by 3% if score is greater than 90.**
 
 ```python
