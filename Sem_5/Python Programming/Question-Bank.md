@@ -541,9 +541,6 @@ def xFunction(x, y):
 ```
 
 Yes. Return is optional in Python functions.
-
-Here are answers for the remaining Python questions:
-
 # **63. Define the term function header, parameter, and argument.**
 
 - Function header is the `def` statement that defines the function.
