@@ -522,7 +522,7 @@ Yes. Advantages of for loop - simpler, no index handling needed.
 
 # **59. What are the benefits of using a user defined function?**
 
-Code reuse, modularization, abstraction.
+Code reuse, modularization(program function in separated into independent pieces), abstraction(Displaying only the essential information & hiding the details).
 
 # **60. How do you define a function? How do you invoke a function?**
 
