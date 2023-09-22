@@ -739,19 +739,24 @@ For x = 3, y = 3: `z is 6`
 
 # **80. Write difference between index and find function.**
 
-- index() returns the index of first occurrence of substring. Raises error if not found.
-
-- find() returns the index of first occurrence of substring. Returns -1 if not found.
+| **Feature** | **`index()`** | **`find()`** |
+|-------------|---------------|-------------|
+| **Purpose** | Returns the index of first occurrence of substring. Raises an error if the substring is not found. | Returns the index of first occurrence of substring. Returns -1 if not found. |
+| **Error on Absence** | Raises a `ValueError` if the substring is not found. | Does not raise an error; returns `-1` if substring is not found. |
+| **Usage** | `string.index(substring)` | `string.find(substring)` |
+| **Example** | `s = "hello" s.index("e")` will return `1` | `s = "hello" s.find("x")` will return `-1` |
 
 # **81. Give difference between eval and int.**
 
-- eval evaluates a string expression and returns the result. 
 
-- int converts the input to integer.
+| Function | Purpose | Example |
+| -------- | ------- | ------- |
+| `eval()` | Evaluates a Python expression from a string as a valid Python expression and returns the result. | `eval('2 + 3')` returns `5` |
+| `int()`  | Converts a specified value into an integer. It can convert strings, floats, and booleans into integers. | `int('5')` returns `5` |
 
 # **82. How python decides the type of a variable? Write a program to know the type of python variable.**
 
-Python assigns types to variables based on value assigned.
+- Python **assigns types to variables** *based on* **value assigned**.
 
 ```python
 num = 5 # int 
@@ -765,7 +770,8 @@ print(type(name))
 
 # **83. What is the meaning of Mutable? Is the python string Mutable? Explain with example.**
 
-Mutable objects can be modified after creation. Strings are immutable in Python.
+- Mutable objects can be modified after creation. 
+- Strings are immutable in Python.
 
 ```python  
 s = "hello"
