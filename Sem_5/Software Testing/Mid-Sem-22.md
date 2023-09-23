@@ -12,12 +12,12 @@ The key objectives are: `#FIRM`
 
 The principles of software testing are:
 
-- Testing shows presence of defects but cannot prove their absence
-- Exhaustive testing is impossible 
-- Early testing saves time and cost
-- Defects cluster together 
+- Testing shows presence of defects, not their absence.
+- Exhaustive testing is impossible.
+- Early testing saves time and money.
+- Defects cluster together.
 - Pareto principle applies (80% of defects from 20% of modules)
-- Testing should be planned
+- Testing should be planned.
 
 # **Q2 (a) What are the Levels of Testing?**
 
