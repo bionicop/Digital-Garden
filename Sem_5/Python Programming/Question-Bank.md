@@ -365,8 +365,8 @@ A method is a function that is associated with an object.
 # **39. Suppose s is "`\tGeorgia\n`". What is s.lower() and s.upper()?**
 
 ```python
-s.lower() = "\tgeorgia\n"  
-s.upper() = "\tGEORGIA\n" 
+s.lower() = "\tgeorgia\n"  # georgia
+s.upper() = "\tGEORGIA\n" # GEORGIA
 ```
 
 # **40. Suppose s is " `\tGood\tMorning\n`". What is s.strip()?**
