@@ -11,7 +11,6 @@ The key objectives are: `#FIRM`
 # **Q1 (b) What are the principles of Software Testing?**
 
 The principles of software testing are:
-
 - Testing shows presence of defects, not their absence.
 - Exhaustive testing is impossible.
 - Early testing saves time and money.
