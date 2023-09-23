@@ -21,7 +21,6 @@ The principles of software testing are:
 # **Q2 (a) What are the Levels of Testing?**
 
 The levels of software testing are:
-
 - Unit testing 
 - Integration testing
 - System testing
