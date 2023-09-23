@@ -1,13 +1,12 @@
- Here are the answers to the Software Testing questions:
-
 # **Q1 (a) Define the term Testing. What are the objectives of Software Testing?**
 
-Software testing refers to the process of evaluating and verifying that a software application or program meets the business and technical requirements, works as expected, and satisfies the needs of stakeholders. The key objectives are: 
+- **Testing**: Process of *evaluating a software application* to **identify and fix defects or issues** before it is deployed for actual use.
 
-- Finding defects and flaws in the software
-- Gaining confidence in and providing information about the quality of the product
-- Preventing defects and reducing development risks
-- Verifying that software meets requirements
+The key objectives are: `#FIRM`
+1. **F***ind Issues*: Identify and report bugs, errors, and issues in the software.
+2. **I***mprove Quality*: Enhance the overall quality and reliability of the software.
+3. **R***educe Risks*: *Minimize the **chances of software failures*** or issues in real-world usage.
+4. **M***aintain Performance*: Ensure that the software functions efficiently and effectively under different conditions.
 
 # **Q1 (b) What are the principles of Software Testing?**
 
