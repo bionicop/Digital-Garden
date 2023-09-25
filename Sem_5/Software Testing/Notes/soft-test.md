@@ -37,7 +37,7 @@
 ## Error
 - Mistake made by developer in code/design.
 ## Bug
-- Error at the time of execution of the software.
+- Error presence at the time software is running.
 ## Fault
 - Defect in the code introduced due to an error.
 ## Failure
