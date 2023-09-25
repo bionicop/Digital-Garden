@@ -22,4 +22,23 @@
 - `Testing = Verification + Validation`
 
 # Software Testing
-- Process of identifying the correctness 
+- Process of identifying the correctness, completeness, & overall quality of a developed software.
+- Involves execution of program under both positive & negative conditions, can be done using tools or manually.
+- Primary focus is to check:
+	- Specification: Software should meet it's requirement.
+	- Functionality: Software functioning as intended.
+	- Performance: Software's speed, scalability, & resource usage.
+- Goals of Software testing: `#FIRM`
+	1. **F**_ind Issues_: Identify and report bugs, errors, and issues in the software.
+	2. **I**_mprove Quality_: Enhance the overall quality and reliability of the software.
+	3. **R**_educe Risks_: _Minimize the **chances of software failures**_ or issues in real-world usage.
+	4. **M**_aintain Performance_: Ensure that the software functions efficiently and effectively under different conditions.
+# Error, Bug, Fault & Failure
+## Error
+- Mistake made by developer in code/design.
+## Bug
+- Error at the time of execution of the software.
+## Fault
+- Defect in the code introduced due to an error.
+## Failure
+- Deviation of software from delivering expected functionality due to fault.
