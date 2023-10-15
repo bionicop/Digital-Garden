@@ -144,4 +144,28 @@ s3 = {'w','a','s','s','u','p'}
 s1 = set([1, 2, 3]) # "List" converted to "Set"
 s2 = set([x * 2 for x in range(1,10)]) # s2 = {2, 4, 6, 8, 10, 12, 14, 16, 18}
 s3 = {1, 2, 3, 'red', 'blue', (1,2)}
+
+s4 = {1, 2, 3, 4}
+s5 = {1, 2, 3, 4, 5, 6}
+print(s4.issubset(s5)) # Output: True
+print(s4.issuperset(s5)) # Output: False
+
+s6 = {4, 2, 1, 3}
+print(s4 == s6) # Output: True
+
+
 ```
+
+# Lists vs Tuples vs Sets
+
+| Aspect          | List                            | Tuple                               | Set                                |
+|-----------------|---------------------------------|-------------------------------------|------------------------------------|
+| **Mutability**  | Mutable (can be changed after creation) | Immutable (cannot be changed after creation) | Mutable (can be changed after creation) |
+| **Syntax**      | Created using square brackets `[]` | Created using parentheses `()`      | Created using curly braces `{}`     |
+| **Example**     | `my_list = [1, 2, 3]`           | `my_tuple = (1, 2, 3)`              | `my_set = {1, 2, 3}`               |
+| **Use Case**    | When the data needs to be changed or modified frequently. | When the data should remain constant or unchangeable. | When you need to work with distinct elements and don't require order. |
+| **Supports Indexing/Slicing** | Yes                     | Yes                                 | No                                 |
+| **Allows Duplicates** | Yes                    | Yes                                 | No|
+| **Ordered**     | Yes                             | Yes                                 | No                                 |
+
+- `del` function
