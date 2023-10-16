@@ -168,4 +168,42 @@ print(s4 == s6) # Output: True
 | **Allows Duplicates** | Yes                    | Yes                                 | No|
 | **Ordered**     | Yes                             | Yes                                 | No                                 |
 
-- `del` function
+
+# Functions:
+
+## `del()`, `remove()`, `discard()`, `pop()`
+| Function  | Syntax               | Explanation                                                                                                                                                      | Used With |
+| --------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| `del`     | `del list[index]`    | Removes the element at the specified index from the list.                                                                                                        | Lists          |
+| `remove`  | `list.remove(value)` | Removes the **first matching value** *from the list specified by the user*.                                                                                      | Lists & Sets   |
+| `discard` | `list.discard()`     | Removes the element from the set if it is present. If the element is not present, **no error is raised**.                                                        | Sets           |
+| `pop`     | `list.pop(index)`    | In lists: by default removes the last element from the list and returns it. <br><br> In sets: removes an arbitrary item from the set, because set isn't ordered. | Lists & Sets   |
+
+## Functions to add items to a collection
+
+| Function | Syntax               | Explanation                                                                                                                                                      | Used With |
+| -------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| `append` | `list.append(item)`  | *Adds the item* at the **end of the list**.                                                                                                                   | Lists          |
+| `add`    | `set.add(item)`      | Adds the specified item to the set. If the **item is already present**, *no error is raised*.                                                                           | Sets           |
+| `insert` | `list.insert(index, item)` | Inserts the specified item at the specified index in the list. If no index is specified, the item is added to the end of the list.                             | Lists          |
+
+## Combining Collectors
+
+| Function | Syntax               | Explanation                                                                                                                                                      | Used With |
+| -------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| `+, /, -` operator | `list.append(item)`  | *Adds the item* at the **end of the list**.                                                                                                                   | Strings, Lists, and Tuples          |
+| `len()`    | `len(sequence)`      | Adds the specified item to the set. If the **item is already present**, *no error is raised*.                                                                           | Sets           |
+| `count()` | `sequence.count(value)` | Inserts the specified item at the specified index in the list. If no index is specified, the item is added to the end of the list.                             | Strings, Lists, and Tuples          |
+
+# Dictionary
+- It is a container object, that stores a collection of key value pairs.
+- It is also know as map, which maps each key to a value.
+- It enables fast retrieval, deletion, updation of the value, by using the key. 
+
+## Dictionary Creation
+- ex:
+```python
+s = {} # Empty Dictionary
+s = {"name" : "anonymous", "age": "0.69"}
+	 print(s)
+```
