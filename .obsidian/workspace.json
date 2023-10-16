@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bce833c43081d877",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +198,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b02e406ab3a66afc",
+  "active": "bce833c43081d877",
   "lastOpenFiles": [
     "Sem_5/Python Programming/Introduction to Python.md",
     "Sem_5/Python Programming/Module-4.md",
