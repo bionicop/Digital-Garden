@@ -9,7 +9,7 @@
 # Content Table:
 
 ## Sem 3
-- ### [DBMS](Sem_3/DBMS/Classes_Notes/m1_syllabus.md)
+- ### [DBMS](Sem_3/DBMS/DBMS_vs_File_Processing_System.md)
 - ### [IT](Sem_3/IT/IT_Index.md)
 - ### [Java OOPs](Sem_3/Java%20OOPs/Java_Index.md)
 - ### [Scilab](Sem_3/Scilab/Scilab_Index.md)
@@ -31,14 +31,14 @@
 
 
 ## Sem 6 (⚠️Under Construction🚧)
-- ### [Data Mining](Sem_6/Data%20Mining/index.md)
-- ### [Distributed Computing](Sem_6/Distributed%20Computing/index.md)
-- ### [System Programming](Sem_6/Distributed%20Database%20System/index.md)
-- ### [Unix & Shell Programming](Sem_6/Unix%20&%20Shell%20Programming/index.md)
+- ### [Data Mining](Sem_6/Data_Mining/index)
+- ### [Distributed Computing](Sem_6/Distributed_Computing/index)
+- ### [System Programming](Sem_6/Distributed_Database_System/index)
+- ### [Unix & Shell Programming](Sem_6/Unix_&_Shell_Programming/index)
 
 
 ## CheatSheets (⚠️Under Construction🚧)
-- ### [Obsidian CheatSheet](template/Obsidian_Cheat_Sheet.md)
+- ### [Obsidian CheatSheet](template/Obsidian_Cheat_Sheet.md)c
 - ### [Scilab](Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf)
 
 ## Just Something I need to Work on

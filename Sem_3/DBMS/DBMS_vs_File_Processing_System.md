@@ -4,9 +4,6 @@ modification date: Saturday 12th November 2022
 aliases: [DBMS] 
 tags: DBMS
 ---
-
-<< [[Sem_3/DBMS/Classes_Notes/m1_syllabus|Syllabus Module 1]] | [[2022-11-13.md]] >>
-
 # ❗❓ Info
 Course Name: DBMS
 Date: Saturday 12th November 2022
