@@ -33,12 +33,12 @@
 ## Sem 6 (⚠️Under Construction🚧)
 - ### [Data Mining](Sem_6/Data_Mining/index)
 - ### [Distributed Computing](Sem_6/Distributed_Computing/index)
-- ### [System Programming](Sem_6/Distributed_Database_System/index)
+- ### [Distributed Database System](Sem_6/Distributed_Database_System/index)
 - ### [Unix & Shell Programming](Sem_6/Unix_&_Shell_Programming/index)
 
 
 ## CheatSheets (⚠️Under Construction🚧)
-- ### [Obsidian CheatSheet](template/Obsidian_Cheat_Sheet.md)c
+- ### [Obsidian CheatSheet](template/Obsidian_Cheat_Sheet.md)
 - ### [Scilab](Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf)
 
 ## Just Something I need to Work on
