@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "templater-obsidian",
   "execute-code",
   "obsidian-custom-frames",
@@ -8,5 +7,6 @@
   "obsidian-enhancing-mindmap",
   "wikilinks-to-mdlinks-obsidian",
   "obsidian-latex-suite",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "obsidian-git"
 ]

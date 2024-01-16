@@ -5,16 +5,13 @@ aliases:
   - Introduction to Python
 tags:
   - Python
-  - Programming
-  - PythonProgramming
-  - Module-1
 ---
 # ❗❓ Info
 Course Name: Python Programming
 Module: Module 1
 Date: Saturday 19th August 2023
 Professor/Speaker: 
-Tags: #PythonProgramming #Module-1 #IntroductionToPython
+Tags: #Python
 
 ---
 # 📑 Module 1: Introduction to Computers, Programs, and Python

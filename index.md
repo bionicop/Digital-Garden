@@ -11,15 +11,31 @@
 ## Sem 3
 - ### [DBMS](Sem_3/DBMS/Classes_Notes/m1_syllabus.md)
 - ### [IT](Sem_3/IT/IT_Index.md)
-- ### [Java OOPs](Sem_3/Java_OOPs/Java_Index.md)
+- ### [Java OOPs](Sem_3/Java%20OOPs/Java_Index.md)
 - ### [Scilab](Sem_3/Scilab/Scilab_Index.md)
 
 ## Sem 4 (⚠️Under Construction🚧)
-- ### [Software Engineering](Sem_4/Software_Engineering/Classes_Notes/Module_1/m1_syllabus.md)
+- ### [Software Engineering](Sem_4/Software%20Engineering/Notes/Module_1/m1_syllabus.md)
 - ### [Cloud Computing](Sem_4/Cloud_Computing/Classes_Notes/Module_1/m1_syllabus.md)
 - ### [Web Programming](Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md)
 - ### [Data Analytics](Sem_4/Data_Analytics/Classes_Notes/Module_1/m1_syllabus.md)
-- ### [Fundamentals of Computer Algorithms](Sem_4/Fundamentals_of_Computer_Algorithms/Classes_Notes/Module_1/m1_syllabus.md)
+- ### [Fundamentals of Computer Algorithms](Sem_4/Fundamentals%20of%20Computer%20Algorithms/m1_syllabus.md)
+
+
+## Sem 5 (⚠️Under Construction🚧)
+- ### [Computer Graphics & Multimedia](Sem_5/Computer%20Graphics%20&%20Multimedia/index.md)
+- ### [Cloud Computing](Sem_4/Cloud_Computing/Classes_Notes/Module_1/m1_syllabus.md)
+- ### [Web Programming](Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md)
+- ### [Data Analytics](Sem_4/Data_Analytics/Classes_Notes/Module_1/m1_syllabus.md)
+- ### [Fundamentals of Computer Algorithms](Sem_4/Fundamentals%20of%20Computer%20Algorithms/m1_syllabus.md)
+
+
+## Sem 6 (⚠️Under Construction🚧)
+- ### [Data Mining](Sem_6/Data%20Mining/index.md)
+- ### [Distributed Computing](Sem_6/Distributed%20Computing/index.md)
+- ### [System Programming](Sem_6/Distributed%20Database%20System/index.md)
+- ### [Unix & Shell Programming](Sem_6/Unix%20&%20Shell%20Programming/index.md)
+
 
 ## CheatSheets (⚠️Under Construction🚧)
 - ### [Obsidian CheatSheet](template/Obsidian_Cheat_Sheet.md)

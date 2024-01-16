@@ -5,9 +5,6 @@ aliases:
   - Tuples, Sets, and Dictionaries
 tags:
   - Python
-  - Programming
-  - PythonProgramming
-  - Module-4
 ---
 
 << [Name](File_Directory) | [Name](File_Directory) >>
@@ -17,7 +14,7 @@ Course Name: Python Programming
 Module: Module 4
 Date: Sunday 15th October 2023
 Professor/Speaker: 
-Tags: #PythonProgramming #Module-4 
+Tags: #Python
 
 ---
 # 📑 Module 4: Tuples, Sets, and Dictionaries

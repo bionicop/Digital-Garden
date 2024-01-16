@@ -1,10 +1,10 @@
 ---
 creation date: 2023-01-17
 modification date: Tuesday 17th January 2023
-aliases: [Index] 
-tags: 
-- Index
-- publish
+aliases:
+  - Index
+tags:
+  - Index
 ---
 # 📕 Index
 

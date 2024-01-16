@@ -1,10 +1,10 @@
 ---
 creation date: 2023-07-17 14:10
 modification date: Monday 17th July 2023
-aliases: [IOT Using Python] 
-tags: 
-- IOT using Python
-- Training Prog
+aliases:
+  - IOT Using Python
+tags:
+  - IOT_using_python
 ---
 
 # ❗❓ Info
@@ -12,12 +12,12 @@ Course Name: IoT using Python
 Course Day's Done: 4
 Date: Monday 17th July 2023 - Thursday 20th July 2023
 Professor/Speaker: Priyanka
-Tags: #
+Tags: #IOT_using_python 
 
 ---
-# 📑 IOT Using Pthon
+# 📑 IOT Using Python
 
-## 📃 Summary of Notes
+## 📃 Topics
 - [IOT](<#IOT>)
 - [Embedded System](<#Embedded System>)
 - [Distribution Layer of IOT](<#Distribution Layer of IOT>)
