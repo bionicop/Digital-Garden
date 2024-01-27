@@ -411,11 +411,11 @@ graph TD
 
 ---
 # **E-Commerce and EDI**
-| **E-Commerce**                                                                                                                                                | **EDI**                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **E-Commerce** | **EDI** |
+| ---- | ---- |
 | E-commerce is the *buying and selling of goods and services*, or the *transmitting of funds or data*, ==over an electronic network, primarily the internet==. | EDI is the **computer-to-computer exchange** of ==business documents in a standard electronic format between business partners==. |
-| These *business transactions occur either* as ==business-to-business, business-to-consumer, consumer-to-consumer or consumer-to-business==.                   |                                                                                                                                   |
-| E-Commerce stands for **Electronic Commerce**.                                                                                                                | EDI *stands for* **Electronic Data Interchange**.                                                                                 |
+| These *business transactions occur either* as ==business-to-business, business-to-consumer, consumer-to-consumer or consumer-to-business==. |  |
+| E-Commerce stands for **Electronic Commerce**. | EDI *stands for* **Electronic Data Interchange**. |
 
 ---
 # **Digital Cash**

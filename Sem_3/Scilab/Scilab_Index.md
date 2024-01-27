@@ -16,3 +16,4 @@ tags: Index
 ##  #4 - [Day 4](Classes_Notes/2022-09-09)
 
 ##  #5 - [Simple Cheat Sheet](Classes_Notes/Scilab_Cheat_Sheet)
+## #6 - [BetterCheatSheet](Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf) (*has all the basic commands*)

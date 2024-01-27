@@ -8,3 +8,6 @@ volume of an sphere - `(4/3)πr^3`
 
 **What is scf?**
 - set the current graphic figure (window)
+
+
+Use this [Cheat Sheet](Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf).

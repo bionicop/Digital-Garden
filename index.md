@@ -31,10 +31,10 @@
 
 
 ## Sem 6 (⚠️Under Construction🚧)
-- ### [Data Mining](Sem_6/Data_Mining/index)
-- ### [Distributed Computing](Sem_6/Distributed_Computing/index)
-- ### [Distributed Database System](Sem_6/Distributed_Database_System/index)
-- ### [Unix & Shell Programming](Sem_6/Unix_&_Shell_Programming/index)
+- ### [Data Mining](Sem_6/Data_Mining/index.md)
+- ### [Distributed Computing](Sem_6/Distributed_Computing/index.md)
+- ### [Distributed Database System](Sem_6/Distributed_Database_System/index.md)
+- ### [Unix & Shell Programming](Sem_6/Unix_&_Shell_Programming/index.md)
 
 
 ## CheatSheets (⚠️Under Construction🚧)

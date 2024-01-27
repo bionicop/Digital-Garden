@@ -444,7 +444,7 @@ graph TD
 <!ELEMENT name content>
 ```
 
-| **name**                                	            | **Syntax**                                                                                	            |
+| **Name**                                	            | **Syntax**                                                                                	            |
 |--------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|
 | Empty Elements                                   	| `<!ELEMENT element-name category>` or `<!ELEMENT element-name (element-content)>`   	                            |
 | Elements with Parsed Character Data              	| `<!ELEMENT element-name (#PCDATA)>`                                                         	            |
