@@ -43,6 +43,7 @@ Tags: #DC #M1
 	- Distributed Programming
 	- Distributed Algorithms
 ## Advantages
+
 | **Advantages** | Explanation                                                                                                                                                                       |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Scalability*  | As users needs grow, they **can add more computing power to the system**. |
