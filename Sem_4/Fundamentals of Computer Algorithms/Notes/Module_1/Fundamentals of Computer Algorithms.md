@@ -47,7 +47,7 @@ graph TD
 		- **Big-Oh Notation (O)**
 			- It represents the upper bound of the running time of an algorithm.
 			- Thus, it provides the worst case complexity of an algorithm.
-			- image source: https://www.programiz.com/dsa/asymptotic-notations ![Attachment/](Attachment/Fundamentals_of_Computer_Algorithms/Big-Oh.png)
+			- image source: https://www.programiz.com/dsa/asymptotic-notations ![[Attachment/Fundamentals_of_Computer_Algorithms/Big-Oh.png|Attachment/]]
 			- Here, f(n) <= c.g(n), c.g(n) proves to be the upper bound for f(n) for all n >= 0.
 			- c = constant
 			- n<sub>0</sub> >= 1
@@ -55,7 +55,7 @@ graph TD
 		- **Big-Omega Notation (Ω)**
 			- It represents the lower bound of the running time of an algorithm.
 			- Thus, it provides the best case complexity of an algorithm.
-			- image source: https://www.programiz.com/dsa/asymptotic-notations ![](Attachment/Fundamentals_of_Computer_Algorithms/Big-Omega.png)
+			- image source: https://www.programiz.com/dsa/asymptotic-notations ![[Attachment/Fundamentals_of_Computer_Algorithms/Big-Omega.png]]
 			- Here, f(n) >= c.g(n), c.g(n) proves to be the lower bound for f(n) for all n >= n<sub>0</sub>.
 			- c = constant
 			- c > 0
@@ -64,7 +64,7 @@ graph TD
 		- **Big-Theta Notation (Θ)**
 			- Theta notation encloses the fundtion f(n) from above and below, It represents both upper and lower bound of the running time of an algorithm.
 			- It is used to analyze the average case complexity of an algorithm.
-			- image source: https://www.programiz.com/dsa/asymptotic-notations ![](Attachment/Fundamentals_of_Computer_Algorithms/Big-Theta.png)
+			- image source: https://www.programiz.com/dsa/asymptotic-notations ![[Attachment/Fundamentals_of_Computer_Algorithms/Big-Theta.png]]
 			- Here,  c<sub>2</sub>.g(n) <= f(n) <= c<sub>1</sub>.g(n), c<sub>1</sub>.g(n) & c<sub>2</sub>.g(n) proves to be the lower bound & upper bound for f(n) for all n >= n<sub>0</sub>.
 			- c<sub>1</sub>, c<sub>2</sub> = constant
 			- c<sub>1</sub>, c<sub>2</sub> > 0

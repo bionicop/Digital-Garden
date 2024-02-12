@@ -8,7 +8,7 @@ tags:
   - XML
 dg-publish: true
 ---
-<< [Syllabus Module 3](Sem_3/IT/Notes/Module_3/m3_syllabus.md) |
+<< [[Sem_3/IT/Notes/Module_3/m3_syllabus.md.md|Syllabus Module 3]] |
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -21,48 +21,48 @@ Tags: #Internet_Technologies  #XML
 # 📑 XML
 
 ## 📃 Topics
-- [XML](<#XML>)
-	- [XML vs HTML](<#XML vs HTML>)
-	- [XML Structure](<#XML Structure>)
-		- [XML Syntax](<#XML Syntax>)
-		- [Prolog](<#Prolog>)
-		- [Body](<#Body>)
-	- [Well Formed](<#Well Formed>)
-		- [XML Rules](<#XML Rules>)
-	- [XML Example](<#XML Example>)
-	- [XML Declaration](<#XML Declaration>)
-	- [XML Element](<#XML Element>)
-	- [Naming Rules](<#Naming Rules>)
-	- [Empty Elements](<#Empty Elements>)
-	- [XML Attributes](<#XML Attributes>)
-	- [Parsing](<#Parsing>)
-	- [XML Special Characters](<#XML Special Characters>)
-	- [Elements vs Attributes](<#Elements vs Attributes>)
-	- [Displaying XML](<#Displaying XML>)
-	- [XML Namespaces](<#XML Namespaces>)
-		- [xmlns Attribute](<#xmlns Attribute>)
-	- [XML Schema Languages](<#XML Schema Languages>)
-	- [XML Validation](<#XML Validation>)
-- [DTD](<#DTD>)
-	- [Internal DTD](<#Internal DTD>)
-	- [External DTD](<#External DTD>)
-	- [Declaring Elements in DTD](<#Declaring Elements in DTD>)
-	- [XML CDATA Sections](<#XML CDATA Sections>)
-		- [CDATA Rules](<#CDATA Rules>)
-	- [PCDATA](<#PCDATA>)
-	- [DTD Attributes](<#DTD Attributes>)
-	- [Entities](<#Entities>)
-	- [DTD Mixed Content](<#DTD Mixed Content>)
-	- [XML DOM](<#XML DOM>)
-		- [XML DOM Nodes](<#XML DOM Nodes>)
-		- [XML Nodes Types](<#XML Nodes Types>)
-		- [Node Parents, Children, and Siblings](<#Node Parents, Children, and Siblings>)
-	- [First Child \& Last Child](<#First Child \& Last Child>)
-		- [Accessing Nodes](<#Accessing Nodes>)
-	- [JAVA and DOM](<#JAVA and DOM>)
+- [[<#XML>]]
+	- [[<#XML vs HTML>]]
+	- [[<#XML Structure>]]
+		- [[<#XML Syntax>]]
+		- [[<#Prolog>]]
+		- [[<#Body>]]
+	- [[<#Well Formed>]]
+		- [[<#XML Rules>]]
+	- [[<#XML Example>]]
+	- [[<#XML Declaration>]]
+	- [[<#XML Element>]]
+	- [[<#Naming Rules>]]
+	- [[<#Empty Elements>]]
+	- [[<#XML Attributes>]]
+	- [[<#Parsing>]]
+	- [[<#XML Special Characters>]]
+	- [[<#Elements vs Attributes>]]
+	- [[<#Displaying XML>]]
+	- [[<#XML Namespaces>]]
+		- [[<#xmlns Attribute>]]
+	- [[<#XML Schema Languages>]]
+	- [[<#XML Validation>]]
+- [[<#DTD>]]
+	- [[<#Internal DTD>]]
+	- [[<#External DTD>]]
+	- [[<#Declaring Elements in DTD>]]
+	- [[<#XML CDATA Sections>]]
+		- [[<#CDATA Rules>]]
+	- [[<#PCDATA>]]
+	- [[<#DTD Attributes>]]
+	- [[<#Entities>]]
+	- [[<#DTD Mixed Content>]]
+	- [[<#XML DOM>]]
+		- [[<#XML DOM Nodes>]]
+		- [[<#XML Nodes Types>]]
+		- [[<#Node Parents, Children, and Siblings>]]
+	- [[<#First Child \& Last Child>]]
+		- [[<#Accessing Nodes>]]
+	- [[<#JAVA and DOM>]]
 ---
 # **XML**
-- XML *stands for* **[[Sem_3/IT/Side_Notes/xml|eXtensible Markup Language]]**.
+- XML *stands for* **[[Sem_3/IT/Side_Notes/xml.md.md|eXtensible Markup Language]]**.
 - XML is a **markup language** much like HTML.
 - XML was designed to **store** and **transport data**.
 - a software and hardware independent way of storing, transporting, and sharing data.
@@ -93,11 +93,11 @@ Tags: #Internet_Technologies  #XML
 
 
 - XML Document consists of:
-	1) [Prolog](#Prolog)
-	2) [Body](#Body)
+	1) [[#Prolog|Prolog]]
+	2) [[#Body|Body]]
 
 ### **Prolog**
-- The prolog consists of an [XML declaration](#declaration).
+- The prolog consists of an [[#declaration|XML declaration]].
 - This line is called the XML **prolog**:-
 ```xml
 	<?xml version="1.0" encoding="UTF-8"?>
@@ -112,7 +112,7 @@ Tags: #Internet_Technologies  #XML
 
 ---
 ## **Well Formed**
-- An XML document is called well-formed if it satisfies certain [rules](#XML-Rules), *specified by the W3C*.
+- An XML document is called well-formed if it satisfies certain [[#XML-Rules|rules]], *specified by the W3C*.
 
 ### **XML Rules**
 - XML **documents** *must have a* **root element**.
@@ -124,7 +124,7 @@ Tags: #Internet_Technologies  #XML
 
 ---
 ## **XML Example**
-- XML documents *begin with a XML [declaration](#XML-Declaration)* ==which is optional==.
+- XML documents *begin with a XML [[#XML-Declaration|declaration]]* ==which is optional==.
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <library>
@@ -153,7 +153,7 @@ Tags: #Internet_Technologies  #XML
 - **version** - *simply* ==XML Version==.
 - **encoding** - It designates the character set used by the XML document. 
 					- ISO-8859-1 *(English and many Western European languages)*
-- **standalone** - It defines whether a document requires a **[Document Type Definition](#DTD)**(defines the elements and attributes that can be used in a document).
+- **standalone** - It defines whether a document requires a **[[#DTD|Document Type Definition]]**(defines the elements and attributes that can be used in a document).
 
 ---
 ## **XML Element**
@@ -165,11 +165,11 @@ Tags: #Internet_Technologies  #XML
 	- other elements
 	- or a mix of the above.
 
-![/Attachment/xml_help](xml_help.png)
+![[xml_help.png|/Attachment/xml_help]]
 
 ---
 ## **Naming Rules**
-- Names can only contain **letters, digits and some other [special characters](#XML-Special-Characters)**.
+- Names can only contain **letters, digits and some other [[#XML-Special-Characters|special characters]]**.
 - **Cannot start** with a *number or punctuation marks*.
 - Must **not contain** the string “*xml*”,”*XML*” or “*Xml*”
 - ==Cannot contain whitespace==.
@@ -194,7 +194,7 @@ Tags: #Internet_Technologies  #XML
 
 ---
 ## **Parsing**
-- A parser is *used to check whether a document* is [Well Formed](#Well-Formed).
+- A parser is *used to check whether a document* is [[#Well-Formed|Well Formed]].
 - There are 2 types of parsing:
 ```mermaid
 graph TD
@@ -239,7 +239,7 @@ graph TD
 ## **XML Namespaces**
 - A Namespace is a **set of unique names**. 
 - Namespace is a mechanisms by which *element and attribute* ==name can be assigned to a group==. 
-- The Namespace *is identified by [[URI|URI]]* (**Uniform Resource Identifier**).
+- The Namespace *is identified by [[URI.md.md|URI]]* (**Uniform Resource Identifier**).
 - *In short*: XML Namespaces provide a method to **avoid element name conflicts**.
 - Syntax:
 ```xml
@@ -699,7 +699,7 @@ graph TD
 - A *leaf is a node with no children*.
 - **Siblings are nodes** *with the same parent*.
 
-![/Attachment/node](node.png)
+![[node.png|/Attachment/node]]
 
 ---
 ## **First Child & Last Child**

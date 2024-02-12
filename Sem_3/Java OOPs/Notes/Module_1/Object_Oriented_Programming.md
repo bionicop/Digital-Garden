@@ -5,8 +5,8 @@ aliases:
   - Object-Oriented programming
 tags:
   - Java
+dg-publish: true
 ---
-
 
 # ❗❓ Info
 Course Name: Java OOPs
@@ -19,10 +19,10 @@ Tags: #Java
 # 📑 Object-Oriented programming
 
 ## 📃 Topics
--   - [Object-Oriented Programming](<#Object-Oriented Programming>)
-      - [Classes](<#Classes>)
-      - [Object](<#Object>)
-  - [OOPs Concepts in Java](<#OOPs Concepts in Java>)
+-   - [[<#Object-Oriented Programming>]]
+      - [[<#Classes>]]
+      - [[<#Object>]]
+  - [[<#OOPs Concepts in Java>]]
 
 ## Object-Oriented Programming
 - It is a methodology or paradigm to design a program using classes and objects.

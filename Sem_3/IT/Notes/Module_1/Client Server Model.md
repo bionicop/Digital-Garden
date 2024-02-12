@@ -9,7 +9,7 @@ tags:
 dg-publish: true
 ---
 
-<< [Internet Basics](Sem_3/IT/Notes/Module_1/Internet%20Basics.md) |
+<< [[Sem_3/IT/Notes/Module_1/Internet Basics.md.md|Internet Basics]] |
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -22,56 +22,56 @@ Tags: #Internet_Technologies
 # 📑 Internet Technologies
 
 ## 📃 Topics
-- [**Client Server Model**](#client-server-model)
-	- [**Type of Servers**](#type-of-servers)
-- [**Protocol**](#protocol)
-	- [**Standard Protocols** *(Note- have to check this later)*](#standard-protocols-note--have-to-check-this-later)
-	- [**Types of Protocol**](#types-of-protocol)
-		- [**SMTP**](#smtp)
-		- [**POP**](#pop)
-		- [**TCP/IP**](#tcpip)
-- [**Packet Switching**](#packet-switching)
-	- [**Packets**](#packets)
-	- [**Switching**](#switching)
-- [**Router**](#router)
-- [**WAP**](#wap)
-- [**Bluetooth**](#bluetooth)
-- [**SOAP**](#soap)
-- [**IIOP**](#iiop)
-- [**Internet IP Address**](#internet-ip-address)
-	- [**IP Address**](#ip-address)
-	- [**Classes of Network**](#classes-of-network)
-- [**Domain Name**](#domain-name)
-	- [**Domain Registration**](#domain-registration)
-- [**Internet Services**](#internet-services)
-	- [**Gopher Service**](#gopher-service)
-	- [**Instant Messaging**](#instant-messaging)
-	- [**Internet Relay Chat**](#internet-relay-chat)
-	- [**BBS**](#bbs)
-	- [**Usenet News Group Service**](#usenet-news-group-service)
-- [**Electronic Mail**](#electronic-mail)
-- [**WWW**](#www)
-- [**Web Server**](#web-server)
-- [**Web Client**](#web-client)
-- [**Web Technologies**](#web-technologies)
-- [**Cookies**](#cookies)
-- [**Cyber Laws**](#cyber-laws)
-- [**URL**](#url)
-	- [**Parts of a URL**](#parts-of-a-url)
-	- [**Parts of a HTTP URL**](#parts-of-a-http-url)
-	- [**URL Examples**](#url-examples)
-- [**Internet Security**](#internet-security)
-	- [**SSL**](#ssl)
-	- [**S-HTTP**](#s-http)
-- [**Encryption**](#encryption)
-	- [**Types of Encryption**](#types-of-encryption)
-		- [**Asymmetric encryption**](#asymmetric-encryption)
-		- [**Symmetric encryption**](#symmetric-encryption)
-- [**E-Commerce and EDI**](#e-commerce-and-edi)
-- [**Digital Cash**](#digital-cash)
-- [**Digital Signature**](#digital-signature)
-- [**HTTP**](#http)
-	- [**Request/Response**](#requestresponse)
+- [[#client-server-model|**Client Server Model**]]
+	- [[#type-of-servers|**Type of Servers**]]
+- [[#protocol|**Protocol**]]
+	- [[#standard-protocols-note--have-to-check-this-later|**Standard Protocols** *(Note- have to check this later|[Note- have to check this later]]*)
+	- [[#types-of-protocol|**Types of Protocol**]]
+		- [[#smtp|**SMTP**]]
+		- [[#pop|**POP**]]
+		- [[#tcpip|**TCP/IP**]]
+- [[#packet-switching|**Packet Switching**]]
+	- [[#packets|**Packets**]]
+	- [[#switching|**Switching**]]
+- [[#router|**Router**]]
+- [[#wap|**WAP**]]
+- [[#bluetooth|**Bluetooth**]]
+- [[#soap|**SOAP**]]
+- [[#iiop|**IIOP**]]
+- [[#internet-ip-address|**Internet IP Address**]]
+	- [[#ip-address|**IP Address**]]
+	- [[#classes-of-network|**Classes of Network**]]
+- [[#domain-name|**Domain Name**]]
+	- [[#domain-registration|**Domain Registration**]]
+- [[#internet-services|**Internet Services**]]
+	- [[#gopher-service|**Gopher Service**]]
+	- [[#instant-messaging|**Instant Messaging**]]
+	- [[#internet-relay-chat|**Internet Relay Chat**]]
+	- [[#bbs|**BBS**]]
+	- [[#usenet-news-group-service|**Usenet News Group Service**]]
+- [[#electronic-mail|**Electronic Mail**]]
+- [[#www|**WWW**]]
+- [[#web-server|**Web Server**]]
+- [[#web-client|**Web Client**]]
+- [[#web-technologies|**Web Technologies**]]
+- [[#cookies|**Cookies**]]
+- [[#cyber-laws|**Cyber Laws**]]
+- [[#url|**URL**]]
+	- [[#parts-of-a-url|**Parts of a URL**]]
+	- [[#parts-of-a-http-url|**Parts of a HTTP URL**]]
+	- [[#url-examples|**URL Examples**]]
+- [[#internet-security|**Internet Security**]]
+	- [[#ssl|**SSL**]]
+	- [[#s-http|**S-HTTP**]]
+- [[#encryption|**Encryption**]]
+	- [[#types-of-encryption|**Types of Encryption**]]
+		- [[#asymmetric-encryption|**Asymmetric encryption**]]
+		- [[#symmetric-encryption|**Symmetric encryption**]]
+- [[#e-commerce-and-edi|**E-Commerce and EDI**]]
+- [[#digital-cash|**Digital Cash**]]
+- [[#digital-signature|**Digital Signature**]]
+- [[#http|**HTTP**]]
+	- [[#requestresponse|**Request/Response**]]
 ---
 # **Client Server Model**
 - The Client-server model is a *distributed application structure* that partitions task or workload between the providers of a *resource or service*, called *servers*, and *service requesters* called *clients*.
@@ -122,7 +122,7 @@ graph TD
 ### **POP**
 - POP *stands for* **Post Office Protocol**.
 - Used to retrieve e-mail from a mail server
-- *Newer protocol* to do this is [**IMAP**](#IMAP).
+- *Newer protocol* to do this is [[#IMAP|**IMAP**]].
 - POP has 2 version
 	- POP 2 - **Requires SMTP** *to send messages*.
 	- POP 3 - *Can Send messages* **with or without SMTP**.
@@ -162,7 +162,7 @@ graph TD
 - WAP *stands for* **Wirless Application Protocol**.
 - *Secure specification* that allows users to *access internet* via **handheld wireless devices**.
 - Supported by all **Operating Systems** (*OS*).
-- [*WML*](#wml) is specifically designed for **small screens**.
+- [[#wml|*WML*]] is specifically designed for **small screens**.
 ---
 
 # **Bluetooth**
@@ -173,7 +173,7 @@ graph TD
 # **SOAP**
 - SOAP *stands for* **Simple Object Access Protocol**.
 - It is a *messaging protocol* allowing programs to *communicate between different operating systems* such as ==Windows and Linux==. 
-- It uses **XML for format its messages** while using *HTTP* and [*SMTP*](#SMTP) to ==transmit those messages over a network==.
+- It uses **XML for format its messages** while using *HTTP* and [[#SMTP|*SMTP*]] to ==transmit those messages over a network==.
 
 ---
 # **IIOP**
@@ -195,7 +195,7 @@ graph TD
 	- Number of hosts/Network -> (2<sup>host_bits</sup> - 2)
 
 ## **IP Address**
-![Attachment/ip_address](ip_address.png)
+![[ip_address.png|Attachment/ip_address]]
 
 ## **Classes of Network** 
 - **3 classes** of *Networks depending* on the number of hosts it can handle.
@@ -251,7 +251,7 @@ graph TD
 		5) .mil – military
 		6) .net – network organizations
 		7) .ca - Canada, *etc.*
-- *Host machines actually* have [**IP**](#Internet-IP-Address) **addresses**, ==not domain names==.
+- *Host machines actually* have [[#Internet-IP-Address|**IP**]] **addresses**, ==not domain names==.
 - IP addresses have the form -> *255.255.255.255*
 - A series of *Domain Name Servers keep lists* which ==map domain names to IP addresses==.
 
@@ -304,8 +304,8 @@ graph TD
 
 ---
 # **Web Server**
-- A web server is a *computer system that processes requests via* [**HTTP**](#HTTP), ==the basic network protocol used to distribute information== *on [WWW](#WWW)*.
-- The *primary function* of a web server is to **store, process** and **deliver** *web pages to clients*. The *communication between client and server* takes place using the [HTTP](#HTTP). *Pages delivered are most frequently* [**HTML**](#html) **documents**, which ==may include images==, ==style sheets== and ==scripts in addition to text content==.
+- A web server is a *computer system that processes requests via* [[#HTTP|**HTTP**]], ==the basic network protocol used to distribute information== *on [[#WWW|WWW]]*.
+- The *primary function* of a web server is to **store, process** and **deliver** *web pages to clients*. The *communication between client and server* takes place using the [[#HTTP|HTTP]]. *Pages delivered are most frequently* [[#html|**HTML**]] **documents**, which ==may include images==, ==style sheets== and ==scripts in addition to text content==.
 - *Example–* Apache HTTP Server, Microsoft IIS, *etc.*
 
 ---
@@ -359,10 +359,10 @@ graph TD
 
 ---
 # **URL**
-- A **URL allows every resource** (ex- *HTML page, image, sound clip ,etc.*) on the [**WWW**](#WWW) ==to have a unique address==.
+- A **URL allows every resource** (ex- *HTML page, image, sound clip ,etc.*) on the [[#WWW|**WWW**]] ==to have a unique address==.
 - A *resource is used to represent basic elements* in the web which can be ==identified, named and addressed==.
 - *Resource on* the *web is identified by an address* called **Uniform Resource Locator**.
-- *Subset* of *[[URI|URI]]* (**Uniform Resource Identifier**).
+- *Subset* of *[[URI.md.md|URI]]* (**Uniform Resource Identifier**).
 
 ## **Parts of a URL**
 

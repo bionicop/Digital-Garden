@@ -5,10 +5,11 @@
   "table-editor-obsidian",
   "obsidian-markmind",
   "obsidian-enhancing-mindmap",
-  "wikilinks-to-mdlinks-obsidian",
   "obsidian-latex-suite",
   "obsidian-discordrpc",
-  "digitalgarden",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-regex-replace",
+  "wikilinks-to-mdlinks-obsidian",
+  "digitalgarden",
+  "obsidian-link-converter"
 ]

@@ -60,7 +60,7 @@ Block Quote - > Hello World!
 		[Some Heading](<#Some Heading>) [Here, you have to just add "<" at the start of your heading & this ">" at the end of your heading, & this is "Case-Insensitive" so you don't have to re-write your heading in lowercase good innit?]
 
 # Internal Links:
-[[Internal links|wikilinks]]
+[wikilinks](Internal%20links)
 
 # Image Links:
 ![TheCAT](Attachment/THEEEEECATTTT.png)

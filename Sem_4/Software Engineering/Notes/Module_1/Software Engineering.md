@@ -8,7 +8,7 @@ tags:
   - SE
 dg-publish: true
 ---
-<< [[Sem_4/Software Engineering/Notes/Module_1/m1_syllabus|Syllabus Module 1]] | [[2022-12-05_Software_Engineering|Software Engineering]] >>
+<< [[Sem_4/Software Engineering/Notes/Module_1/m1_syllabus.md.md|Syllabus Module 1]] | [[2022-12-05_Software_Engineering|Software Engineering]] >>
 
 # ❗❓ Info
 Course Name: Software Engineering
@@ -21,30 +21,30 @@ Tags: #Software_Engineering
 # 📑 Software Engineering
 
 ## 📃 Topics
-- [Introduction](#introduction)
-	- [What is software engineering?](#What%20is%20Software%20Engineering?>)
-- [is Software Engineering Art or Science?](<#is Software Engineering Art or Science?>)
-- [Program vs Products](<#Program vs Product>)
-- [Emergence of Software Engineering](<#Emergence of Software Engineering>)
-- [Software Devlopment Life Cycle Model](<#Software Devlopment Life Cycle Model>)
-	- [Classical Waterfall Model](<#Classical Waterfall Model>)
-		- [Phases of Waterfall Model](<#Phases of Waterfall Model>)
-		- [Advantages & Disadvantages of Classical Waterfall](<#Advantages & Disadvantages of Classical Waterfall>)
-	- [Iterative Waterfall Model](<#Iterative Waterfall Model>)
-		- [Process](<#Process>)
-		- [Advantages & Disadvantages of Iterative Waterfall](<#Advantages & Disadvantages of Iterative Waterfall>)
-	- [Prototyping Model](<#Prototyping Model>)
-		- [Life Cycle Activities of Prototyping Model](<#Life Cycle Activities of Prototyping Model>)
-	- [Evolutionary Model](<#Evolutionary Model>)
-		- [Application](<#Application>)
-		- [Advantages & Disadvantages of Evolutionary Model](<#Advantages & Disadvantages of Evolutionary Model>)
-	- [Spiral Model](<#Spiral Model>)
-		- [Function of Each Quadrant](<#Function of Each Quadrant>)
-		- [Risk Handling in Spiral Model](<#Risk Handling in Spiral Model>)
-		- [Why is it called a Meta Model?](<#Why is it called a Meta Model?>)
-		- [Advantages & Disadvantages of Spiral Model](<#Advantages & Disadvantages of Spiral Model>)
-	- [RAD Model](<#RAD Model>)
-		- [Phases](<#Phases>)
+- [[#introduction|Introduction]]
+	- [[#What is Software Engineering?>|What is software engineering?]]
+- [[<#is Software Engineering Art or Science?>]]
+- [[<#Program vs Product>]]
+- [[<#Emergence of Software Engineering>]]
+- [[<#Software Devlopment Life Cycle Model>]]
+	- [[<#Classical Waterfall Model>]]
+		- [[<#Phases of Waterfall Model>]]
+		- [[<#Advantages & Disadvantages of Classical Waterfall>]]
+	- [[<#Iterative Waterfall Model>]]
+		- [[<#Process>]]
+		- [[<#Advantages & Disadvantages of Iterative Waterfall>]]
+	- [[<#Prototyping Model>]]
+		- [[<#Life Cycle Activities of Prototyping Model>]]
+	- [[<#Evolutionary Model>]]
+		- [[<#Application>]]
+		- [[<#Advantages & Disadvantages of Evolutionary Model>]]
+	- [[<#Spiral Model>]]
+		- [[<#Function of Each Quadrant>]]
+		- [[<#Risk Handling in Spiral Model>]]
+		- [[<#Why is it called a Meta Model?>]]
+		- [[<#Advantages & Disadvantages of Spiral Model>]]
+	- [[<#RAD Model>]]
+		- [[<#Phases>]]
 
 ---
 # **Introduction**
@@ -190,7 +190,7 @@ Tags: #Software_Engineering
 	- A quick design is made through which a prototype is build and submitted to the customer for evaluation.
 	- Based on the feedback prototype is refined and improved till the customer is satisfied and approves the prototype.
 - #### **Iterative Development**
-	- Once prototype is approved the actual software is built using the [Iterative Waterfall](<#Iterative Waterfall Model>) approach.
+	- Once prototype is approved the actual software is built using the [[<#Iterative Waterfall Model>]] approach.
 
 ---
 ## **Evolutionary Model**

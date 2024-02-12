@@ -9,11 +9,11 @@ tags:
 dg-publish: true
 ---
 
-| [Software Engineering](Sem_4/Software%20Engineering/Notes/Module_1/Software%20Engineering.md) >>
+| [[Sem_4/Software Engineering/Notes/Module_1/Software Engineering.md.md|Software Engineering]] >>
 
 # Module 1
 ---
 # 📕 Syallbus
 
-##  #1 - [Software Engineering](Sem_4/Software%20Engineering/Notes/Module_1/Software%20Engineering.md)
-##  #2 - [Use Case Diagrams](Sem_4/Software%20Engineering/Notes/Module_1/Use%20Case%20Diagram.md) 
+##  #1 - [[Sem_4/Software Engineering/Notes/Module_1/Software Engineering.md.md|Software Engineering]]
+##  #2 - [[Sem_4/Software Engineering/Notes/Module_1/Use Case Diagram.md.md|Use Case Diagrams]] 

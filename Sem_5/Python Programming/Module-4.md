@@ -8,7 +8,7 @@ tags:
 dg-publish: true
 ---
 
-<< [Name](File_Directory) | [Name](File_Directory) >>
+<< [[File_Directory|Name]] | [[File_Directory|Name]] >>
 
 # ❗❓ Info
 Course Name: Python Programming

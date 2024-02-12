@@ -9,7 +9,7 @@ tags:
 dg-publish: true
 ---
 
-<< [DDS Syllabus](Sem_6/Distributed_Database_System/index.md) | [Module 2](Sem_6/Distributed_Database_System/Notes/Module_2.md) >>
+<< [[Sem_6/Distributed_Database_System/index.md.md|index]] | [[Sem_6/Distributed_Database_System/Notes/Module_2.md.md|Module_2]] >>
 
 # ❗❓ Info
 Course Name: Distributed Database System
@@ -20,7 +20,7 @@ Tags: #DDS #M1
 
 ---
 # 📃 Topics
-# Distributedazs Data Processing (DDP)
+# Distributed Data Processing (DDP)
 - DDP refers to a computing paradigm where *autonomous processing elements*, *interconnected by a computer network*, **collaborate to perform assigned tasks**. (*book language*`*`) 
 
 ```
@@ -45,3 +45,6 @@ DDP is a computing approach where *independent processing units*, connected thro
 *in short,*
 - DDP refers to the use of **multiple interconnected computers** (or nodes) **to work together on a task**. 
 - *Instead of relying on a single centralized system* to handle all the computing tasks, distributed data processing **involves breaking down the workload and distributing it across a network of machines**.
+
+
+# Distributed Database System (DDS)?

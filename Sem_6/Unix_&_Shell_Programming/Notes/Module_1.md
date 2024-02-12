@@ -10,7 +10,7 @@ tags:
 dg-publish: true
 ---
 
-<< [US Syllabus](Sem_6/Unix_&_Shell_Programming/index.md) | [Module 2](Sem_6/Unix_&_Shell_Programming/Notes/Module_2.md) >>
+<< [[Sem_6/Unix_&_Shell_Programming/index.md.md|US Syllabus]] | [[Sem_6/Unix_&_Shell_Programming/Notes/Module_2.md.md|Module 2]] >>
 
 # ❗❓ Info
 Course Name: Unix & Shell Programming

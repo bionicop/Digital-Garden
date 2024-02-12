@@ -1,6 +1,6 @@
 {
   "githubRepo": "garden_host",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "bionicop",
   "gardenBaseUrl": "https://bio-digital-garden.vercel.app/",
   "prHistory": [],
@@ -29,15 +29,15 @@
   "customFilters": [],
   "contentClassesKey": "dg-content-classes",
   "defaultNoteSettings": {
-    "dgHomeLink": true,
+    "dgHomeLink": false,
     "dgPassFrontmatter": false,
-    "dgShowBacklinks": false,
+    "dgShowBacklinks": true,
     "dgShowLocalGraph": true,
     "dgShowInlineTitle": false,
     "dgShowFileTree": false,
     "dgEnableSearch": true,
     "dgShowToc": false,
     "dgLinkPreview": true,
-    "dgShowTags": false
+    "dgShowTags": true
   }
 }
