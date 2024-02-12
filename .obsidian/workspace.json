@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "3ae0bdf1d61cc80e",
   "lastOpenFiles": [
+    "index.md",
     "Training_Prog/IoT_using_Python.md",
     "template/Syllabus.md",
     "template/Obsidian_Cheat_Sheet.md",
@@ -205,7 +206,6 @@
     "Sem_6/Data_Mining/Notes/Module_2.md",
     "Sem_6/Data_Mining/Notes/Module_1.md",
     "Sem_5/Software Testing/Mid-Sem-22.md",
-    "Sem_5/Software Testing/End-Sem-22.md",
     "Attachment/Software_Engineering/Pdf/Online_Banking_System.pdf",
     "Just Something I need to Work on",
     "Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf",

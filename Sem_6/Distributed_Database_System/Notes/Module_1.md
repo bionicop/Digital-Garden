@@ -46,5 +46,48 @@ DDP is a computing approach where *independent processing units*, connected thro
 - DDP refers to the use of **multiple interconnected computers** (or nodes) **to work together on a task**. 
 - *Instead of relying on a single centralized system* to handle all the computing tasks, distributed data processing **involves breaking down the workload and distributing it across a network of machines**.
 
+---
 
-# Distributed Database System (DDS)?
+# What is a Distributed Database System?
+- A distributed database is a collection of multiple, logically interrelated databases distributed over a computer network.
+- The distributed DBMS is a software that manages the distributed database, ensuring transparency to users.
+
+## DDBS Characteristics:
+- Not a mere "*collection of files*" individually stored at each network node.
+- Requires logical relations, structure, and common interface for files.
+- The physical distribution of data is significant, creating unique challenge not encountered in centralized systems.
+- Physical distribution doesn't necessarily imply geographic separation; it involves communication over a network instead of shared memory or disk.
+
+## Differences from Multiprocessor Systems:
+- Multiprocessor systems, even shared-nothing ones, are distinct from DDBS due to their symmetrical design and control by one operating system.
+- Database systems running over multiprocessors are termed *parallel database systems*, discussed separately.
+
+## Not a Single-Node Database System:
+- DDBS is *not a system* where the *database resides at only one network node*.
+- It involves an *environment where data are distributed among multiple sites*, **not managed centrally** *by a single computer system*.
+---
+
+# Promises of Distributed Database Systems (DDBSs)
+
+DDBS technology offers several promises that encompass various advantages and functionalities:
+
+## 1. Transparent Management of Distributed and Replicated Data
+- Transparency involves hiding implementation details from users, facilitating the development of complex applications.
+- Fully transparent access allows users to query data without concerning themselves with fragmentation, location, or replication details.
+- Transparencies include:
+  - **Data Independence:** User applications remain immune to changes in the logical or physical structure of the database.
+  - **Network Transparency:** Users are shielded from network operational details, ensuring uniform access to services.
+  - **Replication Transparency:** Users are unaware of data replicas, simplifying query execution.
+  - **Fragmentation Transparency:** Users are abstracted from the fragmented nature of data storage, simplifying query processing.
+
+## 2. Reliability Through Distributed Transactions
+- Distributed DBMSs enhance reliability by eliminating single points of failure through replicated components.
+- Support for distributed transactions ensures database consistency, even during concurrent execution and system failures.
+
+## 3. Improved Performance
+- Distributed DBMSs fragment databases, enabling data storage close to points of use, thereby reducing contention and remote access delays.
+- The inherent parallelism of distributed systems allows for inter-query and intra-query parallelism, further enhancing performance.
+
+## 4. Easier System Expansion
+- Accommodating increasing database sizes in a distributed environment is easier, typically requiring additions of processing and storage power to the network.
+- Economically, distributed systems composed of smaller computers often offer better cost-effectiveness compared to centralized systems.
