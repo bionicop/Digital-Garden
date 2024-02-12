@@ -1,13 +1,10 @@
 ---
 creation date: 2023-10-15 16:35
 modification date: Sunday 15th October 2023
-aliases:
-  - Tuples, Sets, and Dictionaries
-tags:
-  - Python
+aliases: Tuples, Sets, and Dictionaries
+tags: Python
 dg-publish: true
 ---
-
 << [Name](File_Directory) | [Name](File_Directory) >>
 
 # ❗❓ Info

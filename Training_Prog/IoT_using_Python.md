@@ -1,13 +1,10 @@
 ---
 creation date: 2023-07-17 14:10
 modification date: Monday 17th July 2023
-aliases:
-  - IOT Using Python
-tags:
-  - IOT_using_python
+aliases: IOT Using Python
+tags: IOT_using_python
 dg-publish: true
 ---
-
 # ❗❓ Info
 Course Name: IoT using Python
 Course Day's Done: 4
@@ -84,13 +81,13 @@ gnd - Ground Connection
 ## Application of IoT using Python
 
 ### **Python**
-- Python has a similar suntax to the English Language.
-- It has syntax that allows developers to write program with fewer lines.
+- Python has a similar suntax to the English Lanugage.
+- It has syntax that allows devlopers to write program with fewer lines.
 - It runs on interpereter system.
 - Procedural, Object-Oriented & Procedural.
 -  It is used for:
-	- Web Development (Server Side)
-	- Software Development
+	- Web Devlopment (Server Side)
+	- Software Devlopment
 	- Mathematics
 	- System Scripting
 	- Python can connect to database. It can also read and modify files.

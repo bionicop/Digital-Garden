@@ -9,7 +9,7 @@ tags:
 dg-publish: true
 ---
 
-<< [Module 2](Sem_6/Distributed_Database_System/Notes/Module_2.md.md)  | [Module 4](Sem_6/Distributed_Database_System/Notes/Module_4.md.md) >>
+<< [Module 2](Sem_6/Distributed_Database_System/Notes/Module_2.md)  | [Module 4](Sem_6/Distributed_Database_System/Notes/Module_4.md) >>
 
 # ❗❓ Info
 Course Name: Distributed Database System

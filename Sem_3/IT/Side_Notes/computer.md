@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+--- 
 ---
 - A **computer** is an electronic device that manipulates information, or data. It has the ability to **store**, **retrieve**, and **process** data. 
 

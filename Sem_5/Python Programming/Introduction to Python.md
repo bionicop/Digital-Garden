@@ -1,10 +1,8 @@
 ---
 creation date: 2023-08-19 19:02
 modification date: Saturday 19th August 2023
-aliases:
-  - Introduction to Python
-tags:
-  - Python
+aliases: Introduction to Python
+tags: Python
 dg-publish: true
 ---
 # ❗❓ Info

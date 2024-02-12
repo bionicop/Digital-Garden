@@ -1,4 +1,6 @@
-
+---
+dg-publish: true
+---
 # Headings:
 ```
 # H1
@@ -60,7 +62,7 @@ Block Quote - > Hello World!
 		[Some Heading](<#Some Heading>) [Here, you have to just add "<" at the start of your heading & this ">" at the end of your heading, & this is "Case-Insensitive" so you don't have to re-write your heading in lowercase good innit?]
 
 # Internal Links:
-[wikilinks](Internal%20links)
+[[Internal links|wikilinks]]
 
 # Image Links:
 ![TheCAT](Attachment/THEEEEECATTTT.png)

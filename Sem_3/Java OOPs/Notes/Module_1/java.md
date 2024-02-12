@@ -2,16 +2,16 @@
 dg-publish: true
 ---
 # **What is Java?**
-- It is a **high level**, **robust**, **object-oriented** and secure programing language.
+- It is a **high level**, **robust**, **object-oriented** and secure programing lanugage.
 - Developed by Sun Micro systems in 1995. James Gosling is know as father of Java.
 - Since Java has it's own JRE(Java Runtime Environment), it also acts like a platform.
 
 # **Application of Java**
 - There are mainly four types of application that can be made using Java-
 	1. **Stand-alone applications** 
-		- These are normal desk applications, and they don't need OS to run.
+		- These are normal desk applicaitons, and they don't need OS to run.
 		- *Example-* Media Player, Anti-Virus, *etc*.
-	2. **Web Applications**
+	2. **Web Applicaitons**
 		- It is a server side application which creates a dynamic webpage. 
 		- *Example-* E-mail, Wikipidea, *etc*.
 	3. **Enterprise Application**

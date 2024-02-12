@@ -1,7 +1,7 @@
 {
   "findText": "%20",
   "replaceText": " ",
-  "useRegEx": true,
+  "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": false,

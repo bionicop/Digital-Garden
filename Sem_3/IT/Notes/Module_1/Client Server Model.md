@@ -1,15 +1,11 @@
 ---
 creation date: 2022-09-17 16:16
 modification date: Saturday 17th September 2022
-aliases:
-  - Internet Technologies
-tags:
-  - Internet_Technologies
-  - Client_Server_Model
+aliases: Internet Technologies
+tags: Internet_Technologies,Client_Server_Model
 dg-publish: true
 ---
-
-<< [Internet Basics](Sem_3/IT/Notes/Module_1/Internet%20Basics.md.md) |
+<< [Internet Basics](Sem_3/IT/Notes/Module_1/Internet%20Basics.md) |
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -25,7 +21,7 @@ Tags: #Internet_Technologies
 - [**Client Server Model**](#client-server-model)
 	- [**Type of Servers**](#type-of-servers)
 - [**Protocol**](#protocol)
-	- [**Standard Protocols** *(Note- have to check this later|[Note- have to check this later](#standard-protocols-note--have-to-check-this-later)*)
+	- [**Standard Protocols** *(Note- have to check this later)*](#standard-protocols-note--have-to-check-this-later)
 	- [**Types of Protocol**](#types-of-protocol)
 		- [**SMTP**](#smtp)
 		- [**POP**](#pop)
@@ -137,7 +133,7 @@ graph TD
 
 ## **Packets**
 - In order to *transfer* the ==files fast and efficiently manner over the network== and ==minimize the transmission latency==, the *data is broken down into small pieces* of ==variable length==, called **Packet**.
-- Each *packet receives a header* containing the ==destination IP address, the sender’s IP address, the total number of packets that make up a message, and the sequence number of that packet==.
+- Each *packet recieves a header* containing the ==destination IP address, the sender’s IP address, the total number of packets that make up a message, and the sequence number of that packet==.
 
 ## **Switching**
 - Since the *packets are individually addressed, and numbered for sequence*, they can be *sent and received* in **any order**. This means that *packets can be switched* to **different routes** to *get to the destinations*, ==according to network traffic==.
@@ -274,7 +270,7 @@ graph TD
 ```
 ## **Gopher Service**
 - Internet Gopher Protocol ==acts as distributed document delivery system==.
-- Gopher Client software presents users with a *hierarchy of items and directories like a file system*.
+- Gopher Client software presents users with a *heirarchy of items and directories like a file system*.
 ## **Instant Messaging**
 - *Enables to create* a **private chat room** *with another individual*.
 ## **Internet Relay Chat**
@@ -324,7 +320,7 @@ graph TD
 - Web page information is presented using the following technologies.
 	- HTML
 	- JSP (Java Server Page)
-	- Javascript
+	- Javasript
 	- ASP (Active Server Page)
 	- Java Applets
 - *Plug-in* **Hardware** or **Software module** that *adds a specific feature or service to a larger system*.
@@ -362,7 +358,7 @@ graph TD
 - A **URL allows every resource** (ex- *HTML page, image, sound clip ,etc.*) on the [**WWW**](#WWW) ==to have a unique address==.
 - A *resource is used to represent basic elements* in the web which can be ==identified, named and addressed==.
 - *Resource on* the *web is identified by an address* called **Uniform Resource Locator**.
-- *Subset* of *[URI](URI.md.md)* (**Uniform Resource Identifier**).
+- *Subset* of *[[URI|URI]]* (**Uniform Resource Identifier**).
 
 ## **Parts of a URL**
 

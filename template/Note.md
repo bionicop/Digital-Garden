@@ -1,10 +1,10 @@
 ---
 creation date: <% tp.file.creation_date() %>
 modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY") %>
-aliases: [] 
+aliases: 
 tags: 
+dg-publish: false
 ---
-
 << [Name](File_Directory) | [Name](File_Directory) >>
 
 # ❗❓ Info

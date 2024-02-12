@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 ---
-
 *I will keep updating as I get to know more...* ;)''
 
 ### **Strength training:**

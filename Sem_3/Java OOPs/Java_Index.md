@@ -3,8 +3,8 @@ dg-publish: true
 ---
 # Java OOPs
 
-- ## [Module 1](Sem_3/Java%20OOPs/Notes/Module_1/m1_syllabus.md.md)
+- ## [Module 1](Sem_3/Java%20OOPs/Notes/Module_1/m1_syllabus.md)
 
 # Question Bank
 
-- ## [QuestionBank1](QuestionBank/QuestionBank1.md.md)
+- ## [Question Bank 1](QuestionBank/QuestionBank1.md)

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # **Q1. (a) Define horizontal as well as vertical retracing?**
 
 - **Horizontal retracing:** At the end of each scan line, the electron beam returns rapidly to the left side to begin scanning the next line. This return motion is called horizontal retrace. 

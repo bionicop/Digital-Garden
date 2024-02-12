@@ -1,14 +1,11 @@
 ---
 creation date: 2022-10-15 15:07
 modification date: Saturday 15th October 2022
-aliases:
-  - Internet Technologies
-tags:
-  - Internet_Technologies
-  - XML
+aliases: Internet Technologies
+tags: Internet_Technologies,XML
 dg-publish: true
 ---
-<< [Syllabus Module 3](Sem_3/IT/Notes/Module_3/m3_syllabus.md.md) |
+<< [Syllabus Module 3](Sem_3/IT/Notes/Module_3/m3_syllabus.md) |
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -21,48 +18,48 @@ Tags: #Internet_Technologies  #XML
 # 📑 XML
 
 ## 📃 Topics
-- [](<#XML>)
-	- [](<#XML%20vs%20HTML>)
-	- [](<#XML%20Structure>)
-		- [](<#XML Syntax>)
-		- [](<#Prolog>)
-		- [](<#Body>)
-	- [](<#Well%20Formed>)
-		- [](<#XML%20Rules>)
-	- [](<#XML%20Example>)
-	- [](<#XML%20Declaration>)
-	- [](<#XML%20Element>)
-	- [](<#Naming%20Rules>)
-	- [](<#Empty%20Elements>)
-	- [](<#XML%20Attributes>)
-	- [](<#Parsing>)
-	- [](<#XML%20Special%20Characters>)
-	- [](<#Elements%20vs%20Attributes>)
-	- [](<#Displaying%20XML>)
-	- [](<#XML%20Namespaces>)
-		- [](<#xmlns%20Attribute>)
-	- [](<#XML%20Schema%20Languages>)
-	- [](<#XML%20Validation>)
-- [](<#DTD>)
-	- [](<#Internal%20DTD>)
-	- [](<#External%20DTD>)
-	- [](<#Declaring%20Elements%20in%20DTD>)
-	- [](<#XML%20CDATA%20Sections>)
-		- [](<#CDATA%20Rules>)
-	- [](<#PCDATA>)
-	- [](<#DTD%20Attributes>)
-	- [](<#Entities>)
-	- [](<#DTD%20Mixed%20Content>)
-	- [](<#XML%20DOM>)
-		- [](<#XML%20DOM%20Nodes>)
-		- [](<#XML%20Nodes%20Types>)
-		- [](<#Node%20Parents,%20Children,%20and%20Siblings>)
-	- [](<#First%20Child%20%5C&%20Last%20Child>)
-		- [](<#Accessing%20Nodes>)
-	- [](<#JAVA%20and%20DOM>)
+- [XML](<#XML>)
+	- [XML vs HTML](<#XML vs HTML>)
+	- [XML Structure](<#XML Structure>)
+		- [XML Syntax](<#XML Syntax>)
+		- [Prolog](<#Prolog>)
+		- [Body](<#Body>)
+	- [Well Formed](<#Well Formed>)
+		- [XML Rules](<#XML Rules>)
+	- [XML Example](<#XML Example>)
+	- [XML Declaration](<#XML Declaration>)
+	- [XML Element](<#XML Element>)
+	- [Naming Rules](<#Naming Rules>)
+	- [Empty Elements](<#Empty Elements>)
+	- [XML Attributes](<#XML Attributes>)
+	- [Parsing](<#Parsing>)
+	- [XML Special Characters](<#XML Special Characters>)
+	- [Elements vs Attributes](<#Elements vs Attributes>)
+	- [Displaying XML](<#Displaying XML>)
+	- [XML Namespaces](<#XML Namespaces>)
+		- [xmlns Attribute](<#xmlns Attribute>)
+	- [XML Schema Languages](<#XML Schema Languages>)
+	- [XML Validation](<#XML Validation>)
+- [DTD](<#DTD>)
+	- [Internal DTD](<#Internal DTD>)
+	- [External DTD](<#External DTD>)
+	- [Declaring Elements in DTD](<#Declaring Elements in DTD>)
+	- [XML CDATA Sections](<#XML CDATA Sections>)
+		- [CDATA Rules](<#CDATA Rules>)
+	- [PCDATA](<#PCDATA>)
+	- [DTD Attributes](<#DTD Attributes>)
+	- [Entities](<#Entities>)
+	- [DTD Mixed Content](<#DTD Mixed Content>)
+	- [XML DOM](<#XML DOM>)
+		- [XML DOM Nodes](<#XML DOM Nodes>)
+		- [XML Nodes Types](<#XML Nodes Types>)
+		- [Node Parents, Children, and Siblings](<#Node Parents, Children, and Siblings>)
+	- [First Child \& Last Child](<#First Child \& Last Child>)
+		- [Accessing Nodes](<#Accessing Nodes>)
+	- [JAVA and DOM](<#JAVA and DOM>)
 ---
 # **XML**
-- XML *stands for* **[eXtensible Markup Language](Sem_3/IT/Side_Notes/xml.md.md)**.
+- XML *stands for* **[[Sem_3/IT/Side_Notes/xml|eXtensible Markup Language]]**.
 - XML is a **markup language** much like HTML.
 - XML was designed to **store** and **transport data**.
 - a software and hardware independent way of storing, transporting, and sharing data.
@@ -239,7 +236,7 @@ graph TD
 ## **XML Namespaces**
 - A Namespace is a **set of unique names**. 
 - Namespace is a mechanisms by which *element and attribute* ==name can be assigned to a group==. 
-- The Namespace *is identified by [URI](URI.md.md)* (**Uniform Resource Identifier**).
+- The Namespace *is identified by [[URI|URI]]* (**Uniform Resource Identifier**).
 - *In short*: XML Namespaces provide a method to **avoid element name conflicts**.
 - Syntax:
 ```xml
@@ -464,7 +461,7 @@ graph TD
 | **Symbol** 	    | **Meaning**                                                      	    |
 |------------	|------------------------------------------------------------------	|
 | ,          	| _Determines the sequence_ in which **elements must appear**.     	    |
-| +          	| Requires that **at least one instance** of _element be included_. 	    |
+| +          	| Requires that **atleast one instance** of _element be included_. 	    |
 | ?          	| Allows **zero or one instance** of _an element_.                 	    |
 | *          	| Allows **zero or more instance** of _an element_.                	    |
 | !          	| Allows _one element_ from **group of elements to be included**.  	    |

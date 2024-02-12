@@ -1,13 +1,12 @@
 ---
 creation date: 2022-09-20
 modification date: Wednesday 21st September 2022
-aliases: 
-tags:
-  - QuestionBank
+aliases: null
+tags: QuestionBank
 dg-publish: true
 ---
 
-<< [QuestionBank1](Sem_3/Java%20OOPs/QuestionBank/QuestionBank1.md.md) | [2022-09-22.md](2022-09-22.md) >>
+<< [[Sem_3/Java OOPs/QuestionBank/QuestionBank1]] | [[2022-09-22.md]] >>
 
 # ❗❓ Info
 Course Name: 
@@ -19,17 +18,17 @@ Tags: #QuestionBank
 # 📑 H/W
 
 ## 📃 Topics
-1. [](<#1>)
-2. [](<#2>)
-3. [](<#3>)
-4. [Is Java platform-indipendent? (comment onto it|[comment onto it](#4))
-5. [Java Program Syntax. (With Explanation.|[With Explanation.](#5))
+1. [Explain Java Features.](<#1>)
+2. [Explain JVM.](<#2>)
+3. [What is Byte Code.](<#3>)
+4. [Is Java platform-indipendent? (comment onto it)](#4)
+5. [Java Program Syntax. (With Explanation.)](#5)
 6. [Discuss Structure of Java Program.](#6)
-7. [Differnet types of Java Tokens. (With Examples.|[With Examples.](#7))
+7. [Differnet types of Java Tokens. (With Examples.)](#7)
 8. [Differnece between Primitive vs Reference Data Types.](#8)
 9. [Exaplin Differnet Data Types in Java.](#9)
 10. [Differnece between Primitive vs Refernce Data Types.](#10)
-11. [How do you declare constants in Java. (With Examples.|[With Examples.](#11))
+11. [How do you declare constants in Java. (With Examples.)](#11)
 12. [How we declare and create Arrays.](#12)
 13. [Write a Program in Java to perform following :-](#13)
 	i) [Linear searching of an element in an array of Size 'a'.](#13.1)
@@ -39,7 +38,7 @@ Tags: #QuestionBank
 	i) [Break and continue Statment.](#14.1)
 	ii) [Labelled & Unlabelled break Statment.](#14.2)
 	iii) [Switch Case & If Else Ladder.](#14.3)
-	iv) [All Loops. (with Syntax & Examples.|[with Syntax & Examples.](#14.4))
+	iv) [All Loops. (with Syntax & Examples.)](#14.4)
 15. [Multi-Dimentional Array](#15)
 16. [Write a Program of a 2D Array to find the Row MAX & Column MAX.](#16)
 17. [Bit-wsie Operators](#17)
@@ -47,7 +46,7 @@ Tags: #QuestionBank
 	1. [Method Overlapping.](#18.1)
 	2. [How do we create methods? How many ways can a arguments be passed to methods in Java?](#18.2)
 	3. [Differnece between Class & Objects.](#18.3)
-	4. [Scope of variables (Instance local stataic|[Instance local stataic](#18.4).)
+	4. [Scope of variables (Instance local stataic).](#18.4)
 	5. [How to create Enum in Java](#18.5)
 
 
@@ -73,8 +72,8 @@ Tags: #QuestionBank
 		  - *Everything in Java* is an **object**. 
 		  - Object-oriented means *we organize our software* as a ==combination of different types of objects that incorporate both data and behavior==.
 			  - Basic concepts of OOPs are:
-				  1. [](Sem_3/Java%20OOPs/Notes/Module_1/Object_Oriented_Programming.md.md#^edbd1a|Object)
-				  1. [](Sem_3/Java%20OOPs/Notes/Module_1/Object_Oriented_Programming.md.md#^3ccd44|Class)
+				  1. [[Sem_3/Java OOPs/Notes/Module_1/Object_Oriented_Programming#^edbd1a|Object]]
+				  1. [[Sem_3/Java OOPs/Notes/Module_1/Object_Oriented_Programming#^3ccd44|Class]]
 				  2. Inheritance
 				  3. Polymorphism
 				  4. Abstraction

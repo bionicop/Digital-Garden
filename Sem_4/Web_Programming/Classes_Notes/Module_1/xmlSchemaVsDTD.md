@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 |                                                           **XML Schema:**                                                          	|                                       **DTD (Document Type Definition):**                                      	|
 |:----------------------------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------------:	|
 | XML Schema is a more modern and powerful way to define the structure and constraints of an XML document.                           	| DTD is an older and simpler way to define the structure and constraints of an XML document.                    	|

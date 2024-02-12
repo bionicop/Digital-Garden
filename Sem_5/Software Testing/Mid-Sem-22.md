@@ -38,7 +38,7 @@ The levels of software testing are:
 
 Boundary Value Analysis (BVA) - Testing boundary values of valid partitions.
 
-Equivalence Class Testing (Etc) - Dividing valid input range into classes, selecting one test case from each class.
+Equivalence Class Testing (ECT) - Dividing valid input range into classes, selecting one test case from each class.
 
 # **Q3 (b) Discuss the significance of Decision Table in Testing.** 
 

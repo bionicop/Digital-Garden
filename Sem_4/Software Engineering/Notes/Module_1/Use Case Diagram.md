@@ -9,4 +9,4 @@ dg-publish: true
 3. Draw use case diagram for online railway reservation system.
 - [Ans](./../../../../Attachment/Software_Engineering/Pdf/Online_Railway_Reservation_System.pdf)
 4. Draw use case diagram for employee information system.
-- [Online_Hotel_Management_System](./../../../../Attachment/Software_Engineering/Pdf/Online_Hotel_Management_System.pdf)
+- [Ans](./../../../../Attachment/Software_Engineering/Pdf/Online_Hotel_Management_System.pdf)
