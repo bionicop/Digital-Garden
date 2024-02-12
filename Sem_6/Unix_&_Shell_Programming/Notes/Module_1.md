@@ -5,7 +5,7 @@ aliases: Unix & Shell Programming
 tags: Unix-n-Shell,US,M1
 dg-publish: true
 ---
-<< [US Syllabus](Sem_6/Unix_&_Shell_Programming/index.md) | [Module 2](Sem_6/Unix_&_Shell_Programming/Notes/Module_2.md) >>
+<< [index](../index.md) | [Module_2](Module_2.md) >>
 
 # ❗❓ Info
 Course Name: Unix & Shell Programming

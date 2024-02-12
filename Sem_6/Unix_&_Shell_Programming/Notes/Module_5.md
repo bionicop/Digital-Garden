@@ -5,7 +5,7 @@ aliases: Unix & Shell Programming
 tags: Unix-n-Shell,M5
 dg-publish: true
 ---
-<< [Module 4](Sem_6/Unix_&_Shell_Programming/Notes/Module_4.md)  | 
+<< [Module 4](Module_4.md)  | 
 
 # ❗❓ Info
 Course Name: Unix & Shell Programming

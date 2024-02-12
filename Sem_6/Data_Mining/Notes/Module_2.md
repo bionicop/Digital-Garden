@@ -5,7 +5,7 @@ aliases: Data Mining
 tags: DM,M2
 dg-publish: true
 ---
-<< [Module 1](Sem_6/Data_Mining/Notes/Module_1.md)  | [Module 3](Sem_6/Data_Mining/Notes/Module_3.md) >>
+<< [Module 1](Module_1.md)  | [Module 3](Module_3.md) >>
 
 # ❗❓ Info
 Course Name: Data Mining

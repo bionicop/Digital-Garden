@@ -5,7 +5,7 @@ aliases: Distributed Computing
 tags: DC,M1
 dg-publish: true
 ---
-<< [DC Syllabus](Sem_6/Distributed_Computing/index.md) | [Module 2](Sem_6/Distributed_Computing/Notes/Module_2.md) >>
+<< [index](../index.md) | [Module_2](Module_2.md) >>
 
 # ❗❓ Info
 Course Name: Distributed Computing

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98c3d4efc94691fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem_6/Unix_&_Shell_Programming/Notes/Module_5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
+                "file": "Sem_6/Unix_&_Shell_Programming/Notes/Module_5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
+                "file": "Sem_6/Unix_&_Shell_Programming/Notes/Module_5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md"
+                "file": "Sem_6/Unix_&_Shell_Programming/Notes/Module_5.md"
               }
             }
           },
@@ -177,35 +190,35 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3ae0bdf1d61cc80e",
+  "active": "98c3d4efc94691fe",
   "lastOpenFiles": [
-    "Sem_6/Distributed_Database_System/index.md",
-    "Sem_6/Distributed_Database_System/Notes/Module_1.md",
-    "index.md",
-    "Sem_6/Distributed_Database_System/Notes/Module_2.md",
+    "Sem_6/Distributed_Database_System/Notes/Module_5.md",
+    "Sem_6/Unix_&_Shell_Programming/Notes/Module_4.md",
+    "Sem_6/Distributed_Database_System/Notes/Module_4.md",
     "Sem_6/Distributed_Database_System/Notes/Module_3.md",
+    "Sem_6/Unix_&_Shell_Programming/Notes/Module_3.md",
+    "Sem_6/Distributed_Database_System/Notes/Module_2.md",
+    "Sem_6/Unix_&_Shell_Programming/Notes/Module_2.md",
+    "Sem_6/Unix_&_Shell_Programming/Notes/Module_1.md",
+    "Sem_6/Distributed_Database_System/Notes/Module_1.md",
+    "Sem_6/Data_Mining/Notes/Module_5.md",
+    "Sem_6/Data_Mining/Notes/Module_4.md",
+    "Sem_6/Data_Mining/Notes/Module_3.md",
+    "Sem_6/Data_Mining/Notes/Module_2.md",
+    "Sem_6/Data_Mining/Notes/Module_1.md",
+    "Sem_6/Distributed_Computing/Notes/Module_1.md",
+    "Sem_6/Distributed_Computing/Notes/Module_2.md",
+    "Sem_6/Distributed_Computing/Notes/Module_3.md",
+    "Sem_6/Distributed_Computing/Notes/Module_4.md",
+    "Sem_6/Distributed_Computing/Notes/Module_5.md",
+    "Sem_6/Distributed_Database_System/index.md",
+    "index.md",
     "Sem_6/Distributed_Computing/index.md",
     "Training_Prog/IoT_using_Python.md",
     "template/Syllabus.md",
     "template/Obsidian_Cheat_Sheet.md",
     "template/Note.md",
-    "Sem_6/Unix_&_Shell_Programming/index.md",
     "Sem_6/Unix_&_Shell_Programming/Quiz/Unix Quiz 2.pdf",
-    "Sem_6/Unix_&_Shell_Programming/Notes/Module_5.md",
-    "Sem_6/Unix_&_Shell_Programming/Notes/Module_4.md",
-    "Sem_6/Unix_&_Shell_Programming/Notes/Module_3.md",
-    "Sem_6/Unix_&_Shell_Programming/Notes/Module_2.md",
-    "Sem_6/Unix_&_Shell_Programming/Notes/Module_1.md",
-    "Sem_6/Distributed_Computing/Notes/Module_5.md",
-    "Sem_6/Distributed_Computing/Notes/Module_4.md",
-    "Sem_6/Distributed_Computing/Notes/Module_3.md",
-    "Sem_6/Distributed_Computing/Notes/Module_2.md",
-    "Sem_6/Distributed_Computing/Notes/Module_1.md",
-    "Sem_6/Data_Mining/index.md",
-    "Sem_6/Data_Mining/Notes/Module_5.md",
-    "Sem_6/Data_Mining/Notes/Module_4.md",
-    "Sem_6/Data_Mining/Notes/Module_3.md",
-    "Sem_6/Data_Mining/Notes/Module_2.md",
     "Attachment/Software_Engineering/Pdf/Online_Banking_System.pdf",
     "Just Something I need to Work on",
     "Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf",

@@ -8,8 +8,7 @@ tags:
   - M1
 dg-publish: true
 ---
-
-<< [index](../index.md) | [Module_2](Sem_6/Distributed_Database_System/Notes/Module_2.md) >>
+<< [index](../index.md) | [Module_2](Module_2.md) >>
 
 # ❗❓ Info
 Course Name: Distributed Database System
