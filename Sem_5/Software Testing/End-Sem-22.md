@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Q1 (a) Define Testing
 
 - Testing is the process of evaluating a system or its components with the intent to find whether it satisfies the specified requirements or not.

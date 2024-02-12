@@ -5,6 +5,7 @@ aliases:
   - Introduction to Python
 tags:
   - Python
+dg-publish: true
 ---
 # ❗❓ Info
 Course Name: Python Programming

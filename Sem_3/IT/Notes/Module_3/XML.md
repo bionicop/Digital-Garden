@@ -1,10 +1,12 @@
 ---
 creation date: 2022-10-15 15:07
 modification date: Saturday 15th October 2022
-aliases: [Internet Technologies] 
-tags: 
-- Internet_Technologies
-- XML
+aliases:
+  - Internet Technologies
+tags:
+  - Internet_Technologies
+  - XML
+dg-publish: true
 ---
 << [Syllabus Module 3](Sem_3/IT/Notes/Module_3/m3_syllabus.md) |
 
@@ -462,7 +464,7 @@ graph TD
 | **Symbol** 	    | **Meaning**                                                      	    |
 |------------	|------------------------------------------------------------------	|
 | ,          	| _Determines the sequence_ in which **elements must appear**.     	    |
-| +          	| Requires that **atleast one instance** of _element be included_. 	    |
+| +          	| Requires that **at least one instance** of _element be included_. 	    |
 | ?          	| Allows **zero or one instance** of _an element_.                 	    |
 | *          	| Allows **zero or more instance** of _an element_.                	    |
 | !          	| Allows _one element_ from **group of elements to be included**.  	    |

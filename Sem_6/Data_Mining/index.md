@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Data Mining
 
 - ## [Module 1](Notes/Module_1.md)

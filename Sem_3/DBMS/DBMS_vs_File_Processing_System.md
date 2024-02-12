@@ -1,8 +1,11 @@
 ---
 creation date: 2022-11-12 23:07
 modification date: Saturday 12th November 2022
-aliases: [DBMS] 
-tags: DBMS
+aliases:
+  - DBMS
+tags:
+  - DBMS
+dg-publish: true
 ---
 # ❗❓ Info
 Course Name: DBMS

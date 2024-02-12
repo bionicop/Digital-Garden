@@ -6,6 +6,7 @@ aliases:
 tags:
   - Unix-n-Shell
   - M2
+dg-publish: true
 ---
 
 << [Module 1](Sem_6/Unix_&_Shell_Programming/Notes/Module_1.md)  | [Module 3](Sem_6/Unix_&_Shell_Programming/Notes/Module_3.md) >>

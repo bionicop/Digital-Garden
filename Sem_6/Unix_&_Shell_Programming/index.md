@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Unix & Shell Programming
 
 - ## [Module 1](Notes/Module_1.md)

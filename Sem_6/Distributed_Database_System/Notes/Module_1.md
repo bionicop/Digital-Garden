@@ -6,6 +6,7 @@ aliases:
 tags:
   - DDS
   - M1
+dg-publish: true
 ---
 
 << [DDS Syllabus](Sem_6/Distributed_Database_System/index.md) | [Module 2](Sem_6/Distributed_Database_System/Notes/Module_2.md) >>
@@ -19,7 +20,7 @@ Tags: #DDS #M1
 
 ---
 # 📃 Topics
-# Distributed Data Processing (DDP)
+# Distributedazs Data Processing (DDP)
 - DDP refers to a computing paradigm where *autonomous processing elements*, *interconnected by a computer network*, **collaborate to perform assigned tasks**. (*book language*`*`) 
 
 ```

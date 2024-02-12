@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Psychology of Testing
 - Type of testing which depends on the psychology & mindset of developers & tester.
 - Goal is to ensure that testing process is impartial, unbiased, & focus on identifying issues with the software.

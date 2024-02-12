@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # **Q1 (a) Define the term Testing. What are the objectives of Software Testing?**
 
 - **Testing**: Process of *evaluating a software application* to **identify and fix defects or issues** before it is deployed for actual use.
@@ -35,7 +38,7 @@ The levels of software testing are:
 
 Boundary Value Analysis (BVA) - Testing boundary values of valid partitions.
 
-Equivalence Class Testing (ECT) - Dividing valid input range into classes, selecting one test case from each class.
+Equivalence Class Testing (Etc) - Dividing valid input range into classes, selecting one test case from each class.
 
 # **Q3 (b) Discuss the significance of Decision Table in Testing.** 
 

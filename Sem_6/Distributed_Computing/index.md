@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Distributed Computing
 
 - ## [Module 1](Notes/Module_1.md)

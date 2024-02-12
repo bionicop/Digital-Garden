@@ -6,6 +6,7 @@ aliases:
 tags:
   - DC
   - M2
+dg-publish: true
 ---
 
 << [Module 1](Sem_6/Distributed_Computing/Notes/Module_1.md)  | [Module 3](Sem_6/Distributed_Computing/Notes/Module_3.md) >>

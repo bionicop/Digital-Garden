@@ -6,6 +6,7 @@ aliases:
 tags:
   - DDS
   - M5
+dg-publish: true
 ---
 
 << [Module 4](Sem_6/Distributed_Database_System/Notes/Module_4.md)  | 

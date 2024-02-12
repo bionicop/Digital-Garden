@@ -5,6 +5,7 @@ aliases:
   - Fundamentals of Computer Algorithms
 tags:
   - FoCA
+dg-publish: true
 ---
 
 ---
@@ -59,7 +60,7 @@ graph TD
 			- c = constant
 			- c > 0
 			- n<sub>0</sub> >= 1
-			- Therfore, f(n) = Ω(g(n))
+			- Therefore, f(n) = Ω(g(n))
 		- **Big-Theta Notation (Θ)**
 			- Theta notation encloses the fundtion f(n) from above and below, It represents both upper and lower bound of the running time of an algorithm.
 			- It is used to analyze the average case complexity of an algorithm.
@@ -68,7 +69,7 @@ graph TD
 			- c<sub>1</sub>, c<sub>2</sub> = constant
 			- c<sub>1</sub>, c<sub>2</sub> > 0
 			- n<sub>0</sub> >= 1
-			- Therfore, f(n) = Θ(g(n))
+			- Therefore, f(n) = Θ(g(n))
 
 ---
 # **Master Theorem**

@@ -6,6 +6,7 @@ aliases:
 tags:
   - DM
   - M2
+dg-publish: true
 ---
 
 << [Module 1](Sem_6/Data_Mining/Notes/Module_1.md)  | [Module 3](Sem_6/Data_Mining/Notes/Module_3.md) >>

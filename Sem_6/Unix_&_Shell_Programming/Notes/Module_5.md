@@ -6,6 +6,7 @@ aliases:
 tags:
   - Unix-n-Shell
   - M5
+dg-publish: true
 ---
 
 << [Module 4](Sem_6/Unix_&_Shell_Programming/Notes/Module_4.md)  | 

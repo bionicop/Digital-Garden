@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # **1. Is Python case sensitive?**
 
 Yes, Python is case sensitive.

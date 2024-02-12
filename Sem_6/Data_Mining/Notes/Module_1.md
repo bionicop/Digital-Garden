@@ -6,6 +6,7 @@ aliases:
 tags:
   - DM
   - M1
+dg-publish: true
 ---
 
 << [DM Syllabus](Sem_6/Data_Mining/index.md) | [Module 2](Sem_6/Data_Mining/Notes/Module_2.md) >>

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # **Use Case Diagram**
 1. Draw use case diagram for online banking system.
 - [Ans](./../../../../Attachment/Software_Engineering/Pdf/Online_Banking_System.pdf)

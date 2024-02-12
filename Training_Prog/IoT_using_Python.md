@@ -5,6 +5,7 @@ aliases:
   - IOT Using Python
 tags:
   - IOT_using_python
+dg-publish: true
 ---
 
 # ❗❓ Info
@@ -83,13 +84,13 @@ gnd - Ground Connection
 ## Application of IoT using Python
 
 ### **Python**
-- Python has a similar suntax to the English Lanugage.
-- It has syntax that allows devlopers to write program with fewer lines.
+- Python has a similar suntax to the English Language.
+- It has syntax that allows developers to write program with fewer lines.
 - It runs on interpereter system.
 - Procedural, Object-Oriented & Procedural.
 -  It is used for:
-	- Web Devlopment (Server Side)
-	- Software Devlopment
+	- Web Development (Server Side)
+	- Software Development
 	- Mathematics
 	- System Scripting
 	- Python can connect to database. It can also read and modify files.

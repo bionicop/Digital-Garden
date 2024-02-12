@@ -64,13 +64,15 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     --frost2: #81a1c1;
     --frost3: #5e81ac;
 
-    --bloddish: hsl(203, 27%, 48%);
-    --bloddish6: hsl(204, 24%, 64%);
+    --bloddish48: hsl(203, 27%, 48%);
+    --bloddish64: hsl(204, 24%, 64%);
 
+    --red53:  hsl(355, 35%, 53%);
     --red:    hsl(352, 56%, 62%);
     --orange: #d08770;
+    --yellow54: hsl(30, 55%, 54%);
     --yellow59: hsl(24, 33%, 59%);
-    --yellow: hsl(27, 49%, 68%);
+    --yellow:   hsl(27, 49%, 68%);
     --yellow75: hsl(19, 38%, 75%);
     --green:  #a3be8c;
     --groddish: hsl(107, 39%, 43%);
@@ -80,6 +82,15 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     --font-title: 'Jomhuria', serif;
     --font-headings: var(--font-default);
     --font-monospace: 'Hack Nerd Font', 'Source Code Pro', monospace;
+}
+
+body {
+    --h1-size: 4.6em;
+    --h2-size: 2.07em;
+    --h3-size: 1.73em;
+    --h4-size: 1.44em;
+    --h5-size: 1.2em;
+    --h6-size: 1.2em;
 }
 
 .theme-dark
@@ -95,7 +106,8 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     --text-title-h2:              var(--orange);
     --text-title-h3:              var(--yellow);
     --text-title-h4:              var(--green);
-    --text-title-h5:              var(--purple);
+    --text-title-h5:              var(--bloddish64);
+    --text-title-h6:              var(--purple);
     --text-link:                  var(--frost0);
     --text-a:                     var(--yellow);
     --text-a-hover:               var(--yellow);
@@ -112,7 +124,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     --inline-code:                var(--frost1);
     --code-block:                 var(--frost1);
     --vim-cursor:                 var(--orange);
-    --text-selection:             var(--dark3);
+    --text-selection:             var(--red53); /* Annoying - affects both Edit and Preview, but Preview has translucency */
     --opacity-translucency:       0.9;
 }
 .theme-light
@@ -174,7 +186,7 @@ strong
 a,
 .cm-hmd-internal-link
 {
-    color: var(--text-a) !important;
+    color: var(--text-a);
     text-decoration: none !important;
 }
 
@@ -182,7 +194,7 @@ a:hover,
 .cm-hmd-internal-link:hover,
 .cm-url
 {
-    color: var(--text-a-hover) !important;
+    color: var(--text-a-hover);
     text-decoration: underline !important;
 }
 
@@ -273,11 +285,10 @@ thead
     padding-top: 0 !important;
 }
 
-.CodeMirror-linenumber,
-.cm-formatting
+.CodeMirror-linenumber
 {
-    font-family: var(--font-monospace) !important;
-    color: var(--frost2) !important;
+    font-family: var(--font-monospace);
+    color: var(--frost2);
 }
 
 .markdown-preview-section pre code,
@@ -426,43 +437,56 @@ thead
     font-weight: 600;
 }
 
+/* @settings
+
+name: Vileplume settings
+id: vileplume-settings
+settings:
+    -
+        id: h1-size
+        title: Title size
+        description: Font size of your level 1 headings (#), in ems
+        type: variable-number
+        default: 3
+        format: em
+
+*/
 
 .cm-header-1.cm-header-1,
 .markdown-preview-section.markdown-preview-section h1
 {
-    font-size: 5em;
-    color: var(--text-title-h1) !important;
+    color: var(--text-title-h1);
     line-height: 0.75;
 }
 
 .cm-header-2,
 .markdown-preview-section h2
 {
-    font-size: 26px !important;
-    color: var(--text-title-h2) !important;
+    color: var(--text-title-h2);
 }
 
 .cm-header-3,
 .markdown-preview-section h3
 {
-    font-size: 22px !important;
-    color: var(--text-title-h3) !important;
+    color: var(--text-title-h3);
 }
 
 .cm-header-4,
 .markdown-preview-section h4
 {
-    font-size: 20px !important;
-    color: var(--text-title-h4) !important;
+    color: var(--text-title-h4);
 }
 
 .cm-header-5,
+.markdown-preview-section h5
+{
+    color: var(--text-title-h5);
+}
+
 .cm-header-6,
-.markdown-preview-section h5,
 .markdown-preview-section h6
 {
-    font-size: 18px !important;
-    color: var(--text-title-h5) !important;
+    color: var(--text-title-h6);
 }
 
 .suggestion-item.is-selected
@@ -515,13 +539,6 @@ input.task-list-item-checkbox:checked {
     fill: var(--frost3) !important;
 }
 
-.heading-collapse-indicator svg {
-    background: url('https://cdn.discordapp.com/attachments/560318304472793114/808721915627307058/lets_go_arrow.png');
-    background-size: contain;
-    width:12px;
-    height: 12px;
-}
-
 
 
 
@@ -529,6 +546,13 @@ input.task-list-item-checkbox:checked {
 /****************************************************************************
     BEGIN - My code! 😀
 ****************************************************************************/
+
+.heading-collapse-indicator svg {
+    background: url('https://cdn.discordapp.com/attachments/560318304472793114/808721915627307058/lets_go_arrow.png');
+    background-size: contain;
+    width:12px;
+    height: 12px;
+}
 
 ::-webkit-scrollbar {
     background-color: transparent;
@@ -552,22 +576,33 @@ input.task-list-item-checkbox:checked {
     justify-content: space-between;
 }
 
-a.tag {
-    white-space: nowrap;
+.cm-hashtag {
+    --tag-color: white;
     background-color: var(--yellow59);
-    color: white !important;
-    padding: 0.2em 0.4em;
-    border-radius: 1em;
-    display: inline-block;
-    transition: transform 0.3s cubic-bezier(0.33, 1, 0.68, 1);
     border: 1px solid rgba(255,255,255,0.3);
-    box-shadow: -10px -10px 30px rgba(255,255,255,0.05), 10px 10px 30px rgba(0,0,0,0.2);
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.2);
+}
+
+.cm-hashtag-begin {
+    border-radius: 1em 0 0;
+}
+.cm-hashtag-end {
+    border-radius: 0 0 1em
+}
+
+a.tag {
+    --tag-color: white;
+    background-color: var(--yellow59);
+    box-shadow: inset 0px 0px 1px rgba(255,255,255,0.5), 10px 10px 30px rgba(0,0,0,0.2);
+    white-space: nowrap;
+    display: inline-block;
 }
 
 a.tag:hover {
-    text-decoration: none !important;
+    color: var(--tag-color);
     background-color: var(--yellow);
-    transform: scale(1.1);
+    transition: transform 0.3s cubic-bezier(0.33, 1, 0.68, 1);
+    text-decoration: none !important;
 }
 
 .dropdown {
@@ -637,7 +672,7 @@ a.tag:hover {
 }
 
 .theme-dark .graph-view.color-fill-unresolved {
-    color: var(--bloddish6);
+    color: var(--bloddish64);
 }
 /* END GRAPH VIEW */
 

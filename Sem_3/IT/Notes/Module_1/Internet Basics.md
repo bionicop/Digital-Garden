@@ -6,6 +6,7 @@ aliases:
 tags:
   - Internet_Technologies
   - M1
+dg-publish: true
 ---
 
 << [Syllabus Module 1](Sem_3/IT/Notes/Module_1/m1_syllabus.md)  | [Client Server Model](Sem_3/IT/Notes/Module_1/Client%20Server%20Model.md) >>
@@ -74,7 +75,7 @@ Tags: #Internet_Technologies
 - It ranges from **128K** to **8 Mbps**.
 
 ### Cable
-- Cable *provides acess* to the internet through ==cable TV lines==.
+- Cable *provides access* to the internet through ==cable TV lines==.
 - There are *different speeds* depending on if you are **uploading data transmissions** or **downloading**.
 - It is a form of *broadband access cable modem* that can provide **extremely fast access** to the internet.
 - It ranges from **512K** to **20 Mb/s**.
@@ -137,7 +138,7 @@ Tags: #Internet_Technologies
 
 ### **CCIT**
 - CCIT *stands for* **Consultative Committee for International Telephony and Telegraphy**.
-- Organization that sets *International commmunication standards* example-
+- Organization that sets *International communication standards* example-
 	- Group 3 - *Universal protocol* for **sending fax** documents ==across telephone lines==.
 	- Group 4 - Over [*ISDN*](#ISDN-Connection) *network*.
 	- V.21 , V.22, V.29 *etc*

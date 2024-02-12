@@ -5,6 +5,7 @@ aliases:
   - Index
 tags:
   - Index
+dg-publish: true
 ---
 # 📕 Index
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Distributed Database System
 
 - ## [Module 1](Notes/Module_1.md)

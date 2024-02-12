@@ -240,7 +240,7 @@ DDA line drawing algorithm:
 
 # Module - III
 
-## **Q27. Write down and explain the midpoint circle drawing algorithm. Assume 10 cm as the radius and co-ordinate as the centre of the circle.**
+## **Q27. Write down and explain the midpoint circle drawing algorithm. Assume 10 cm as the radius and coordinate as the centre of the circle.**
 
 Midpoint circle algorithm:
 - Used to draw circles using just integer additions and subtractions. 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
+                "file": "Sem_3/IT/Notes/Module_3/XML.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "## 📃 Summary of Notes",
+                "query": "[\"dg-publish\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
+                "file": "Sem_3/IT/Notes/Module_3/XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
+                "file": "Sem_3/IT/Notes/Module_3/XML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md"
+                "file": "Sem_3/IT/Notes/Module_3/XML.md"
               }
             }
           },
@@ -157,12 +157,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,39 +174,40 @@
       "random-note:Open random note": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Notion": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "0e4d6ee37d6490e8",
   "lastOpenFiles": [
-    "Sem_6/Distributed_Computing/Notes/Module_1.md",
-    "Sem_6/Distributed_Database_System/Notes/Module_1.md",
-    "Sem_6/Unix_&_Shell_Programming/Notes/Module_1.md",
-    "Sem_6/Data_Mining/Notes/Module_1.md",
-    "Just Something I need to Work on/My_Training_Program.md",
-    "Sem_3/Scilab/Scilab_Index.md",
-    "Sem_3/Java OOPs/Notes/Module_1/Object_Oriented_Programming.md",
-    "Sem_3/IT/Side_Notes/xml.md",
-    "Sem_3/IT/Side_Notes/URI.md",
-    "Sem_3/IT/Side_Notes/type_of_internet_connection.md",
-    "Sem_3/IT/Side_Notes/computer.md",
-    "Sem_3/IT/IT_Index.md",
-    "index.md",
-    "Just Something I need to Work on",
-    "Sem_3/IT/Notes/Module_3/XML.md",
     "Sem_3/IT/Notes/Module_3/m3_syllabus.md",
-    "Sem_3/IT/Notes/Module_1/Internet Basics.md",
     "Sem_3/IT/Notes/Module_1/m1_syllabus.md",
-    "Sem_4/Fundamentals of Computer Algorithms/Notes/Module_1/Fundamentals of Computer Algorithms.md",
-    "Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf",
-    "Sem_3/Scilab/Classes_Notes/Scilab_Cheat_Sheet.md",
-    "Sem_3/Scilab/Classes_Notes/2022-09-09.md",
-    "Sem_3/Scilab/Classes_Notes/2022-09-02.md",
-    "Sem_3/Scilab/Classes_Notes/2022-08-16.md",
-    "Sem_3/Scilab/Classes_Notes/2022-08-12.md",
-    "Sem_3/Java OOPs/Notes/Module_1/Procedure_Oriented_Programming.md",
-    "Sem_3/Java OOPs/Notes/Module_1/java.md",
+    "Sem_3/IT/Notes/Module_1/Internet Basics.md",
     "Sem_3/IT/Notes/Module_1/Client Server Model.md",
+    "Sem_3/DBMS/DBMS_vs_File_Processing_System.md",
+    "Sem_4/Fundamentals of Computer Algorithms/Notes/Module_1/Fundamentals of Computer Algorithms.md",
+    "Sem_4/Fundamentals of Computer Algorithms/m1_syllabus.md",
+    "Sem_4/Web_Programming/Web_Programming_Index.md",
+    "Sem_4/Web_Programming/Side_Notes/sgml.md",
+    "Sem_4/Web_Programming/Classes_Notes/Module_1/xmlSchemaVsDTD.md",
+    "Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md",
+    "Sem_4/Web_Programming/Classes_Notes/Module_1/2023-02-01.md",
+    "Sem_4/Software Engineering/Notes/Module_1/Use Case Diagram.md",
+    "Sem_4/Software Engineering/Notes/Module_1/Software Engineering.md",
+    "Sem_4/Software Engineering/Notes/Module_1/m1_syllabus.md",
+    "Sem_5/Python Programming/QuestionBank/Question-Bank.md",
+    "Sem_5/Python Programming/Introduction to Python.md",
+    "Sem_5/Python Programming/Module-4.md",
+    "Sem_5/Software Testing/Mid-Sem-22.md",
+    "Sem_5/Software Testing/End-Sem-22.md",
+    "Sem_5/Software Testing/Notes/soft-test.md",
+    "Sem_5/Computer Network/QuestionBank/Question-Bank.md",
+    "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md",
+    "Sem_5/Computer Graphics & Multimedia/index.md",
+    "index.md",
+    "Training_Prog/IoT_using_Python.md",
+    "Just Something I need to Work on",
+    "Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf",
     "Unix_&_Shell_Programming/Notes",
     "Unix_&_Shell_Programming",
     "Sem_6/Unix_&_Shell_Programming/Quiz/Unix Quiz 2.pdf",

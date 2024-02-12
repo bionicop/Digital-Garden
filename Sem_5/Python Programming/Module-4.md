@@ -5,6 +5,7 @@ aliases:
   - Tuples, Sets, and Dictionaries
 tags:
   - Python
+dg-publish: true
 ---
 
 << [Name](File_Directory) | [Name](File_Directory) >>
