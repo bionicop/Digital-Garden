@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_3/IT/Notes/Module_3/XML.md",
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_3/IT/Notes/Module_3/XML.md",
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_3/IT/Notes/Module_3/XML.md",
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_3/IT/Notes/Module_3/XML.md"
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "0e4d6ee37d6490e8",
   "lastOpenFiles": [
+    "Sem_3/IT/Notes/Module_3/XML.md",
     "Sem_3/IT/Notes/Module_3/m3_syllabus.md",
     "Sem_3/IT/Notes/Module_1/m1_syllabus.md",
     "Sem_3/IT/Notes/Module_1/Internet Basics.md",
@@ -205,7 +206,6 @@
     "Sem_5/Computer Graphics & Multimedia/Mid-Sem-22.md",
     "Sem_5/Computer Graphics & Multimedia/index.md",
     "index.md",
-    "Training_Prog/IoT_using_Python.md",
     "Just Something I need to Work on",
     "Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf",
     "Unix_&_Shell_Programming/Notes",
