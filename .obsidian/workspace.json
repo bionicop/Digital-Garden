@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6e3b7af16c965d70",
+        "id": "2662733efdd424b4",
         "type": "tabs",
         "children": [
           {
-            "id": "86caea923a4cc896",
+            "id": "0e4d6ee37d6490e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_6/Distributed_Computing/Notes/Module_1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67c5e32ed6f0671c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Just Something I need to Work on/My_Training_Program.md",
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Just Something I need to Work on/My_Training_Program.md",
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Just Something I need to Work on/My_Training_Program.md",
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Just Something I need to Work on/My_Training_Program.md"
+                "file": "Sem_6/Distributed_Database_System/Notes/Module_1.md"
               }
             }
           },
@@ -190,10 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67c5e32ed6f0671c",
+  "active": "0e4d6ee37d6490e8",
   "lastOpenFiles": [
     "Sem_6/Distributed_Computing/Notes/Module_1.md",
+    "Sem_6/Distributed_Database_System/Notes/Module_1.md",
+    "Sem_6/Unix_&_Shell_Programming/Notes/Module_1.md",
     "Sem_6/Data_Mining/Notes/Module_1.md",
+    "Just Something I need to Work on/My_Training_Program.md",
     "Sem_3/Scilab/Scilab_Index.md",
     "Sem_3/Java OOPs/Notes/Module_1/Object_Oriented_Programming.md",
     "Sem_3/IT/Side_Notes/xml.md",
@@ -201,7 +191,6 @@
     "Sem_3/IT/Side_Notes/type_of_internet_connection.md",
     "Sem_3/IT/Side_Notes/computer.md",
     "Sem_3/IT/IT_Index.md",
-    "Just Something I need to Work on/My_Training_Program.md",
     "index.md",
     "Just Something I need to Work on",
     "Sem_3/IT/Notes/Module_3/XML.md",
@@ -218,8 +207,6 @@
     "Sem_3/Java OOPs/Notes/Module_1/Procedure_Oriented_Programming.md",
     "Sem_3/Java OOPs/Notes/Module_1/java.md",
     "Sem_3/IT/Notes/Module_1/Client Server Model.md",
-    "Sem_6/Distributed_Database_System/Notes/Module_1.md",
-    "Sem_6/Distributed_Computing/index.md",
     "Unix_&_Shell_Programming/Notes",
     "Unix_&_Shell_Programming",
     "Sem_6/Unix_&_Shell_Programming/Quiz/Unix Quiz 2.pdf",

@@ -56,7 +56,7 @@ Tags: #DC #M1
 
 ---
 ## Architecture
-- In DC, you design applications that can run on several computers instead of on just one computer.
+- In DC, *you design applications that can run on several computers instead of on just one computer*.
 
 ### Types of Architecture
 ```mermaid
@@ -92,7 +92,7 @@ graph TD
 
 | **Clients** | **Servers** | Benefits and limitations |
 | ---- | ---- | ---- |
-| Clients make requests to the servers, which manage most of the data and other resources. You can make requests to the client, and it communicates with the server on your behalf. | Server computers synchronize and manage access to resources. They respond to client requests with data or status information. Typically, one server can handle requests from several machines. | - Client-server architecture gives the benefits of security and ease of ongoing management. You have only to focus on securing the server computers. Similarly, any changes to the database systems require changes to the server only.<br><br>- The limitation of client-server architecture is that servers can cause communication bottlenecks, especially when several machines make requests simultaneously. |
+| Clients make *requests to the servers*, which *manage most of the data and other resources*. <br><br>You can make requests to the client, and it communicates with the server on your behalf. | Server computers synchronize and manage access to resources. They respond to client requests with data or status information. Typically, one server can handle requests from several machines. | - Client-server architecture gives the benefits of security and ease of ongoing management. You have only to focus on securing the server computers. Similarly, any changes to the database systems require changes to the server only.<br><br>- The limitation of client-server architecture is that servers can cause communication bottlenecks, especially when several machines make requests simultaneously. |
 
 #### Three-Tier Architecture
 - In three-tier distributed systems, client machines remain as the first tier you access. Server machines, on the other hand, are further divided into two categories:
