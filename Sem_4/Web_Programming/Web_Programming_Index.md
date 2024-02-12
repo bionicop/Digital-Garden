@@ -9,12 +9,12 @@ dg-publish: true
 ---
 # 📕 Index
 
-##  #1 - [[Classes_Notes/2022-08-12.md|Day 1]]
+##  #1 - [Day 1](Classes_Notes/2022-08-12.md.md)
 
-##  #2 - [[Classes_Notes/2022-08-16.md|Day 2]]
+##  #2 - [Day 2](Classes_Notes/2022-08-16.md.md)
 
-##  #3 - [[Classes_Notes/2022-09-02.md|Day 3]]
+##  #3 - [Day 3](Classes_Notes/2022-09-02.md.md)
 
-##  #4 - [[Classes_Notes/2022-09-09.md|Day 4]]
+##  #4 - [Day 4](Classes_Notes/2022-09-09.md.md)
 
-##  #5 - [[Classes_Notes/Scilab_Cheat_Sheet.md|Simple Cheat Sheet]]
+##  #5 - [Simple Cheat Sheet](Classes_Notes/Scilab_Cheat_Sheet.md.md)

@@ -25,8 +25,8 @@ dg-publish: true
 	- It's Syntax is based on C++.
 	- Java has removed many complicated features, like explicit pointers.
 2. Automatic Garbage Collector
-	- A programmer usually neglects the destination of uselss objects. These objects then take up unnecessary memory in the [[#Heap|`*Heap*`]], making the available memory insufficient.
-	- Hence, the garbage collector in Java scans the [[#Heap|`*Heap*`]] memory, and deletes them, thus clearing up space in the [[#Heap|`*Heap*`]].
+	- A programmer usually neglects the destination of uselss objects. These objects then take up unnecessary memory in the [`*Heap*`](#Heap), making the available memory insufficient.
+	- Hence, the garbage collector in Java scans the [`*Heap*`](#Heap) memory, and deletes them, thus clearing up space in the [`*Heap*`](#Heap).
 3. Object-Oriented
 	- 
 2. Automatic Garbage Collector

@@ -1,4 +1,4 @@
 ---
 dg-publish: true
 ---
-- ## [[xmlSchemaVsDTD.md.md|xmlSchemaVsDTD]]
+- ## [xmlSchemaVsDTD](xmlSchemaVsDTD.md.md)

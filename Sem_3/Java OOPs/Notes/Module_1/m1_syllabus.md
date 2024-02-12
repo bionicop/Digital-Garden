@@ -11,72 +11,72 @@ dg-publish: true
 ---
 # 📕 Syallbus
 
-##  #1 - [[Sem_3/Java OOPs/Notes/Module_1/Procedure_Oriented_Programming.md.md|Procedure-Oriented Programming]] 
+##  #1 - [Procedure-Oriented Programming](Sem_3/Java%20OOPs/Notes/Module_1/Procedure_Oriented_Programming.md.md) 
 
-## #2 - [[Sem_3/Java OOPs/Notes/Module_1/Object_Oriented_Programming.md.md|Object-Oriented programming]]
-- [[.md|m1_syllabus]]
+## #2 - [Object-Oriented programming](Sem_3/Java%20OOPs/Notes/Module_1/Object_Oriented_Programming.md.md)
+- [m1_syllabus](.md)
     - 
 
-## #3 - [[Sem_3/Java OOPs/Notes/Module_1/java.md.md|What is Java?]]
-- [[.md|m1_syllabus]]
+## #3 - [What is Java?](Sem_3/Java%20OOPs/Notes/Module_1/java.md.md)
+- [m1_syllabus](.md)
     - 
 
 ## #4 - Applications of OOP
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #5 - Basics
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #6 - Evolution of Java
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #7 - Structure of JAVA Program
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #8 - Simple Java Program
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #9 - Tokens
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #10 - Comments
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #11 - Identifiers
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #12 - Operators
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #13 - Literals
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #14 - Control Structures
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #15 - Java Environment Setup
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
 
 ## #16 - Compiling a Java Program
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
  
 ## #17 - Java Virtual Machine
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 
  
 ## #18 - Philosophy of Java and Benefits
-- [[.md|m1_syllabus]]
+- [m1_syllabus](.md)
     - 

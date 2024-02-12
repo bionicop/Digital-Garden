@@ -13,35 +13,35 @@ dg-home: true
 # Content Table:
 
 ## Sem 3
-- ### [[Sem_3/DBMS/DBMS_vs_File_Processing_System.md|DBMS_vs_File_Processing_System]]
-- ### [[Sem_3/IT/IT_Index.md|IT_Index]]
-- ### [[Sem_3/Java OOPs/Java_Index.md|Java OOPs]]
-- ### [[Sem_3/Scilab/Scilab_Index.md|Scilab]]
+- ### [DBMS_vs_File_Processing_System](Sem_3/DBMS/DBMS_vs_File_Processing_System.md)
+- ### [IT_Index](Sem_3/IT/IT_Index.md)
+- ### [Java OOPs](Sem_3/Java%20OOPs/Java_Index.md)
+- ### [Scilab](Sem_3/Scilab/Scilab_Index.md)
 
 ## Sem 4 (⚠️Under Construction🚧)
-- ### [[Sem_4/Software Engineering/Notes/Module_1/m1_syllabus.md|Software Engineering]]
-- ### [[Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md|Web Programming]]
-- ### [[Sem_4/Data_Analytics/Classes_Notes/Module_1/m1_syllabus.md|Data Analytics]]
-- ### [[Sem_4/Fundamentals of Computer Algorithms/m1_syllabus.md|Fundamentals of Computer Algorithms]]
+- ### [Software Engineering](Sem_4/Software Engineering/Notes/Module_1/m1_syllabus.md)
+- ### [Web Programming](Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md)
+- ### [Data Analytics](Sem_4/Data_Analytics/Classes_Notes/Module_1/m1_syllabus.md)
+- ### [Fundamentals of Computer Algorithms](Sem_4/Fundamentals of Computer Algorithms/m1_syllabus.md)
 
 
 ## Sem 5 (⚠️Under Construction🚧)
-- ### [[Sem_5/Computer Graphics & Multimedia/index.md|Computer Graphics & Multimedia]]
-- ### [[Sem_4/Cloud_Computing/Classes_Notes/Module_1/m1_syllabus.md|Cloud Computing]]
-- ### [[Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md|Web Programming]]
-- ### [[Sem_4/Fundamentals of Computer Algorithms/m1_syllabus.md|Fundamentals of Computer Algorithms]]
+- ### [Computer Graphics & Multimedia](Sem_5/Computer%20Graphics%20&%20Multimedia/index.md.md)
+- ### [Cloud Computing](Sem_4/Cloud_Computing/Classes_Notes/Module_1/m1_syllabus.md)
+- ### [Web Programming](Sem_4/Web_Programming/Classes_Notes/Module_1/m1_syllabus.md.md)
+- ### [Fundamentals of Computer Algorithms](Sem_4/Fundamentals%20of%20Computer%20Algorithms/m1_syllabus.md.md)
 
 
 ## Sem 6 (⚠️Under Construction🚧)
-- ### [[Sem_6/Data_Mining/index.md|Data Mining]]
-- ### [[Sem_6/Distributed_Computing/index.md|Distributed Computing]]
-- ### [[Sem_6/Distributed_Database_System/index.md|Distributed Database System]]
-- ### [[Sem_6/Unix_&_Shell_Programming/index.md|Unix & Shell Programming]]
+- ### [Data Mining](Sem_6/Data_Mining/index.md.md)
+- ### [Distributed Computing](Sem_6/Distributed_Computing/index.md.md)
+- ### [Distributed Database System](Sem_6/Distributed_Database_System/index.md.md)
+- ### [Unix & Shell Programming](Sem_6/Unix_&_Shell_Programming/index.md.md)
 
 
 ## CheatSheets (⚠️Under Construction🚧)
-- ### [[template/Obsidian_Cheat_Sheet.md|Obsidian CheatSheet]]
-- ### [[Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf|Scilab]]
+- ### [Obsidian CheatSheet](template/Obsidian_Cheat_Sheet.md.md)
+- ### [Scilab](Sem_3/Scilab/Classes_Notes/Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf)
 
 ## Just Something I need to Work on
-- ### [[Just Something I need to Work on/My_Training_Program.md|my Body]]
+- ### [my Body](Just%20Something%20I%20need%20to%20Work%20on/My_Training_Program.md.md)

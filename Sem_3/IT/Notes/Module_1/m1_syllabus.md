@@ -9,7 +9,7 @@ tags:
 dg-publish: true
 ---
 
- | [[Sem_3/IT/Notes/Module_1/Internet Basics.md.md#Internet-Basics]] >>
+ | [](Sem_3/IT/Notes/Module_1/Internet%20Basics.md.md#Internet-Basics) >>
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -21,6 +21,6 @@ Tags: #Internet_Technologies #M1
 ---
 # 📕 Syallbus
 
-##  #1 - [[Sem_3/IT/Notes/Module_1/Internet Basics.md.md|Internet Basics]]
+##  #1 - [Internet Basics](Sem_3/IT/Notes/Module_1/Internet%20Basics.md.md)
 
-## #2 - [[Sem_3/IT/Notes/Module_1/Client Server Model.md.md|Client Server Model]]
+## #2 - [Client Server Model](Sem_3/IT/Notes/Module_1/Client%20Server%20Model.md.md)

@@ -9,7 +9,7 @@ tags:
 dg-publish: true
 ---
 
-<< [[Sem_6/Distributed_Computing/Notes/Module_2.md.md|Module 2]]  | [[Sem_6/Distributed_Computing/Notes/Module_4.md.md|Module 4]] >>
+<< [Module 2](Sem_6/Distributed_Computing/Notes/Module_2.md.md)  | [Module 4](Sem_6/Distributed_Computing/Notes/Module_4.md.md) >>
 
 # ❗❓ Info
 Course Name: Distributed Computing

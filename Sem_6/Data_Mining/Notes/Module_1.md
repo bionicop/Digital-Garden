@@ -9,7 +9,7 @@ tags:
 dg-publish: true
 ---
 
-<< [[Sem_6/Data_Mining/index.md.md|DM Syllabus]] | [[Sem_6/Data_Mining/Notes/Module_2.md.md|Module 2]] >>
+<< [DM Syllabus](Sem_6/Data_Mining/index.md.md) | [Module 2](Sem_6/Data_Mining/Notes/Module_2.md.md) >>
 
 # ❗❓ Info
 Course Name: Data Mining

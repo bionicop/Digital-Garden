@@ -19,10 +19,10 @@ Tags: #Java
 # 📑 Object-Oriented programming
 
 ## 📃 Topics
--   - [[<#Object-Oriented Programming>]]
-      - [[<#Classes>]]
-      - [[<#Object>]]
-  - [[<#OOPs Concepts in Java>]]
+-   - [](<#Object-Oriented%20Programming>)
+      - [](<#Classes>)
+      - [](<#Object>)
+  - [](<#OOPs%20Concepts%20in%20Java>)
 
 ## Object-Oriented Programming
 - It is a methodology or paradigm to design a program using classes and objects.

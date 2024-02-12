@@ -3,12 +3,12 @@ dg-publish: true
 ---
 # IT
 
-- ## [[Sem_3/IT/Notes/Module_1/m1_syllabus.md.md|Module 1]]
-- ## [[Notes/Module_3/m3_syllabus.md.md|Module 3]]
+- ## [Module 1](Sem_3/IT/Notes/Module_1/m1_syllabus.md.md)
+- ## [Module 3](Notes/Module_3/m3_syllabus.md.md)
 
 ## Side Notes
 
-- [[Side_Notes/computer.md|Computer]] 
-- [[Side_Notes/type_of_internet_connection.md|Type of Internet Connection]]
-- [[Side_Notes/URI.md]]
-- [[Side_Notes/xml.md.md|xml]]
+- [Computer](Side_Notes/computer.md.md) 
+- [Type of Internet Connection](Side_Notes/type_of_internet_connection.md.md)
+- [URI](Side_Notes/URI.md.md)
+- [xml](Side_Notes/xml.md.md)

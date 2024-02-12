@@ -8,9 +8,9 @@ tags:
 dg-publish: true
 ---
 
-| [[Sem_4/Fundamentals of Computer Algorithms/Notes/Module_1/Fundamentals of Computer Algorithms.md.md|2023-01-19_Fundamentals_of_Computer_Algorithms]] >>
+| [2023-01-19_Fundamentals_of_Computer_Algorithms](Sem_4/Fundamentals%20of%20Computer%20Algorithms/Notes/Module_1/Fundamentals%20of%20Computer%20Algorithms.md.md) >>
 
 ---
 # 📕 Syallbus
 
-##  #1 - [[Sem_4/Fundamentals of Computer Algorithms/Notes/Module_1/Fundamentals of Computer Algorithms.md.md|Fundamentals of Computer Algorithms]]
+##  #1 - [Fundamentals of Computer Algorithms](Sem_4/Fundamentals%20of%20Computer%20Algorithms/Notes/Module_1/Fundamentals%20of%20Computer%20Algorithms.md.md)

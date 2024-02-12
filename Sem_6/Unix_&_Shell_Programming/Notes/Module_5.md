@@ -9,7 +9,7 @@ tags:
 dg-publish: true
 ---
 
-<< [[Sem_6/Unix_&_Shell_Programming/Notes/Module_4.md.md|Module 4]]  | 
+<< [Module 4](Sem_6/Unix_&_Shell_Programming/Notes/Module_4.md.md)  | 
 
 # ❗❓ Info
 Course Name: Unix & Shell Programming

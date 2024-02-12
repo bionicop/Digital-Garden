@@ -14,4 +14,4 @@ volume of an sphere - `(4/3)πr^3`
 - set the current graphic figure (window)
 
 
-Use this [[Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf|Cheat Sheet]].
+Use this [Cheat Sheet](Cheat_Sheet/bionicop_scilab_cheat_sheet.pdf).

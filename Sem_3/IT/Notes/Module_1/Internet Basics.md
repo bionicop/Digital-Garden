@@ -9,7 +9,7 @@ tags:
 dg-publish: true
 ---
 
-<< [[Sem_3/IT/Notes/Module_1/m1_syllabus.md.md|Syllabus Module 1]]  | [[Sem_3/IT/Notes/Module_1/Client Server Model.md.md|Client Server Model]] >>
+<< [Syllabus Module 1](Sem_3/IT/Notes/Module_1/m1_syllabus.md.md)  | [Client Server Model](Sem_3/IT/Notes/Module_1/Client Server Model.md.md) >>
 
 # ❗❓ Info
 Course Name: Internet Technologies
@@ -22,38 +22,38 @@ Tags: #Internet_Technologies
 # 📑 Internet Technologies
 
 ## 📃 Topics
-- [[<#Internet Basics>]]
-	- [[<#What is the Internet?>]]
-	- [[<#Types of Internet Connections>]]
-		- [[<#Dial-Up>]]
-		- [[<#DSL>]]
-		- [[<#Cable>]]
-		- [[<#Wireless>]]
-		- [[<#Satellite>]]
-		- [[<#Cellular>]]
-	- [[<#Modem>]]
-		- [[<#iInternal and External Modem>]]
-		- [[<#Characteristics of Modem>]]
-			- [[<#Speed of Transmission>]]
-			- [[<#Modes Supported>]]
-			- [[<#Auto-answer>]]
-			- [[<#Data Compression>]]
-			- [[<#Flash Memory>]]
-			- [[<#Fax Capability>]]
-	- [[<#Standards of Data Communication>]]
-		- [[<#CCIT>]]
-		- [[<#ISDN Connection>]]
-			- [[<#ISDN Configurations>]]
-			- [[<#Types of ISDN>]]
-		- [[<#DSL Connection>]]
-			- [[<#Types of DSL>]]
-	- [[<#Baseband vs Broadband Transmission>]]
+- [Internet Basics](<#Internet Basics>)
+	- [What is the Internet?](<#What is the Internet?>)
+	- [Types of Internet Connections](<#Types of Internet Connections>)
+		- [Dial-Up](<#Dial-Up>)
+		- [](<#DSL>)
+		- [](<#Cable>)
+		- [](<#Wireless>)
+		- [](<#Satellite>)
+		- [](<#Cellular>)
+	- [](<#Modem>)
+		- [](<#iInternal and External Modem>)
+		- [](<#Characteristics of Modem>)
+			- [](<#Speed of Transmission>)
+			- [](<#Modes Supported>)
+			- [](<#Auto-answer>)
+			- [](<#Data Compression>)
+			- [](<#Flash Memory>)
+			- [](<#Fax Capability>)
+	- [](<#Standards of Data Communication>)
+		- [](<#CCIT>)
+		- [](<#ISDN Connection>)
+			- [](<#ISDN Configurations>)
+			- [](<#Types of ISDN>)
+		- [](<#DSL Connection>)
+			- [](<#Types of DSL>)
+	- [](<#Baseband vs Broadband Transmission>)
 
 ---
 # **Internet Basics**
 
 ## **What is the Internet?**
-- The Internet is a vast network that connects [[computer.md.md|computers]] all over the world.
+- The Internet is a vast network that connects [computers](computer.md.md) all over the world.
 - Computers in a network capable of sharing resources (memory, peripherals).
 - Internet is **Decentralized** by *design*.
 - Each Internet computer, called a **host**, is *independent*.
@@ -140,13 +140,13 @@ Tags: #Internet_Technologies
 - CCIT *stands for* **Consultative Committee for International Telephony and Telegraphy**.
 - Organization that sets *International communication standards* example-
 	- Group 3 - *Universal protocol* for **sending fax** documents ==across telephone lines==.
-	- Group 4 - Over [[#ISDN-Connection|*ISDN*]] *network*.
+	- Group 4 - Over [*ISDN*](#ISDN-Connection) *network*.
 	- V.21 , V.22, V.29 *etc*
 
 ### **ISDN Connection**
 - ISDN *stands for* **Integrated Services Digital Network**.
 - ISDN is a *telephone network based infrastructure* that allows the *transmission of* ==voice, video and data simultaneously at a high speed with greater efficiency==.
-- ISDN connection has some [[#ISDN-Configurations|*B-channel*]] (**Bearer-channel**) which are the **main data channel** & [[#ISDN-Configurations|*D-channel*]] (**Delta-channel**) which ==carries control and signaling information==.
+- ISDN connection has some [*B-channel*](#ISDN-Configurations) (**Bearer-channel**) which are the **main data channel** & [*D-channel*](#ISDN-Configurations) (**Delta-channel**) which ==carries control and signaling information==.
 
 #### **ISDN Configurations**
 - ##### _B or Bearer channels:_ The bearer channels are used to *carry the payload data* which may be **voice** and **data**.
@@ -162,7 +162,7 @@ Tags: #Internet_Technologies
 
 ### **DSL Connection**
 - DSL *stands for* **Digital Subscriber Lines**.
-- Similar to [[#ISDN-Connection|*ISDN*]] as both operate over *existing copper lines*.
+- Similar to [*ISDN*](#ISDN-Connection) as both operate over *existing copper lines*.
 
 #### **Types of DSL**
 - #### Symmetric DSL (*SDSL*)
