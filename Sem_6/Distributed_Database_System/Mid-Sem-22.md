@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 # Q1(a) Under what circumstances would you choose Distributed DBMS over parallel DBMS?
+
 | Scenarios                 | DDBMS (Distributed DBMS)                                                                                                                                                                                | PDBMS (Parallel DBMS)                                                                                               |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | Geographical Distribution | Preferred choice when data is geographically distributed and needs to be accessed by users or applications in different locations.                                                                      | Not suitable for such scenarios, as it requires all data and processing to be done on a single machine.             |
