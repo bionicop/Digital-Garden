@@ -2,15 +2,15 @@
 dg-publish: true
 ---
 # Q1(a) Under what circumstances would you choose Distributed DBMS over parallel DBMS?
+| Scenarios                 | DDBMS (Distributed DBMS)                                                                                                                                                                                | PDBMS (Parallel DBMS)                                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Geographical Distribution | Preferred choice when data is geographically distributed and needs to be accessed by users or applications in different locations.                                                                      | Not suitable for such scenarios, as it requires all data and processing to be done on a single machine.             |
+| Scalability               | Designed to scale horizontally by adding more nodes, making it a better choice for applications requiring high scalability.                                                                             | Designed to scale vertically by upgrading the hardware of a single machine.                                         |
+| Fault Tolerance           | Offers better fault tolerance than PDBMS, as it can replicate data across multiple nodes. <br><br>This redundancy ensures that the system keeps working even if one or more nodes fail.                 | May not offer the same level of fault tolerance as DDBMS, as it relies on a single machine for data and processing. |
+| High Availability         | Can provide higher availability as it can continue operating even if some nodes fail.                                                                                                                   | May become unavailable if a single machine fails.                                                                   |
+| Data Locality             | Can store data near the application or user requiring it, reducing latency and network traffic. <br><br>This is particularly important for applications demanding real-time or low-latency data access. | May not offer the same level of data locality as DDBMS, as it relies on a single machine for data storage.          |
+| Complexity                | Can be more complex and challenging to manage than PDBMS.                                                                                                                                               | Generally easier to manage than DDBMS, as it relies on a single machine for data and processing.                    |
 
-| Advantage            | Description                                                                                                         |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Scalability          | Distributed databases can handle large amounts of data and scale horizontally by adding more nodes to the system.   |
-| Fault tolerance      | Data is replicated across multiple nodes, providing high availability and reliability.                              |
-| Improved performance | Queries can be processed in parallel across multiple nodes, improving query performance.                            |
-| Cost-effectiveness   | Distributed databases can run on common hardware, making them cost-effective.                                       |
-| Data distribution    | Data can be distributed across multiple nodes, improving performance and reducing the risk of data loss.            |
-| Disaster recovery    | Data is replicated across multiple nodes, making it easier to recover from a disaster.                              |
 
 # Q1(b) Compare and contrast different parallel Database Architectures?
 
@@ -27,3 +27,4 @@ dg-publish: true
 4. Fault Tolerance: DDS can replicate data across multiple nodes, ensuring system availability even in the event of node failures. This redundancy can also enhance overall system performance by enabling queries to be processed on multiple nodes simultaneously.
 5. Scalability: DDS can scale horizontally by adding more nodes to the system, increasing capacity and performance.
 
+# Q2(b) Discuss in detail the problem areas in Distributed Database Environment?
