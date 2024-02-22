@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem_6/Unix_&_Shell_Programming/Notes/Module_5.md",
+                "file": "Sem_6/Distributed_Database_System/Mid-Sem-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem_6/Unix_&_Shell_Programming/Notes/Module_5.md",
+                "file": "Sem_6/Distributed_Database_System/Mid-Sem-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem_6/Unix_&_Shell_Programming/Notes/Module_5.md",
+                "file": "Sem_6/Distributed_Database_System/Mid-Sem-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem_6/Unix_&_Shell_Programming/Notes/Module_5.md"
+                "file": "Sem_6/Distributed_Database_System/Mid-Sem-22.md"
               }
             }
           },
@@ -181,16 +181,22 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Notion": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "templates:Insert template": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "98c3d4efc94691fe",
   "lastOpenFiles": [
+    "Sem_6/Distributed_Database_System/index.md",
+    "Sem_6/Distributed_Database_System/Mid-Sem-22.md",
+    "Sem_6/Unix_&_Shell_Programming/Notes/Module_5.md",
     "Sem_6/Distributed_Database_System/Notes/Module_5.md",
     "Sem_6/Unix_&_Shell_Programming/Notes/Module_4.md",
     "Sem_6/Distributed_Database_System/Notes/Module_4.md",
@@ -210,13 +216,10 @@
     "Sem_6/Distributed_Computing/Notes/Module_3.md",
     "Sem_6/Distributed_Computing/Notes/Module_4.md",
     "Sem_6/Distributed_Computing/Notes/Module_5.md",
-    "Sem_6/Distributed_Database_System/index.md",
     "index.md",
     "Sem_6/Distributed_Computing/index.md",
     "Training_Prog/IoT_using_Python.md",
     "template/Syllabus.md",
-    "template/Obsidian_Cheat_Sheet.md",
-    "template/Note.md",
     "Sem_6/Unix_&_Shell_Programming/Quiz/Unix Quiz 2.pdf",
     "Attachment/Software_Engineering/Pdf/Online_Banking_System.pdf",
     "Just Something I need to Work on",
