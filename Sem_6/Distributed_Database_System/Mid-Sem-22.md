@@ -25,4 +25,5 @@ dg-publish: true
 2. Load Balancing: DDS can distribute the workload evenly across multiple nodes, preventing any single node from becoming a bottleneck. This ensures efficient resource utilization and optimizes overall system performance.
 3. Data Locality: DDS can store data near the application or user requiring it, reducing latency and network traffic. This is particularly important for applications demanding real-time or low-latency data access.
 4. Fault Tolerance: DDS can replicate data across multiple nodes, ensuring system availability even in the event of node failures. This redundancy can also enhance overall system performance by enabling queries to be processed on multiple nodes simultaneously.
-5. Scalability: DDS can scale horizontally by adding more nodes to the system, increasing capacity and performance. This is crucial for applications requiring substantial data storage and processing power.
+5. Scalability: DDS can scale horizontally by adding more nodes to the system, increasing capacity and performance.
+
