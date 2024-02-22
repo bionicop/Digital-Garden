@@ -1,8 +1,8 @@
 {
-  "githubRepo": "garden_host",
-  "githubToken": "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",
+  "githubRepo": "garden-host",
+  "githubToken": "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",
   "githubUserName": "bionicop",
-  "gardenBaseUrl": "https://bio-digital-garden.vercel.app/",
+  "gardenBaseUrl": "https://garden-host.vercel.app/",
   "prHistory": [],
   "baseTheme": "dark",
   "theme": "{\"name\":\"Yin and Yang\",\"author\":\"Chetachi E.\",\"repo\":\"chetachiezikeuzor/Yin-and-Yang-Theme\",\"screenshot\":\"assets/screenshot.png\",\"modes\":[\"dark\",\"light\"],\"legacy\":true,\"cssUrl\":\"https://raw.githubusercontent.com/chetachiezikeuzor/Yin-and-Yang-Theme/HEAD/obsidian.css\"}",
