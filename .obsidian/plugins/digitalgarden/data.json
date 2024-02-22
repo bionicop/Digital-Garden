@@ -1,8 +1,8 @@
 {
   "githubRepo": "garden-host",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "bionicop",
-  "gardenBaseUrl": "https://bionic-dg.vercel.app/",
+  "gardenBaseUrl": "bionic-dg.vercel.app",
   "prHistory": [],
   "baseTheme": "dark",
   "theme": "{\"name\":\"Yin and Yang\",\"author\":\"Chetachi E.\",\"repo\":\"chetachiezikeuzor/Yin-and-Yang-Theme\",\"screenshot\":\"assets/screenshot.png\",\"modes\":[\"dark\",\"light\"],\"legacy\":true,\"cssUrl\":\"https://raw.githubusercontent.com/chetachiezikeuzor/Yin-and-Yang-Theme/HEAD/obsidian.css\"}",
@@ -29,7 +29,7 @@
   "customFilters": [],
   "contentClassesKey": "dg-content-classes",
   "defaultNoteSettings": {
-    "dgHomeLink": false,
+    "dgHomeLink": true,
     "dgPassFrontmatter": false,
     "dgShowBacklinks": true,
     "dgShowLocalGraph": true,

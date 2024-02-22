@@ -110,7 +110,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -192,7 +192,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "98c3d4efc94691fe",
+  "active": "a4ce9c820ddc62f5",
   "lastOpenFiles": [
     "index.md",
     "Sem_6/Distributed_Database_System/Mid-Sem-22.md",

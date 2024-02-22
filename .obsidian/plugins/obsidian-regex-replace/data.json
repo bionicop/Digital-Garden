@@ -1,8 +1,8 @@
 {
-  "findText": "%20",
-  "replaceText": " ",
+  "findText": "Distributed databases",
+  "replaceText": " DDS",
   "useRegEx": false,
-  "selOnly": false,
+  "selOnly": true,
   "caseInsensitive": false,
   "processLineBreak": false,
   "processTab": false,

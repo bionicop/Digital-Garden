@@ -29,3 +29,30 @@ dg-publish: true
 5. Scalability: DDS can scale horizontally by adding more nodes to the system, increasing capacity and performance.
 
 # Q2(b) Discuss in detail the problem areas in Distributed Database Environment?
+
+| Problem Area               | Description                                                                                                                                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Data Distribution**      | - Uneven distribution of data among nodes can lead to performance issues.<br><br>- Inconsistent distribution strategies may result in skewed workloads, affecting response times.              |
+| **Data Consistency**       | - Ensuring consistency across distributed nodes is challenging.<br><br>- Synchronization delays may lead to data inconsistencies, impacting the reliability of the database system.            |
+| **Transaction Management** | - Coordinating transactions across multiple nodes is complex.<br><br>- Maintaining ACID properties (Atomicity, Consistency, Isolation, Durability) becomes challenging in a distributed setup. |
+| **Network Latency**        | - Communication delays between nodes can affect overall system performance.<br><br>- High latency may lead to slower data retrieval and transaction processing times.                          |
+| **5. Fault Tolerance**     | - Distributed environments are prone to hardware failures and network issues.<br><br>- Implementing effective fault tolerance mechanisms is crucial to ensure system reliability.              |
+| **Security Concerns**      | - Securing data transmission and storage across multiple nodes is challenging.<br><br>- Unauthorized access and data breaches are significant risks in a distributed database environment.     |
+| **Scalability**            | - Ensuring scalability with an increasing number of nodes can be problematic.<br><br>- System design should accommodate growth without compromising performance and responsiveness.            |
+| **Complexity of Queries**  | - Formulating complex queries involving multiple nodes requires careful optimization.<br><br>- Query optimization is essential to minimize resource consumption and enhance efficiency.        |
+| **Data Replication**       | - Balancing data replication for redundancy without introducing inconsistencies is a delicate task.<br><br>- Synchronizing replicated data introduces additional overhead.                     |
+| **Distributed Deadlocks**  | - Coordinating transactions across nodes increases the risk of deadlocks.<br><br>- Detecting and resolving distributed deadlocks requires sophisticated algorithms and protocols.              |
+
+# Q3(a) Differentiate between Federated and Non - Federated Multi - Database System?
+
+| Aspect                              | Federated Multi-Database System                     | Non-Federated Multi-Database System                 |
+|-------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| **Data Independence**               | - High data independence.                           | - Lower data independence, often centralized.      |
+| **Data Distribution**               | - Data distributed across autonomous databases.    | - Data typically stored centrally in one database. |
+| **Control and Autonomy**            | - Autonomous databases retain control.             | - Centralized control by a managing system.         |
+| **Schema Integration**               | - Flexible schema integration.                      | - Requires a uniform schema across databases.       |
+| **Query Processing**                | - Distributed and independent query processing.    | - Centralized query processing for all databases.  |
+| **Scalability**                     | - Generally more scalable with added databases.    | - Scalability may be limited by centralization.     |
+| **Performance**                     | - Potentially better performance with parallelism.| - Performance may be impacted by centralized processing. |
+| **Data Redundancy**                 | - Reduced redundancy through selective sharing.   | - May have higher redundancy due to centralization. |
+| **Complexity**                      | - More complex due to distributed control.        | - Simpler architecture with a single controlling database. |
