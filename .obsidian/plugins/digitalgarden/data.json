@@ -1,6 +1,6 @@
 {
   "githubRepo": "garden_host",
-  "githubToken": "",
+  "githubToken": "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",
   "githubUserName": "bionicop",
   "gardenBaseUrl": "https://bio-digital-garden.vercel.app/",
   "prHistory": [],
