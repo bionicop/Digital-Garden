@@ -4,8 +4,7 @@ dg-publish: true
 ---
 *I will keep updating as I get to know more...* ;)''
 
-### **Strength training:** 
-- I call it "**L:PP**".
+### **Strength training:** *I call it "L:PP"*.
 #### Day 1: Legs
 ```
 1. Squats: 3 sets of 12-15 reps
