@@ -3,10 +3,10 @@ name: Build and Test
 on:
   pull_request:
     branches:
-      - msc-ca
+      - main
   push:
     branches:
-      - msc-ca
+      - main
   workflow_dispatch:
 
 jobs:
@@ -19,17 +19,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@msc-ca
+      - uses: actions/checkout@main
         with:
           fetch-depth: 0
 
       - name: Setup Node
-        uses: actions/setup-node@msc-ca
+        uses: actions/setup-node@main
         with:
           node-version: 20
 
       - name: Cache dependencies
-        uses: actions/cache@msc-ca
+        uses: actions/cache@main
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
@@ -48,22 +48,22 @@ jobs:
         run: npx quartz build --bundleInfo
 
   publish-tag:
-    if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/msc-ca' }}
+    if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/main' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@msc-ca
+      - uses: actions/checkout@main
         with:
           fetch-depth: 0
       - name: Setup Node
-        uses: actions/setup-node@msc-ca
+        uses: actions/setup-node@main
         with:
           node-version: 20
       - name: Get package version
         run: node -p -e '`PACKAGE_VERSION=${require("./package.json").version}`' >> $GITHUB_ENV
       - name: Create release tag
-        uses: pkgdeps/git-tag-action@msc-ca
+        uses: pkgdeps/git-tag-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_repo: ${{ github.repository }}
