@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
         <i>
           <p>
             {i18n(cfg.locale).components.footer.createdWith}{" "}
-            Made with Love :D
+            Love :D
           </p>
         </i>
         <ul>
