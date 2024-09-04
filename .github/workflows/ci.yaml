@@ -3,10 +3,10 @@ name: Build and Test
 on:
   pull_request:
     branches:
-      - v4
+      - msc-ca
   push:
     branches:
-      - v4
+      - msc-ca
   workflow_dispatch:
 
 jobs:
@@ -19,17 +19,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@msc-ca
         with:
           fetch-depth: 0
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@msc-ca
         with:
           node-version: 20
 
       - name: Cache dependencies
-        uses: actions/cache@v4
+        uses: actions/cache@msc-ca
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
@@ -48,16 +48,16 @@ jobs:
         run: npx quartz build --bundleInfo
 
   publish-tag:
-    if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/v4' }}
+    if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/msc-ca' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@msc-ca
         with:
           fetch-depth: 0
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@msc-ca
         with:
           node-version: 20
       - name: Get package version
