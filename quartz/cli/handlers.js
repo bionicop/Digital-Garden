@@ -38,7 +38,7 @@ import {
  */
 export async function handleCreate(argv) {
   console.log()
-  intro(chalk.bgGreen.black(` Quartz v${version} `))
+  intro(chalk.bgGreen.black(` :D`))
   const contentFolder = path.join(cwd, argv.directory)
   let setupStrategy = argv.strategy?.toLowerCase()
   let linkResolutionStrategy = argv.links?.toLowerCase()
@@ -215,7 +215,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
  * @param {*} argv arguments for `build`
  */
 export async function handleBuild(argv) {
-  console.log(chalk.bgGreen.black(`\n Quartz v${version} \n`))
+  console.log(chalk.bgGreen.black(`\n :D \n`))
   const ctx = await esbuild.context({
     entryPoints: [fp],
     outfile: cacheFile,
@@ -437,7 +437,7 @@ export async function handleBuild(argv) {
  */
 export async function handleUpdate(argv) {
   const contentFolder = path.join(cwd, argv.directory)
-  console.log(chalk.bgGreen.black(`\n Quartz v${version} \n`))
+  console.log(chalk.bgGreen.black(`\n :D \n`))
   console.log("Backing up your content")
   execSync(
     `git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git`,
@@ -480,7 +480,7 @@ export async function handleRestore(argv) {
  */
 export async function handleSync(argv) {
   const contentFolder = path.join(cwd, argv.directory)
-  console.log(chalk.bgGreen.black(`\n Quartz v${version} \n`))
+  console.log(chalk.bgGreen.black(`\n :D  \n`))
   console.log("Backing up your content")
 
   if (argv.commit) {
