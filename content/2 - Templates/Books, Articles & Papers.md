@@ -1,11 +1,11 @@
 {{date}} {{time}}
 
-Status:
+Status: 
 
 Tags: 
 
 # {{Title}}
-Author:
+Author: 
 Link: 
 
 
