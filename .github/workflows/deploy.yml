@@ -1,9 +1,9 @@
-name: BiO Digital Garden
+name: Build and Test
  
 on:
   push:
     branches:
-      - main
+      - msc-ca
  
 permissions:
   contents: read
@@ -18,10 +18,10 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@msc-ca
         with:
           fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@main
+      - uses: actions/setup-node@msc-ca
         with:
           node-version: 22
       - name: Install Dependencies
@@ -29,7 +29,7 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@main
+        uses: actions/upload-pages-artifact@msc-ca
         with:
           path: public
  
@@ -42,4 +42,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@main
+        uses: actions/deploy-pages@msc-ca
