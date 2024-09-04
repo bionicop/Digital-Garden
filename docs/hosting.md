@@ -20,7 +20,7 @@ However, if you'd like to publish your site to the world, you need a way to host
 
 | Configuration option   | Value              |
 | ---------------------- | ------------------ |
-| Production branch      | `v4`               |
+| Production branch      | `msc-ca`               |
 | Framework preset       | `None`             |
 | Build command          | `npx quartz build` |
 | Build output directory | `public`           |
@@ -42,7 +42,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - v4
+      - msc-ca
 
 permissions:
   contents: read
@@ -57,10 +57,10 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@msc-ca
         with:
           fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@msc-ca
         with:
           node-version: 22
       - name: Install Dependencies
@@ -81,7 +81,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@msc-ca
 ```
 
 Then:
@@ -198,7 +198,7 @@ cache: # Cache modules in between jobs
 build:
   stage: build
   rules:
-    - if: '$CI_COMMIT_REF_NAME == "v4"'
+    - if: '$CI_COMMIT_REF_NAME == "msc-ca"'
   before_script:
     - hash -r
     - npm ci --cache .npm --prefer-offline
@@ -213,7 +213,7 @@ build:
 pages:
   stage: deploy
   rules:
-    - if: '$CI_COMMIT_REF_NAME == "v4"'
+    - if: '$CI_COMMIT_REF_NAME == "msc-ca"'
   script:
     - echo "Deploying to GitLab Pages..."
   artifacts:
