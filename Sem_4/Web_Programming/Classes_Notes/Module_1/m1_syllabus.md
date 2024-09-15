@@ -1,1 +1,0 @@
-- ## [xmlSchemaVsDTD](xmlSchemaVsDTD)
