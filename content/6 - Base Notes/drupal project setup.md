@@ -1,13 +1,13 @@
 2024-09-14 21:58
 
-Status: #ongoing
+Status: #complete 
 
 Tags: [[how to create a drupal project?]]
 
-# Drupal Project on Real Estate System
+# Setting up our Drupal
 Subject: [[Content Management System]]
 
-But before creating the project, let's first install all the prerequisites and setup our [[Drupal]] before moving onto creating this project. 
+But before creating the project, let's first install all the prerequisites and setup our [[Drupal]].
 ## Prerequisites
 - Choose the software based on your OS and install it:
 	- Windows: [WAMP](https://wampserver.aviatechno.net/)
@@ -57,4 +57,4 @@ Now let's get started for real o.O
 	- **2.6**: :D
 		- ![[drupal-installation_complete.png]]
 
-Now, that we have installed the prerequisites and setup our drupal website let's move on to the next step creating the project :D.
+Now, that we have installed the prerequisites and setup our drupal website let's move on to the next step *[[setting up drupal modules|creating the project]]* :D.
