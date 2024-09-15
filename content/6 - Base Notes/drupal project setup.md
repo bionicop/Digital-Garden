@@ -7,6 +7,7 @@ Tags: [[how to create a drupal project?]]
 # Drupal Project on Real Estate System
 Subject: [[Content Management System]]
 
+But before creating the project, let's first install all the prerequisites and setup our [[Drupal]] before moving onto creating this project. 
 ## Prerequisites
 - Choose the software based on your OS and install it:
 	- Windows: [WAMP](https://wampserver.aviatechno.net/)
@@ -43,9 +44,17 @@ Now let's get started for real o.O
 
 - Step 1: go on your favourite browser O.o and visit `localhost` again but this time with a twist `localhost/YOUR-PROJECT-NAME` (the project name is the one that you gave to the folder present in the `www` folder.)
 - Step 2: then we just need to follow the instructions and install the drupal
-	- 2.1: Choose profile: I went with `Standard`.
+	- **2.1**: Choose profile: I went with `Standard`.
 		- ![[drupal-profile.png]]
-	- 2.2: Choose whatever language you prefer
+	- **2.2**: Choose whatever language you prefer
 		- ![[drupal-language.png]]
-	- 2.3: Choose the database (for me it will be MySQL and `Database name` will be `real_estate_db`, `Database username` for me `adminji`)
+	- **2.3**: Choose the database (for me it will be MySQL and `Database name` will be `real_estate_db`, `Database username` for me `adminji`)
 		- ![[drupal-database_configuration.png]]
+	- **2.4**: Now we wait for Drupal profile to get installed and initialized 
+		- ![[drupal-profile_initialization.png]]
+	- **2.5**: Now you have to input your Website's information, like `Site name`, `e-mail`, `Username` (don't get confused this username is for log in on the Drupal website not the database, that's different.) and off course `Password`, after filling all the details scroll a bit down and proceed by clicking on `Save and continue` button.
+		- ![[drupal-website_Information.png]]
+	- **2.6**: :D
+		- ![[drupal-installation_complete.png]]
+
+Now, that we have installed the prerequisites and setup our drupal website let's move on to the next step creating the project :D.

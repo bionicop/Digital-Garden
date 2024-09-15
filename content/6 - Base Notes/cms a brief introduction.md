@@ -17,7 +17,7 @@ It's a software that is designed to create, manage and modify *digital content* 
 	- Wired
 	- TED Blog, and [*many more*](https://wpclipboard.com/famous-brands-companies-using-wordpress/)...
 
-- **[Drupal](https://drupal.org/)**: Drupal is also a very famous CMS, which is know for it's robust *security and scalability*. It uses modular architecture, meaning it is built upon collection of *independent modules* that allows developers to customize and extend the functionality of their websites easily. Each module can handle specific tasks, enabling users to create everything from simple sites to complex web applications without compromising performance or security. Some companies that are using this CMS for their websites are:
+- **[Drupal](https://drupal.org/)**: [[Drupal]] is also a very famous CMS, which is know for it's robust *security and scalability*. It uses modular architecture, meaning it is built upon collection of *independent modules* that allows developers to customize and extend the functionality of their websites easily. Each module can handle specific tasks, enabling users to create everything from simple sites to complex web applications without compromising performance or security. Some companies that are using this CMS for their websites are:
 	- Tesla
 	- Nokia
 	- Oxford University
