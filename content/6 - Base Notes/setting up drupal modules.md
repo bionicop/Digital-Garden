@@ -27,17 +27,17 @@ Before diving it creating the project let's first setup our important `Modules` 
 Now, let's start downloading the `Modules` required for this Specific Project. For that we have to visit [Modules downloading website](https://www.drupal.org/project/project_module).
 
 these are the `Modules` we will install for now:
-**M1:** [Token](https://www.drupal.org/project/token)
-**M2:** [Pathauto](https://www.drupal.org/project/pathauto)
-**M3:** [ctools](https://www.drupal.org/project/ctools)
-**M4:** [Webform](https://www.drupal.org/project/webform)
-**M5:** [Libraries API](https://www.drupal.org/project/libraries)
-**M6:** [Devel](https://www.drupal.org/project/devel)
-**M7:** [Views](https://www.drupal.org/project/views)
-**M8:** [jQuery Update](https://www.drupal.org/project/jquery_update)
-**M9:** [Entity API](https://www.drupal.org/project/entity)
-**M10**: [Schema](https://www.drupal.org/project/schema)
-**M11:** [Administration menu](https://www.drupal.org/project/admin_menu) *(this is the custom admin toolbar I was talking about that I will be using.)*
+- **M1:** [Token](https://www.drupal.org/project/token)
+- **M2:** [Pathauto](https://www.drupal.org/project/pathauto)
+- **M3:** [ctools](https://www.drupal.org/project/ctools)
+- **M4:** [Webform](https://www.drupal.org/project/webform)
+- **M5:** [Libraries API](https://www.drupal.org/project/libraries)
+- **M6:** [Devel](https://www.drupal.org/project/devel)
+- **M7:** [Views](https://www.drupal.org/project/views)
+- **M8:** [jQuery Update](https://www.drupal.org/project/jquery_update)
+- **M9:** [Entity API](https://www.drupal.org/project/entity)
+- **M10**: [Schema](https://www.drupal.org/project/schema)
+- **M11:** [Administration menu](https://www.drupal.org/project/admin_menu) *(this is the custom admin toolbar I was talking about that I will be using.)*
 
 Download all the modules according to your Drupal version in `tar.gz` format.
 
