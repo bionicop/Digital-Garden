@@ -2,7 +2,7 @@
 
 Status: #complete 
 
-Tags: [[how to create a drupal project?]]
+Tags: [[Creating-drupal-project]]
 
 # Setting up our Drupal
 Subject: [[Content Management System]]

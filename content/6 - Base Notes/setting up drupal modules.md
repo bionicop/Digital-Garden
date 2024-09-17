@@ -2,7 +2,7 @@
 
 Status: #complete 
 
-Tags: [[how to create a drupal project?]], [[what are modules? and how to set them up.]]
+Tags: [[Creating-drupal-project]]
 
 # Drupal: Modules
 Subject: [[Content Management System]]

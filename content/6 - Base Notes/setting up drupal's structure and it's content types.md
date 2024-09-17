@@ -2,11 +2,10 @@
 
 Status: #complete 
 
-Tags: [[how to create a drupal project?]], [[what even is structures in drupal]], [[how and what is content types in drupal]]
+Tags: [[Creating-drupal-project]]
 
 # Drupal: Structure and it's Content Types
 Subject: [[Content Management System]]
-
 # Structures
 Drupal’s **Structure** defines how your website is organized. It has various tools that allow you to manage the layout, functionality, and behaviour of the website.
 
@@ -108,3 +107,5 @@ Now, let's view our Content that we just created (*I have used a dummy data from
 ![[drupal-real_estate_v1.png]]
 
 YaYY **:D** I know it doesn't look beautiful *;-;* we will first focus on implementing all the **FUN***ctuanlities* ;-; not really fun but it is what it is ;-;
+
+Now. Let's move on to setting up our website's User Role and stuff.

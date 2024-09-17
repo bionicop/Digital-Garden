@@ -2,8 +2,6 @@
 
 Status: #complete 
 
-Tags: [[what-is-drupal]]
-
 # Drupal
 Subject: [[Content Management System]]
 
