@@ -3,61 +3,17 @@
 ## 1. [The Golden Triangle](https://www.mermaidchart.com/raw/d81c192e-3ac0-47f7-90f4-cce3cfb7b251?theme=dark&version=v0.1&format=svg)
 
 ```mermaid
-graph TD
-    A[WHY] -->|Purpose| B[HOW]
-    A -->|Motivation| C[WHAT]
-    
-    subgraph Purpose
-        D["Efficient home inventory management"]
-        E["Simplified meal planning"]
-        F["Smart shopping assistance"]
-    end
-    A --> D
-    A --> E
-    A --> F
-
-    subgraph Implementation
-        G["Barcode scanning"]
-        H["Recipe generation"]
-        I["Expiry tracking"]
-    end
-    B --> G
-    B --> H
-    B --> I
-
-    subgraph Requirements
-        J["Inventory management"]
-        K["Recipe suggestions"]
-        L["Shopping list generation"]
-    end
-    C --> J
-    C --> K
-    C --> L
-
-    %% Connecting the Purpose, Implementation, and Requirements
-    B -->|Implementation| C
-    C -->|Requirements| B
-
-```
-
-- **WHY**: This is the core purpose of the app, the motivation behind its creation.
-- **HOW**: Describes the methods and techniques used to achieve the goals.
-- **WHAT**: The tangible results and core functionalities of the app.
-
-## 2. [System Overview](https://www.mermaidchart.com/raw/cf206e7b-1436-4272-a198-cf9bf26b9f56?theme=dark&version=v0.1&format=svg)
-
-```mermaid
+---
+config:
+  theme: neo-dark
+---
 flowchart TB
     A[Brain of our App] 
-
-    %% User Management Subgraph
     subgraph User Management
         direction TB
         B[User Authentication & Database]
         H[User Profiles]
         I[Inventory Records]
-
-        %% User Features Subgraph
         subgraph User Features
             direction LR
             J[Profile Customization]
@@ -66,18 +22,12 @@ flowchart TB
             M[Group Inventory Management]
         end
     end
-
-    %% API Management Subgraph
     subgraph API Management
         direction TB
         C[API]
-        
-        %% Recipe Database Subgraph
         subgraph Recipe Database
             direction TB
             N[Recipe Categories]
-
-            %% Input and Output Details
             subgraph Input & Output
                 direction LR
                 O[Input Ingredients]
@@ -86,13 +36,10 @@ flowchart TB
                 R[Input Servings]
                 S[Output Recipe Suggestions]
             end
-
             T[Recipe Ingredients]
             U[Cooking Instructions]
             V[Nutritional Information]
         end
-        
-        %% Groceries/Product Information Subgraph
         subgraph Groceries/Product Information
             direction LR
             W[Product Categories]
@@ -101,15 +48,11 @@ flowchart TB
             Z[Barcode Data]
         end
     end
-
-    %% Inventory Management Subgraph
     subgraph Inventory Management
         direction TB
         E[Inventory Management]
         F[Low Stock Alerts]
         G[Expiry Dates]
-
-        %% Inventory Features Subgraph
         subgraph Inventory Features
             direction LR
             AA[Track Inventory Levels]
@@ -118,8 +61,6 @@ flowchart TB
             AD[Product History]
         end
     end
-
-    %% Recipe Engine Subgraph
     subgraph Recipe Engine
         direction TB
         AE[Recipe Engine]
@@ -130,8 +71,6 @@ flowchart TB
         AJ[API Integration]
         AK[Data Retrieval]
     end
-
-    %% Barcode Scanning Subgraph
     subgraph Barcode Scanning
         direction TB
         AL[Barcode/QR Scanner]
@@ -139,21 +78,15 @@ flowchart TB
         AN[Integrate with Inventory]
         AO[Product Information Lookup]
     end
-
-    %% Notification System Subgraph
     subgraph Notifications
         direction TB
         AP[Notification System]
-
-        %% General Notifications Subgraph
         subgraph General Notifications
             direction TB
             AQ[Expiry Notifications]
             AR[Low Stock Notifications]
             AS[Daily Reminders]
         end
-
-        %% Recipe Notifications Subgraph
         subgraph Recipe Notifications
             direction TB
             AT[Recipe Suggestions]
@@ -162,27 +95,19 @@ flowchart TB
             AW[Favorite Recipe Updates]
         end
     end
-
-    %% Connections
     A --> B
     A --> C
     A --> E
     A --> AE
     A --> AP
-
-    %% User Management Connections
     B -->|Stores user data| H
     B -->|Stores inventory data| I
     B -->|Customizes user experience| J
     B -->|Saves user preferences| K
     B -->|Allows sharing among users| L
     B -->|Manages group inventories| M
-
-    %% API Management Connections
     C -->|Provides recipe data| N
     C -->|Provides product data| W
-
-    %% Recipe Database Details
     N -->|Takes inputs from| O
     N -->|Takes inputs from| P
     N -->|Takes inputs from| Q
@@ -191,13 +116,9 @@ flowchart TB
     N -->|Contains| T
     N -->|Includes| U
     N -->|Includes| V
-
-    %% Product Information Details
     W -->|Includes| X
     W -->|Includes| Y
     W -->|Includes| Z
-
-    %% Inventory Management Connections
     E -->|Manages| I
     E -->|Tracks| G
     E -->|Monitors| F
@@ -205,8 +126,6 @@ flowchart TB
     E -->|Sorts/Filters| AC
     E -->|Maintains| AD
     E -->|Updates| AA
-
-    %% Recipe Engine Details
     AE -->|Generates| AF
     AE -->|Suggests substitutions| AG
     AE -->|Helps with planning| AH
@@ -215,13 +134,9 @@ flowchart TB
     AE -->|Retrieves data from| AJ
     AJ -->|Fetches data from| C
     AJ -->|Retrieves output from| AK
-
-    %% Barcode/QR Scanner Connections
     AL -->|Scans| AM
     AL -->|Integrates with| AN
     AL -->|Retrieves info from| AO
-
-    %% Notification System Connections
     AP -->|Sends alerts for| AQ
     AP -->|Sends alerts for| AR
     AP -->|Reminds users daily| AS
@@ -232,7 +147,155 @@ flowchart TB
 
 ```
 
-Absolutely! Let’s break down the main screens and components of the app, as well as the admin section where administrators can manage and analyse user data. I’ll present the information in a clear, structured format.
+- **WHY**: This is the core purpose of the app, the motivation behind its creation.
+- **HOW**: Describes the methods and techniques used to achieve the goals.
+- **WHAT**: The tangible results and core functionalities of the app.
+
+## 2. [System Overview](https://www.mermaidchart.com/raw/cf206e7b-1436-4272-a198-cf9bf26b9f56?theme=dark&version=v0.1&format=svg)
+
+```mermaid
+---
+config:
+  theme: neo-dark
+---
+flowchart TB
+    A[Brain of our App] 
+    subgraph User Management
+        direction TB
+        B[User Authentication & Database]
+        H[User Profiles]
+        I[Inventory Records]
+        subgraph User Features
+            direction LR
+            J[Profile Customization]
+            K[User Preferences]
+            L[Community Sharing]
+            M[Group Inventory Management]
+        end
+    end
+    subgraph API Management
+        direction TB
+        C[API]
+        subgraph Recipe Database
+            direction TB
+            N[Recipe Categories]
+            subgraph Input & Output
+                direction LR
+                O[Input Ingredients]
+                P[Input Food Type]
+                Q[Input Time]
+                R[Input Servings]
+                S[Output Recipe Suggestions]
+            end
+            T[Recipe Ingredients]
+            U[Cooking Instructions]
+            V[Nutritional Information]
+        end
+        subgraph Groceries/Product Information
+            direction LR
+            W[Product Categories]
+            X[Product Details]
+            Y[Nutritional Information]
+            Z[Barcode Data]
+        end
+    end
+    subgraph Inventory Management
+        direction TB
+        E[Inventory Management]
+        F[Low Stock Alerts]
+        G[Expiry Dates]
+        subgraph Inventory Features
+            direction LR
+            AA[Track Inventory Levels]
+            AB[Inventory Search]
+            AC[Sort/Filter Options]
+            AD[Product History]
+        end
+    end
+    subgraph Recipe Engine
+        direction TB
+        AE[Recipe Engine]
+        AF[Custom Recipe Generation]
+        AG[Ingredient Substitution Suggestions]
+        AH[Meal Planning]
+        AI[Favorite Recipes]
+        AJ[API Integration]
+        AK[Data Retrieval]
+    end
+    subgraph Barcode Scanning
+        direction TB
+        AL[Barcode/QR Scanner]
+        AM[Scanned Item Data]
+        AN[Integrate with Inventory]
+        AO[Product Information Lookup]
+    end
+    subgraph Notifications
+        direction TB
+        AP[Notification System]
+        subgraph General Notifications
+            direction TB
+            AQ[Expiry Notifications]
+            AR[Low Stock Notifications]
+            AS[Daily Reminders]
+        end
+        subgraph Recipe Notifications
+            direction TB
+            AT[Recipe Suggestions]
+            AU[Community Sharing Alerts]
+            AV[Custom Recipe Reminders]
+            AW[Favorite Recipe Updates]
+        end
+    end
+    A --> B
+    A --> C
+    A --> E
+    A --> AE
+    A --> AP
+    B -->|Stores user data| H
+    B -->|Stores inventory data| I
+    B -->|Customizes user experience| J
+    B -->|Saves user preferences| K
+    B -->|Allows sharing among users| L
+    B -->|Manages group inventories| M
+    C -->|Provides recipe data| N
+    C -->|Provides product data| W
+    N -->|Takes inputs from| O
+    N -->|Takes inputs from| P
+    N -->|Takes inputs from| Q
+    N -->|Takes inputs from| R
+    N -->|Generates| S
+    N -->|Contains| T
+    N -->|Includes| U
+    N -->|Includes| V
+    W -->|Includes| X
+    W -->|Includes| Y
+    W -->|Includes| Z
+    E -->|Manages| I
+    E -->|Tracks| G
+    E -->|Monitors| F
+    E -->|Searches| AB
+    E -->|Sorts/Filters| AC
+    E -->|Maintains| AD
+    E -->|Updates| AA
+    AE -->|Generates| AF
+    AE -->|Suggests substitutions| AG
+    AE -->|Helps with planning| AH
+    AE -->|Saves favorites| AI
+    AE -->|Utilizes ingredients from| I
+    AE -->|Retrieves data from| AJ
+    AJ -->|Fetches data from| C
+    AJ -->|Retrieves output from| AK
+    AL -->|Scans| AM
+    AL -->|Integrates with| AN
+    AL -->|Retrieves info from| AO
+    AP -->|Sends alerts for| AQ
+    AP -->|Sends alerts for| AR
+    AP -->|Reminds users daily| AS
+    AP -->|Provides suggestions for| AT
+    AP -->|Shares community updates| AU
+    AP -->|Sends custom recipe reminders| AV
+    AP -->|Updates on favorite recipes| AW
+```
 
 ## 3. Main Screens and Components
 
