@@ -9,3 +9,6 @@ dg-home: true
 - Well let's just keep that secret shall we 😶‍🌫️;)
 - *Why you ask?* hmmm well to learn and enjoy the learning and _not forget what I learned lol_ & maybe share to those who in need feel free to ***SHOUT*** at me for writing *soMeThIn* wrong cause I am not so good at this *hehehe''.* 
 - Hope you like it enjoy *:D*
+
+# Projects
+## [[brainstorming|EcoBytes]]
