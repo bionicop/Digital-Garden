@@ -1,8 +1,12 @@
-Here's a **systematic cheat sheet in table format**, along with the specific solutions to your assignments as patterns below. The table summarizes patterns in list manipulations, dictionaries, strings, sets, and functions, which can be used in various scenarios by changing or adjusting the input slightly.
+2025-06-10 12:35
 
----
+Status: #complete 
 
-## **Python Cheat Sheet - Key Patterns and Syntax**
+Tags: #python-cheatsheet #python #programming-basics 
+
+# python cheatsheet
+Subject: [[Introduction to Python]]
+# **Python Cheat Sheet - Key Patterns and Syntax**
 
 | **Category**               | **Task**                             | **Syntax / Example**                                                           | **Explanation**                                                     |
 | -------------------------- | ------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------- |

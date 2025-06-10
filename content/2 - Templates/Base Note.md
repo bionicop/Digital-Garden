@@ -6,7 +6,6 @@ Tags:
 
 # {{Title}}
 Subject: 
-Topic: 
 
 
 

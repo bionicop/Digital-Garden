@@ -2,7 +2,7 @@
 
 Status: #ongoing
 
-Tags: [[What-is-algorithm]]
+Tags: #What-is-algorithm
 
 # Algorithm Basics
 Subject: [[Design and Analysis of Algorithms]]

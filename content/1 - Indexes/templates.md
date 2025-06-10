@@ -2,5 +2,6 @@
 
 # templates
 [[Base Note]]
+[[Index Note]]
 [[Books, Articles & Papers]]
 [[Video & Podcasts]]

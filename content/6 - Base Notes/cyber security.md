@@ -26,9 +26,9 @@ graph TD
 
 > 📝 **Exam Tip**: Be prepared to explain each component of the CIA triad with a real-world example, preferably in an Indian context.
 
-### 1.2 Threat Modeling
+### 1.2 Threat Modelling
 
-Threat modeling is a proactive approach to identifying potential security risks:
+Threat modelling is a proactive approach to identifying potential security risks:
 
 ```mermaid
 graph LR
@@ -40,7 +40,7 @@ graph LR
     F --> A
 ```
 
-> 💡 **Real-world Application**: Consider how CERT-In (Indian Computer Emergency Response Team) might use threat modeling to protect critical infrastructure.
+> 💡 **Real-world Application**: Consider how CERT-In (Indian Computer Emergency Response Team) might use threat modelling to protect critical infrastructure.
 
 ### 1.3 Cyber Attack Trends
 
