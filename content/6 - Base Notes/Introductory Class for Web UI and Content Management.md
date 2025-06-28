@@ -35,7 +35,7 @@ The web operates on a **client-server model**, which involves two main component
 # UI/UX Design Principles
 - Before we build, we must understand the user. User Interface (UI) and User Experience (UX) are critical to a project's success.
 
-> [!fun fact]
+> [!fun-Fact]
 > - Historically **UI** was called Human-Computer Interaction(HCI).
 
 ## UI vs. UX
@@ -69,7 +69,7 @@ Analog clock vs digital clock, which is more alarming for ex you need to catch a
 #### Perceived Complexity:
 - How difficult the user _feels_ the interface is, regardless of its actual complexity. The goal is to minimize perceived complexity.
 
-> [![Larry Tesler's Law of conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity)]
+> [![Larry-Tesler's-Law-of-conservation-of-Complexity]
 > Suggests every single system WILL have certain amount of **inherent complexity**, that *cannot be reduced*, It can only be _shifted_.
 
 ### Principles for Simplicity
@@ -210,7 +210,7 @@ apart from other existing types `text`, `password`, `submit`, `reset`, `radio`, 
 - A programming language and core technical of the world wide web alongside the HTML and CSS.
 - JavaScript can provide interaction and manipulation with the HTML DOM(Document Object Model).
 
-> [!Fun Fact]
+> [!Fun-Fact]
 > JavaScript**≠**Java 🤭
 
 - **Variables:** var myName = "Dexter";
