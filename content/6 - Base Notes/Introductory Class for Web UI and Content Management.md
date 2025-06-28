@@ -69,7 +69,7 @@ Analog clock vs digital clock, which is more alarming for ex you need to catch a
 #### Perceived Complexity:
 - How difficult the user _feels_ the interface is, regardless of its actual complexity. The goal is to minimize perceived complexity.
 
-> [![Larry-Tesler's-Law-of-conservation-of-Complexity]
+> [!"Larry Tesler's Law of conservation of Complexity"]
 > Suggests every single system WILL have certain amount of **inherent complexity**, that *cannot be reduced*, It can only be _shifted_.
 
 ### Principles for Simplicity
@@ -210,7 +210,7 @@ apart from other existing types `text`, `password`, `submit`, `reset`, `radio`, 
 - A programming language and core technical of the world wide web alongside the HTML and CSS.
 - JavaScript can provide interaction and manipulation with the HTML DOM(Document Object Model).
 
-> [!Fun-Fact]
+> [!"Fun-Fact"]
 > JavaScript**≠**Java 🤭
 
 - **Variables:** var myName = "Dexter";
@@ -398,7 +398,7 @@ do {
 	- Using a JavaScript function; by creating a `XMLHttpRequest` Object.
 		- Send a request to web-server with select value.
 
-> [!:O]
+> [!Fun-Fact]
 > XMLHttpRewquest is maintained by WHATWG same people who is working on HTML5.
 
 ### Key Properties:
