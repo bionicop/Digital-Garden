@@ -10,7 +10,7 @@ Subject: [[Fundamentals of Computer Networking]]
 Welcome to the foundation of our networking journey! In this section, we'll explore the core concepts that make the Internet tick.
 ## 🕸️ What is the Internet?
 
-**The Internet** is like a **spider weaving its web**. Just as the spider spins an intricate complex silk strands to create an **interconnected web**, Internet is built upon **linking networks** together. Each **thread** in the web represents some kind of  **data connection** that ties devices, websites, and services into a vast complex network. These connections like the spider's web form a **hierarchical structure**, allowing information to flow between **nodes** (devices) efficiently, capturing and delivering **data** just as the spider’s web captures its prey, only thing is spider get's the final product every time unless someone else comes and snatches it, but in Internet it's always, one door to another like a delivery guy.
+**The Internet** is like a **spider weaving its web**. Just as the spider spins an intricate complex silk strands to create an **interconnected web**, Internet is built upon **linking networks** together. Each **thread** in the web represents some kind of  **data connection** that ties devices, websites, and services into a vast complex network. These connections like the spider's web form a **hierarchical structure**, allowing information to flow between **nodes** (devices) efficiently, capturing and delivering **data** just as the spider’s web captures its prey, only thing is spider get's the final product every time unless someone else comes and snatches it, but in Internet it's always, one door to another like a delivery guy. ^bf6c1c
 
 - No one **rules the Internet**—it’s a **decentralized system**. There’s no single guy at the top who is controlling all the data you see. _Why, you may ask?_ Because, just like the **Universe**, the web keeps **expanding every second**, it’s simply not feasible for any **one person or organization** to manage it all; **tons of data** are being uploaded and transferred across the web every moment.
 - THO, the Internet operates using **standardized communication protocols**, which act like a **universal language**. Just as the language that you and me speak-write which allow us to communicate/understand our thoughts, just like that these protocols allows data to be transferred reliably between **millions of systems around the world**, *even without centralized control*.
@@ -18,7 +18,7 @@ Welcome to the foundation of our networking journey! In this section, we'll expl
 
 ## 📡 The Network Edge
 
-This is where **all the action happens**—it's the point where our devices connect to a larger network. Think of it as your phone or any device reaching out to join the digital world, just like stepping out of your house to meet your neighbours' next door. 
+This is where **all the action happens**—it's the point where our devices connect to a larger network. Think of it as your phone or any device reaching out to join the digital world, just like stepping out of your house to meet your neighbours' next door.  ^3b55a3
 
 ### Access Networks
 
@@ -66,11 +66,4 @@ graph TD;
 					- They have a *larger diameter*, taking up more space in conduit.
 					- They have an *outer covering/ shield* that functions as a ground to further reduce electromagnetic and radio frequency interference. This makes them suitable for electrically noisy business environments, such as those with heavy machinery or high-voltage equipment where EMI is a significant concern.
 		2. **Coaxial Cable**:
-			- 
 		3. **Fiber-Optic Cable**:
-
-```
-why twisted cable have the types?
-
-
-```

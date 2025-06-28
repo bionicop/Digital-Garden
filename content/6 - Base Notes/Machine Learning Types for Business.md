@@ -121,3 +121,93 @@ flowchart TD
 - It only exists hypothetically \*YET\*.
 - Such system understands they are internal traits states, conditions and perceive human emotions.
 - This type of AI will not only be able to understand and evoke emotions in those they interact with, but also have emotions, needs, and believes of their own. 
+
+---
+
+# Components of AI
+- Learning
+- Reasoning
+- Problem Solving
+	1. The AI ability of problem solving comprises data where solution needs to find "x".
+	2. The different methods of problem solving count for essential components of intelligence that divides the query into special, general purpose.
+- Perception Ability
+	1. The elements scans any given environment by using different sense organs either artificial or real.
+	2. Further the proses is maintained internally and allow the perceiver to analyze other areas of suggested objects and understand their relationship and features.
+- Language Understanding
+	1. It can defined as a set of different symbol signs that justify their meaning using convention.
+	2. It uses distinctive types of language over different forms of natural meaning  
+
+# Inductive vs Deductive
+## inductive
+- All mammals have backbones
+- Humans are mammals
+**Conclusion**: humans have backbones.
+
+## deductive
+- Every dog I meant is friendly
+**Hypothesis**: "Most dogs are usually friendly"
+
+# AI/ML Workflow
+
+Data Preparation -> Model Training -> Model Evaluation and Iteration -> Model Deployment -> Model Monitoring -> and back to Data Preparation (it's like an iterative process.)  
+
+Step 1: Data Collection
+- In this step we gather the data. This could be anything from pictures and text to more complex data like human behavior.
+Step 2: Data Preparation
+- Once the data is collected it needs to prepared and cleaned. This means removing any irrelevant information and converting the data into a format that the AI system can understand.
+Step 3: Choosing an Algorithm
+- The AI system uses algorithm to process the data. There are special algorithm for image recognition, natural language processing, etc.
+Step 4: Training the Model
+- The prepared data is fed in the chosen algorithm to train the AI model during this phase the model learns to make predictions or decision based on the data.
+Step 5: Testing the Model
+- After training the model is tested to see, how well it performs. If it isn't accurate enough it may be need to trained further.
+Step 6: Deployment
+- Once the model is trained and tested it's ready to be deployed into a real world application.
+Step 7: Ongoing Learning
+- Many model AI system have the ability to learn and adapt overtime. This means they can improve their performance as they gather more data. Msking them mroe effecient and accurate.
+
+`This is a book. It is brown.`
+
+1. "This is a book." and "It is brown." **SEGMENTAION**
+2. "This", "is", "a", "book.", "and", "It", "is", "brown." **TOKENIZATION**
+3. "book", "brown" **STOPWORDS**
+
+## Tool Practice
+```python
+import nltk # nltk: Natural Language Tool Kit
+from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.corpus import stopwords
+
+nltk.download('punkt') # punkt: PUnctuation and KNowledge-based Tokenizer
+nltk.download('punkt_tab')
+
+str = "Pune is a city. It is in the West."
+
+sentences = sent_tokenize(str)
+print("Sentence:", sentences)
+
+words = word_tokenize(str)
+print("Words:", words)
+
+
+# Lemmatizer with wordnet
+from nltk.stem import WordNetLemmatizer
+nltk.download('wordnet')
+
+
+lemmatizer = WordNetLemmatizer()
+lemmatized_words = [lemmatizer.lemmatize(word) for word in words]
+
+print(lemmatized_words)
+
+
+# Sentiment Intensity Analyzer 
+from nltk.sentiment import SentimentIntensityAnalyzer
+nltk.download('vader_lexicon')
+
+analyzer = SentimentIntensityAnalyzer()
+sentiment_scores = analyzer.polarity_scores("word")
+
+print(sentiment_scores)
+```
+
